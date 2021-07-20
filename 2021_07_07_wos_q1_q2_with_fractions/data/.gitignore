@@ -1,1 +1,4 @@
-*
+wos/*
+*.csv
+!conferences.csv
+!itmo-names.csv
