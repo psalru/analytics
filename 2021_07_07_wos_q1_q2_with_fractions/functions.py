@@ -60,15 +60,26 @@ def get_my_affiliation_data(string: str, affiliation_list: list):
     return result
 
 
-def get_faction(row):
+def get_faction(row: dict):
     author_count = row['authors_count']
     one_faction = 1/author_count
     result = 0
 
-    if len(row['my_affiliation']) > 0:
-        for affiliation_count in row['my_affiliation']['count_affiliations_by_author'].values():
+    if len(row['my_affiliation_data']) > 0:
+        for affiliation_count in row['my_affiliation_data']['count_affiliations_by_author'].values():
             result += one_faction / affiliation_count
     else:
         result = 0
 
     return result
+
+
+def is_good_conf(title: str, conferences: list):
+    abbrs = re.findall('\(\w*\)', title)
+
+    if len(abbrs) > 0:
+        abbr = abbrs[0].replace('(', '').replace(')', '')
+
+        return abbr in conferences
+    else:
+        return False

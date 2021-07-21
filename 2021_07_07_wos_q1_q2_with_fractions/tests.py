@@ -21,6 +21,8 @@ class TestingFunctions(unittest.TestCase):
 
     affiliation_list = ['u_one', 'u_two']
 
+    conferences_list = ['c_1', 'c_2', 'c_3']
+
     def test_get_magic_string(self):
         self.assertEqual(get_magic_string('ITMO UNIVERSITY'), 'itmouniversity')
         self.assertEqual(get_magic_string('a;P_9df*q23U&%4fns8#fHa'), 'apdfqufnsfha')
@@ -102,16 +104,23 @@ class TestingFunctions(unittest.TestCase):
     def test_get_faction(self):
         self.assertEqual(get_faction({
             'authors_count': 3,
-            'my_affiliation': get_my_affiliation_data(self.affiliation_string_variants[0], self.affiliation_list)
+            'my_affiliation_data': get_my_affiliation_data(self.affiliation_string_variants[0], self.affiliation_list)
         }), 0.8333333333333333)
         self.assertEqual(get_faction({
             'authors_count': 4,
-            'my_affiliation': get_my_affiliation_data(self.affiliation_string_variants[1], self.affiliation_list)
+            'my_affiliation_data': get_my_affiliation_data(self.affiliation_string_variants[1], self.affiliation_list)
         }), 0.625)
         self.assertEqual(get_faction({
             'authors_count': 4,
-            'my_affiliation': get_my_affiliation_data(self.affiliation_string_variants[2], self.affiliation_list)
+            'my_affiliation_data': get_my_affiliation_data(self.affiliation_string_variants[2], self.affiliation_list)
         }), 1)
+
+    def test_is_good_conf(self):
+        self.assertEqual(is_good_conf('Bla-bla-bla (c_1)', self.conferences_list), True)
+        self.assertEqual(is_good_conf('Bla-bla-bla (c_2) bla-bla-bla', self.conferences_list), True)
+        self.assertEqual(is_good_conf('(c_3) Bla-bla-bla', self.conferences_list), True)
+        self.assertEqual(is_good_conf('Bla-bla-bla', self.conferences_list), False)
+        self.assertEqual(is_good_conf('Bla-bla-bla (c_4)', self.conferences_list), False)
 
 
 if __name__ == '__main__':
