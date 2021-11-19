@@ -1,0 +1,209 @@
+[
+  {
+    "url": "https://www.sibsau.ru/",
+    "technologies": [
+      {
+        "slug": "less",
+        "name": "Less",
+        "versions": [],
+        "trafficRank": 20,
+        "confirmedAt": 1635568364,
+        "categories": [
+          {
+            "id": 19,
+            "slug": "miscellaneous",
+            "name": "Miscellaneous"
+          }
+        ]
+      },
+      {
+        "slug": "node-js",
+        "name": "Node.js",
+        "versions": [],
+        "trafficRank": 20,
+        "confirmedAt": 1635568363,
+        "categories": [
+          {
+            "id": 27,
+            "slug": "programming-languages",
+            "name": "Programming languages"
+          }
+        ]
+      },
+      {
+        "slug": "postgresql",
+        "name": "PostgreSQL",
+        "versions": [],
+        "trafficRank": 20,
+        "confirmedAt": 1635568364,
+        "categories": [
+          {
+            "id": 34,
+            "slug": "databases",
+            "name": "Databases"
+          }
+        ]
+      },
+      {
+        "slug": "python",
+        "name": "Python",
+        "versions": [],
+        "trafficRank": 20,
+        "confirmedAt": 1635568364,
+        "categories": [
+          {
+            "id": 27,
+            "slug": "programming-languages",
+            "name": "Programming languages"
+          }
+        ]
+      },
+      {
+        "slug": "odoo",
+        "name": "Odoo",
+        "versions": [],
+        "trafficRank": 20,
+        "confirmedAt": 1635568363,
+        "categories": [
+          {
+            "id": 1,
+            "slug": "cms",
+            "name": "CMS"
+          },
+          {
+            "id": 6,
+            "slug": "ecommerce",
+            "name": "Ecommerce"
+          }
+        ]
+      },
+      {
+        "slug": "vk-pixel",
+        "name": "VK Pixel",
+        "versions": [],
+        "trafficRank": 20,
+        "confirmedAt": 1635568364,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "moment-js",
+        "name": "Moment.js",
+        "versions": [
+          "2.8.1"
+        ],
+        "trafficRank": 23,
+        "confirmedAt": 1635568364,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "jquery",
+        "name": "jQuery",
+        "versions": [
+          "1.11.1"
+        ],
+        "trafficRank": 23,
+        "confirmedAt": 1635568364,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "bootstrap",
+        "name": "Bootstrap",
+        "versions": [
+          "3.3.4"
+        ],
+        "trafficRank": 23,
+        "confirmedAt": 1635568364,
+        "categories": [
+          {
+            "id": 66,
+            "slug": "ui-frameworks",
+            "name": "UI frameworks"
+          }
+        ]
+      },
+      {
+        "slug": "jquery-ui",
+        "name": "jQuery UI",
+        "versions": [
+          "1.11.2"
+        ],
+        "trafficRank": 23,
+        "confirmedAt": 1635568364,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "select2",
+        "name": "Select2",
+        "versions": [],
+        "trafficRank": 23,
+        "confirmedAt": 1635568364,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "google-analytics",
+        "name": "Google Analytics",
+        "versions": [],
+        "trafficRank": 23,
+        "confirmedAt": 1635568364,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "nginx",
+        "name": "Nginx",
+        "versions": [
+          "1.6.2"
+        ],
+        "trafficRank": 100,
+        "confirmedAt": 1636380697,
+        "categories": [
+          {
+            "id": 22,
+            "slug": "web-servers",
+            "name": "Web servers"
+          },
+          {
+            "id": 64,
+            "slug": "reverse-proxies",
+            "name": "Reverse proxies"
+          }
+        ]
+      }
+    ]
+  }
+]

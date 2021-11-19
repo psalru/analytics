@@ -1,0 +1,113 @@
+[
+  {
+    "url": "https://new.guap.ru/",
+    "technologies": [
+      {
+        "slug": "jquery",
+        "name": "jQuery",
+        "versions": [
+          "3.1.1"
+        ],
+        "trafficRank": 65,
+        "confirmedAt": 1635580241,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "yandex-metrika",
+        "name": "Yandex.Metrika",
+        "versions": [],
+        "trafficRank": 65,
+        "confirmedAt": 1635580241,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "microsoft-asp-net",
+        "name": "Microsoft ASP.NET",
+        "versions": [
+          "4.0.30319"
+        ],
+        "trafficRank": 65,
+        "confirmedAt": 1635580241,
+        "categories": [
+          {
+            "id": 18,
+            "slug": "web-frameworks",
+            "name": "Web frameworks"
+          }
+        ]
+      },
+      {
+        "slug": "iis",
+        "name": "IIS",
+        "versions": [
+          "10.0"
+        ],
+        "trafficRank": 65,
+        "confirmedAt": 1635580241,
+        "categories": [
+          {
+            "id": 22,
+            "slug": "web-servers",
+            "name": "Web servers"
+          }
+        ]
+      },
+      {
+        "slug": "swiper-slider",
+        "name": "Swiper Slider",
+        "versions": [],
+        "trafficRank": 65,
+        "confirmedAt": 1635580241,
+        "categories": [
+          {
+            "id": 19,
+            "slug": "miscellaneous",
+            "name": "Miscellaneous"
+          }
+        ]
+      },
+      {
+        "slug": "bootstrap",
+        "name": "Bootstrap",
+        "versions": [
+          "3.3.7"
+        ],
+        "trafficRank": 65,
+        "confirmedAt": 1635580241,
+        "categories": [
+          {
+            "id": 66,
+            "slug": "ui-frameworks",
+            "name": "UI frameworks"
+          }
+        ]
+      },
+      {
+        "slug": "windows-server",
+        "name": "Windows Server",
+        "versions": [],
+        "trafficRank": 65,
+        "confirmedAt": 1635580241,
+        "categories": [
+          {
+            "id": 28,
+            "slug": "operating-systems",
+            "name": "Operating systems"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,318 @@
+[
+  {
+    "url": "https://www.hse.ru/",
+    "technologies": [
+      {
+        "slug": "sectigo",
+        "name": "Sectigo",
+        "versions": [],
+        "trafficRank": 0,
+        "confirmedAt": 1637041241,
+        "categories": [
+          {
+            "id": 70,
+            "slug": "ssl-tls-certificate-authorities",
+            "name": "SSL/TLS certificate authorities"
+          }
+        ]
+      },
+      {
+        "slug": "salesforce",
+        "name": "Salesforce",
+        "versions": [],
+        "trafficRank": 0,
+        "confirmedAt": 1637041241,
+        "categories": [
+          {
+            "id": 53,
+            "slug": "crm",
+            "name": "CRM"
+          }
+        ]
+      },
+      {
+        "slug": "amazon-web-services",
+        "name": "Amazon Web Services",
+        "versions": [],
+        "trafficRank": 0,
+        "confirmedAt": 1637041241,
+        "categories": [
+          {
+            "id": 62,
+            "slug": "paas",
+            "name": "PaaS"
+          }
+        ]
+      },
+      {
+        "slug": "amazon-ses",
+        "name": "Amazon SES",
+        "versions": [],
+        "trafficRank": 0,
+        "confirmedAt": 1637041241,
+        "categories": [
+          {
+            "id": 75,
+            "slug": "email",
+            "name": "Email"
+          }
+        ]
+      },
+      {
+        "slug": "zendesk",
+        "name": "Zendesk",
+        "versions": [],
+        "trafficRank": 0,
+        "confirmedAt": 1637041241,
+        "categories": [
+          {
+            "id": 4,
+            "slug": "documentation",
+            "name": "Documentation"
+          },
+          {
+            "id": 13,
+            "slug": "issue-trackers",
+            "name": "Issue trackers"
+          },
+          {
+            "id": 52,
+            "slug": "live-chat",
+            "name": "Live chat"
+          }
+        ]
+      },
+      {
+        "slug": "cdnjs",
+        "name": "cdnjs",
+        "versions": [],
+        "trafficRank": 6,
+        "confirmedAt": 1637041241,
+        "categories": [
+          {
+            "id": 31,
+            "slug": "cdn",
+            "name": "CDN"
+          }
+        ]
+      },
+      {
+        "slug": "moment-js",
+        "name": "Moment.js",
+        "versions": [
+          "2.17.1"
+        ],
+        "trafficRank": 1995,
+        "confirmedAt": 1635622731,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "core-js",
+        "name": "core-js",
+        "versions": [
+          "2.5.7",
+          "2.6.12",
+          "3.0.0",
+          "3.2.1",
+          "3.18.3"
+        ],
+        "trafficRank": 2499,
+        "confirmedAt": 1635657656,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "google-optimize",
+        "name": "Google Optimize",
+        "versions": [],
+        "trafficRank": 3011,
+        "confirmedAt": 1635657656,
+        "categories": [
+          {
+            "id": 74,
+            "slug": "a-b-testing",
+            "name": "A/B Testing"
+          }
+        ]
+      },
+      {
+        "slug": "underscore-js",
+        "name": "Underscore.js",
+        "versions": [
+          "1.8.3"
+        ],
+        "trafficRank": 3103,
+        "confirmedAt": 1635713900,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "facebook",
+        "name": "Facebook",
+        "versions": [],
+        "trafficRank": 3180,
+        "confirmedAt": 1635713900,
+        "categories": [
+          {
+            "id": 5,
+            "slug": "widgets",
+            "name": "Widgets"
+          }
+        ]
+      },
+      {
+        "slug": "vk-pixel",
+        "name": "VK Pixel",
+        "versions": [],
+        "trafficRank": 3180,
+        "confirmedAt": 1635713900,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "facebook-pixel",
+        "name": "Facebook Pixel",
+        "versions": [
+          "2.9.47",
+          "2.9.48"
+        ],
+        "trafficRank": 3405,
+        "confirmedAt": 1635713900,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "google-analytics",
+        "name": "Google Analytics",
+        "versions": [],
+        "trafficRank": 3626,
+        "confirmedAt": 1635713900,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "yandex-metrika",
+        "name": "Yandex.Metrika",
+        "versions": [],
+        "trafficRank": 3709,
+        "confirmedAt": 1635713900,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "modernizr",
+        "name": "Modernizr",
+        "versions": [
+          "2.7.1"
+        ],
+        "trafficRank": 3954,
+        "confirmedAt": 1635713900,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "owl-carousel",
+        "name": "OWL Carousel",
+        "versions": [],
+        "trafficRank": 3959,
+        "confirmedAt": 1635713900,
+        "categories": [
+          {
+            "id": 5,
+            "slug": "widgets",
+            "name": "Widgets"
+          }
+        ]
+      },
+      {
+        "slug": "jquery-ui",
+        "name": "jQuery UI",
+        "versions": [
+          "1.10.3"
+        ],
+        "trafficRank": 3979,
+        "confirmedAt": 1635713900,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "google-tag-manager",
+        "name": "Google Tag Manager",
+        "versions": [],
+        "trafficRank": 4107,
+        "confirmedAt": 1635713900,
+        "categories": [
+          {
+            "id": 42,
+            "slug": "tag-managers",
+            "name": "Tag managers"
+          }
+        ]
+      },
+      {
+        "slug": "jquery",
+        "name": "jQuery",
+        "versions": [
+          "1.10.1",
+          "1.12.4",
+          "-1.12.4"
+        ],
+        "trafficRank": 4132,
+        "confirmedAt": 1635713900,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      }
+    ]
+  }
+]

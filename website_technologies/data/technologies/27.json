@@ -1,0 +1,207 @@
+[
+  {
+    "url": "https://kubsau.ru/",
+    "technologies": [
+      {
+        "slug": "http-2",
+        "name": "HTTP/2",
+        "versions": [],
+        "trafficRank": 26,
+        "confirmedAt": 1637142188,
+        "categories": [
+          {
+            "id": 19,
+            "slug": "miscellaneous",
+            "name": "Miscellaneous"
+          }
+        ]
+      },
+      {
+        "slug": "vk-pixel",
+        "name": "VK Pixel",
+        "versions": [],
+        "trafficRank": 45,
+        "confirmedAt": 1637142188,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "google-analytics",
+        "name": "Google Analytics",
+        "versions": [],
+        "trafficRank": 45,
+        "confirmedAt": 1637142188,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "yandex-metrika",
+        "name": "Yandex.Metrika",
+        "versions": [],
+        "trafficRank": 45,
+        "confirmedAt": 1637142188,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "jquery",
+        "name": "jQuery",
+        "versions": [
+          "1.9.1"
+        ],
+        "trafficRank": 48,
+        "confirmedAt": 1637350427,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "jquery-ui",
+        "name": "jQuery UI",
+        "versions": [
+          "1.8.23"
+        ],
+        "trafficRank": 48,
+        "confirmedAt": 1637350427,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "kineticjs",
+        "name": "KineticJS",
+        "versions": [],
+        "trafficRank": 48,
+        "confirmedAt": 1637350427,
+        "categories": [
+          {
+            "id": 25,
+            "slug": "javascript-graphics",
+            "name": "JavaScript graphics"
+          }
+        ]
+      },
+      {
+        "slug": "bootstrap",
+        "name": "Bootstrap",
+        "versions": [],
+        "trafficRank": 48,
+        "confirmedAt": 1637350427,
+        "categories": [
+          {
+            "id": 66,
+            "slug": "ui-frameworks",
+            "name": "UI frameworks"
+          }
+        ]
+      },
+      {
+        "slug": "liveinternet",
+        "name": "Liveinternet",
+        "versions": [],
+        "trafficRank": 48,
+        "confirmedAt": 1637350427,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "php",
+        "name": "PHP",
+        "versions": [
+          "7.1.22"
+        ],
+        "trafficRank": 56,
+        "confirmedAt": 1637350427,
+        "categories": [
+          {
+            "id": 27,
+            "slug": "programming-languages",
+            "name": "Programming languages"
+          }
+        ]
+      },
+      {
+        "slug": "1c-bitrix",
+        "name": "1C-Bitrix",
+        "versions": [],
+        "trafficRank": 56,
+        "confirmedAt": 1637350427,
+        "categories": [
+          {
+            "id": 1,
+            "slug": "cms",
+            "name": "CMS"
+          },
+          {
+            "id": 6,
+            "slug": "ecommerce",
+            "name": "Ecommerce"
+          }
+        ]
+      },
+      {
+        "slug": "vue-js",
+        "name": "Vue.js",
+        "versions": [],
+        "trafficRank": 181,
+        "confirmedAt": 1634097434,
+        "categories": [
+          {
+            "id": 12,
+            "slug": "javascript-frameworks",
+            "name": "JavaScript frameworks"
+          }
+        ]
+      },
+      {
+        "slug": "nginx",
+        "name": "Nginx",
+        "versions": [
+          "1.14.0"
+        ],
+        "trafficRank": 765,
+        "confirmedAt": 1637350427,
+        "categories": [
+          {
+            "id": 22,
+            "slug": "web-servers",
+            "name": "Web servers"
+          },
+          {
+            "id": 64,
+            "slug": "reverse-proxies",
+            "name": "Reverse proxies"
+          }
+        ]
+      }
+    ]
+  }
+]

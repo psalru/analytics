@@ -1,0 +1,232 @@
+[
+  {
+    "url": "https://www.vyatsu.ru/",
+    "technologies": [
+      {
+        "slug": "facebook-login",
+        "name": "Facebook Login",
+        "versions": [],
+        "trafficRank": 22,
+        "confirmedAt": 1636653595,
+        "categories": [
+          {
+            "id": 69,
+            "slug": "authentication",
+            "name": "Authentication"
+          }
+        ]
+      },
+      {
+        "slug": "php",
+        "name": "PHP",
+        "versions": [
+          "5.5.9"
+        ],
+        "trafficRank": 34,
+        "confirmedAt": 1636653595,
+        "categories": [
+          {
+            "id": 27,
+            "slug": "programming-languages",
+            "name": "Programming languages"
+          }
+        ]
+      },
+      {
+        "slug": "lightbox",
+        "name": "Lightbox",
+        "versions": [],
+        "trafficRank": 34,
+        "confirmedAt": 1636653595,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "twitter-ads",
+        "name": "Twitter Ads",
+        "versions": [],
+        "trafficRank": 22,
+        "confirmedAt": 1636653595,
+        "categories": [
+          {
+            "id": 36,
+            "slug": "advertising",
+            "name": "Advertising"
+          }
+        ]
+      },
+      {
+        "slug": "jquery",
+        "name": "jQuery",
+        "versions": [
+          "1.10.2",
+          "1.5.1"
+        ],
+        "trafficRank": 34,
+        "confirmedAt": 1636653595,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "swfobject",
+        "name": "SWFObject",
+        "versions": [],
+        "trafficRank": 34,
+        "confirmedAt": 1636653595,
+        "categories": [
+          {
+            "id": 19,
+            "slug": "miscellaneous",
+            "name": "Miscellaneous"
+          }
+        ]
+      },
+      {
+        "slug": "jquery-ui",
+        "name": "jQuery UI",
+        "versions": [
+          "1.10.3",
+          "1.8.11"
+        ],
+        "trafficRank": 34,
+        "confirmedAt": 1636653595,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "facebook",
+        "name": "Facebook",
+        "versions": [],
+        "trafficRank": 22,
+        "confirmedAt": 1636653595,
+        "categories": [
+          {
+            "id": 5,
+            "slug": "widgets",
+            "name": "Widgets"
+          }
+        ]
+      },
+      {
+        "slug": "youtube",
+        "name": "YouTube",
+        "versions": [],
+        "trafficRank": 22,
+        "confirmedAt": 1636653595,
+        "categories": [
+          {
+            "id": 14,
+            "slug": "video-players",
+            "name": "Video players"
+          }
+        ]
+      },
+      {
+        "slug": "twitter",
+        "name": "Twitter",
+        "versions": [],
+        "trafficRank": 22,
+        "confirmedAt": 1636653595,
+        "categories": [
+          {
+            "id": 5,
+            "slug": "widgets",
+            "name": "Widgets"
+          }
+        ]
+      },
+      {
+        "slug": "yandex-metrika",
+        "name": "Yandex.Metrika",
+        "versions": [],
+        "trafficRank": 34,
+        "confirmedAt": 1636653595,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "liveinternet",
+        "name": "Liveinternet",
+        "versions": [],
+        "trafficRank": 34,
+        "confirmedAt": 1636653595,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "nginx",
+        "name": "Nginx",
+        "versions": [
+          "1.18.0"
+        ],
+        "trafficRank": 43,
+        "confirmedAt": 1636996550,
+        "categories": [
+          {
+            "id": 22,
+            "slug": "web-servers",
+            "name": "Web servers"
+          },
+          {
+            "id": 64,
+            "slug": "reverse-proxies",
+            "name": "Reverse proxies"
+          }
+        ]
+      },
+      {
+        "slug": "ubuntu",
+        "name": "Ubuntu",
+        "versions": [],
+        "trafficRank": 43,
+        "confirmedAt": 1636996550,
+        "categories": [
+          {
+            "id": 28,
+            "slug": "operating-systems",
+            "name": "Operating systems"
+          }
+        ]
+      },
+      {
+        "slug": "google-analytics",
+        "name": "Google Analytics",
+        "versions": [],
+        "trafficRank": 39,
+        "confirmedAt": 1636996550,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      }
+    ]
+  }
+]

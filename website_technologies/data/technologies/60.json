@@ -1,0 +1,221 @@
+[
+  {
+    "url": "https://www.rea.ru/",
+    "technologies": [
+      {
+        "slug": "core-js",
+        "name": "core-js",
+        "versions": [
+          "2.6.3"
+        ],
+        "trafficRank": 4,
+        "confirmedAt": 1635165623,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "iis",
+        "name": "IIS",
+        "versions": [
+          "8.5"
+        ],
+        "trafficRank": 404,
+        "confirmedAt": 1633957907,
+        "categories": [
+          {
+            "id": 22,
+            "slug": "web-servers",
+            "name": "Web servers"
+          }
+        ]
+      },
+      {
+        "slug": "windows-server",
+        "name": "Windows Server",
+        "versions": [],
+        "trafficRank": 404,
+        "confirmedAt": 1633957907,
+        "categories": [
+          {
+            "id": 28,
+            "slug": "operating-systems",
+            "name": "Operating systems"
+          }
+        ]
+      },
+      {
+        "slug": "nginx",
+        "name": "Nginx",
+        "versions": [],
+        "trafficRank": 1037,
+        "confirmedAt": 1636455318,
+        "categories": [
+          {
+            "id": 22,
+            "slug": "web-servers",
+            "name": "Web servers"
+          },
+          {
+            "id": 64,
+            "slug": "reverse-proxies",
+            "name": "Reverse proxies"
+          }
+        ]
+      },
+      {
+        "slug": "google-remarketing-tag",
+        "name": "Google Remarketing Tag",
+        "versions": [],
+        "trafficRank": 968,
+        "confirmedAt": 1636455318,
+        "categories": [
+          {
+            "id": 77,
+            "slug": "retargeting",
+            "name": "Retargeting"
+          }
+        ]
+      },
+      {
+        "slug": "google-tag-manager",
+        "name": "Google Tag Manager",
+        "versions": [],
+        "trafficRank": 1032,
+        "confirmedAt": 1636455318,
+        "categories": [
+          {
+            "id": 42,
+            "slug": "tag-managers",
+            "name": "Tag managers"
+          }
+        ]
+      },
+      {
+        "slug": "jquery",
+        "name": "jQuery",
+        "versions": [
+          "1.7.1",
+          "1.8.3"
+        ],
+        "trafficRank": 1032,
+        "confirmedAt": 1636455318,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "yandex-metrika",
+        "name": "Yandex.Metrika",
+        "versions": [],
+        "trafficRank": 1032,
+        "confirmedAt": 1636455318,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "rightjs",
+        "name": "RightJS",
+        "versions": [],
+        "trafficRank": 1032,
+        "confirmedAt": 1636455318,
+        "categories": [
+          {
+            "id": 12,
+            "slug": "javascript-frameworks",
+            "name": "JavaScript frameworks"
+          }
+        ]
+      },
+      {
+        "slug": "bootstrap",
+        "name": "Bootstrap",
+        "versions": [
+          "4.0.3"
+        ],
+        "trafficRank": 1032,
+        "confirmedAt": 1636455317,
+        "categories": [
+          {
+            "id": 66,
+            "slug": "ui-frameworks",
+            "name": "UI frameworks"
+          }
+        ]
+      },
+      {
+        "slug": "font-awesome",
+        "name": "Font Awesome",
+        "versions": [],
+        "trafficRank": 1032,
+        "confirmedAt": 1636455318,
+        "categories": [
+          {
+            "id": 17,
+            "slug": "font-scripts",
+            "name": "Font scripts"
+          }
+        ]
+      },
+      {
+        "slug": "google-analytics",
+        "name": "Google Analytics",
+        "versions": [],
+        "trafficRank": 1054,
+        "confirmedAt": 1636455318,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "microsoft-asp-net",
+        "name": "Microsoft ASP.NET",
+        "versions": [
+          "4.0.30319"
+        ],
+        "trafficRank": 1577,
+        "confirmedAt": 1636875279,
+        "categories": [
+          {
+            "id": 18,
+            "slug": "web-frameworks",
+            "name": "Web frameworks"
+          }
+        ]
+      },
+      {
+        "slug": "microsoft-sharepoint",
+        "name": "Microsoft SharePoint",
+        "versions": [
+          "15.0.0.5189"
+        ],
+        "trafficRank": 1577,
+        "confirmedAt": 1636875279,
+        "categories": [
+          {
+            "id": 1,
+            "slug": "cms",
+            "name": "CMS"
+          }
+        ]
+      }
+    ]
+  }
+]

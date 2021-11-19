@@ -1,0 +1,334 @@
+[
+  {
+    "url": "https://www.muctr.ru/",
+    "technologies": [
+      {
+        "slug": "web-vitals",
+        "name": "web-vitals",
+        "versions": [],
+        "trafficRank": 0,
+        "confirmedAt": 1635905250,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          },
+          {
+            "id": 78,
+            "slug": "rum",
+            "name": "RUM"
+          }
+        ]
+      },
+      {
+        "slug": "cart-functionality",
+        "name": "Cart Functionality",
+        "versions": [],
+        "trafficRank": 0,
+        "confirmedAt": 1635905250,
+        "categories": [
+          {
+            "id": 6,
+            "slug": "ecommerce",
+            "name": "Ecommerce"
+          }
+        ]
+      },
+      {
+        "slug": "google-sign-in",
+        "name": "Google Sign-in",
+        "versions": [],
+        "trafficRank": 6,
+        "confirmedAt": 1635787092,
+        "categories": [
+          {
+            "id": 69,
+            "slug": "authentication",
+            "name": "Authentication"
+          }
+        ]
+      },
+      {
+        "slug": "cdnjs",
+        "name": "cdnjs",
+        "versions": [],
+        "trafficRank": 6,
+        "confirmedAt": 1635905250,
+        "categories": [
+          {
+            "id": 31,
+            "slug": "cdn",
+            "name": "CDN"
+          }
+        ]
+      },
+      {
+        "slug": "facebook-login",
+        "name": "Facebook Login",
+        "versions": [],
+        "trafficRank": 6,
+        "confirmedAt": 1635905250,
+        "categories": [
+          {
+            "id": 69,
+            "slug": "authentication",
+            "name": "Authentication"
+          }
+        ]
+      },
+      {
+        "slug": "google-tag-manager",
+        "name": "Google Tag Manager",
+        "versions": [],
+        "trafficRank": 6,
+        "confirmedAt": 1635905250,
+        "categories": [
+          {
+            "id": 42,
+            "slug": "tag-managers",
+            "name": "Tag managers"
+          }
+        ]
+      },
+      {
+        "slug": "php",
+        "name": "PHP",
+        "versions": [],
+        "trafficRank": 6,
+        "confirmedAt": 1635905250,
+        "categories": [
+          {
+            "id": 27,
+            "slug": "programming-languages",
+            "name": "Programming languages"
+          }
+        ]
+      },
+      {
+        "slug": "core-js",
+        "name": "core-js",
+        "versions": [
+          "2.6.3"
+        ],
+        "trafficRank": 6,
+        "confirmedAt": 1635905250,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "jquery",
+        "name": "jQuery",
+        "versions": [
+          "2.1.3"
+        ],
+        "trafficRank": 6,
+        "confirmedAt": 1635905250,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "cloudflare-browser-insights",
+        "name": "Cloudflare Browser Insights",
+        "versions": [],
+        "trafficRank": 6,
+        "confirmedAt": 1635905250,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          },
+          {
+            "id": 78,
+            "slug": "rum",
+            "name": "RUM"
+          }
+        ]
+      },
+      {
+        "slug": "vk-pixel",
+        "name": "VK Pixel",
+        "versions": [],
+        "trafficRank": 6,
+        "confirmedAt": 1635905250,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "userway",
+        "name": "UserWay",
+        "versions": [],
+        "trafficRank": 6,
+        "confirmedAt": 1635905250,
+        "categories": [
+          {
+            "id": 68,
+            "slug": "accessibility",
+            "name": "Accessibility"
+          }
+        ]
+      },
+      {
+        "slug": "google-remarketing-tag",
+        "name": "Google Remarketing Tag",
+        "versions": [],
+        "trafficRank": 6,
+        "confirmedAt": 1635905250,
+        "categories": [
+          {
+            "id": 77,
+            "slug": "retargeting",
+            "name": "Retargeting"
+          }
+        ]
+      },
+      {
+        "slug": "facebook",
+        "name": "Facebook",
+        "versions": [],
+        "trafficRank": 6,
+        "confirmedAt": 1635905250,
+        "categories": [
+          {
+            "id": 5,
+            "slug": "widgets",
+            "name": "Widgets"
+          }
+        ]
+      },
+      {
+        "slug": "font-awesome",
+        "name": "Font Awesome",
+        "versions": [],
+        "trafficRank": 6,
+        "confirmedAt": 1635905250,
+        "categories": [
+          {
+            "id": 17,
+            "slug": "font-scripts",
+            "name": "Font scripts"
+          }
+        ]
+      },
+      {
+        "slug": "1c-bitrix",
+        "name": "1C-Bitrix",
+        "versions": [],
+        "trafficRank": 6,
+        "confirmedAt": 1635905250,
+        "categories": [
+          {
+            "id": 1,
+            "slug": "cms",
+            "name": "CMS"
+          },
+          {
+            "id": 6,
+            "slug": "ecommerce",
+            "name": "Ecommerce"
+          }
+        ]
+      },
+      {
+        "slug": "google-font-api",
+        "name": "Google Font API",
+        "versions": [],
+        "trafficRank": 6,
+        "confirmedAt": 1635905250,
+        "categories": [
+          {
+            "id": 17,
+            "slug": "font-scripts",
+            "name": "Font scripts"
+          }
+        ]
+      },
+      {
+        "slug": "jsdelivr",
+        "name": "jsDelivr",
+        "versions": [],
+        "trafficRank": 6,
+        "confirmedAt": 1635905250,
+        "categories": [
+          {
+            "id": 31,
+            "slug": "cdn",
+            "name": "CDN"
+          }
+        ]
+      },
+      {
+        "slug": "google-analytics",
+        "name": "Google Analytics",
+        "versions": [],
+        "trafficRank": 6,
+        "confirmedAt": 1635905250,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "yandex-metrika",
+        "name": "Yandex.Metrika",
+        "versions": [],
+        "trafficRank": 6,
+        "confirmedAt": 1635905250,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "cloudflare-bot-management",
+        "name": "Cloudflare Bot Management",
+        "versions": [],
+        "trafficRank": 6,
+        "confirmedAt": 1635787093,
+        "categories": [
+          {
+            "id": 16,
+            "slug": "security",
+            "name": "Security"
+          }
+        ]
+      },
+      {
+        "slug": "cloudflare",
+        "name": "Cloudflare",
+        "versions": [],
+        "trafficRank": 14,
+        "confirmedAt": 1635905250,
+        "categories": [
+          {
+            "id": 31,
+            "slug": "cdn",
+            "name": "CDN"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,96 @@
+[
+  {
+    "url": "https://pimunn.ru/",
+    "technologies": [
+      {
+        "slug": "jquery",
+        "name": "jQuery",
+        "versions": [
+          "1.10.2"
+        ],
+        "trafficRank": 62,
+        "confirmedAt": 1634405763,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "yandex-metrika",
+        "name": "Yandex.Metrika",
+        "versions": [],
+        "trafficRank": 62,
+        "confirmedAt": 1634405763,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "hammer-js",
+        "name": "Hammer.js",
+        "versions": [
+          "2.0.8"
+        ],
+        "trafficRank": 62,
+        "confirmedAt": 1634405763,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "tilda",
+        "name": "Tilda",
+        "versions": [],
+        "trafficRank": 62,
+        "confirmedAt": 1634405763,
+        "categories": [
+          {
+            "id": 1,
+            "slug": "cms",
+            "name": "CMS"
+          }
+        ]
+      },
+      {
+        "slug": "google-remarketing-tag",
+        "name": "Google Remarketing Tag",
+        "versions": [],
+        "trafficRank": 62,
+        "confirmedAt": 1634405763,
+        "categories": [
+          {
+            "id": 77,
+            "slug": "retargeting",
+            "name": "Retargeting"
+          }
+        ]
+      },
+      {
+        "slug": "google-analytics",
+        "name": "Google Analytics",
+        "versions": [],
+        "trafficRank": 62,
+        "confirmedAt": 1634405763,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      }
+    ],
+    "crawl": true
+  }
+]

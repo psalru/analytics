@@ -1,0 +1,194 @@
+[
+  {
+    "url": "https://sfedu.ru/",
+    "technologies": [
+      {
+        "slug": "sectigo",
+        "name": "Sectigo",
+        "versions": [],
+        "trafficRank": 0,
+        "confirmedAt": 1635164939,
+        "categories": [
+          {
+            "id": 70,
+            "slug": "ssl-tls-certificate-authorities",
+            "name": "SSL/TLS certificate authorities"
+          }
+        ]
+      },
+      {
+        "slug": "microsoft-365",
+        "name": "Microsoft 365",
+        "versions": [],
+        "trafficRank": 0,
+        "confirmedAt": 1633139202,
+        "categories": [
+          {
+            "id": 30,
+            "slug": "webmail",
+            "name": "Webmail"
+          },
+          {
+            "id": 75,
+            "slug": "email",
+            "name": "Email"
+          }
+        ]
+      },
+      {
+        "slug": "php",
+        "name": "PHP",
+        "versions": [],
+        "trafficRank": 54,
+        "confirmedAt": 1636484926,
+        "categories": [
+          {
+            "id": 27,
+            "slug": "programming-languages",
+            "name": "Programming languages"
+          }
+        ]
+      },
+      {
+        "slug": "bem",
+        "name": "BEM",
+        "versions": [],
+        "trafficRank": 68,
+        "confirmedAt": 1635597715,
+        "categories": [
+          {
+            "id": 12,
+            "slug": "javascript-frameworks",
+            "name": "JavaScript frameworks"
+          }
+        ]
+      },
+      {
+        "slug": "google-maps",
+        "name": "Google Maps",
+        "versions": [],
+        "trafficRank": 68,
+        "confirmedAt": 1635597715,
+        "categories": [
+          {
+            "id": 35,
+            "slug": "maps",
+            "name": "Maps"
+          }
+        ]
+      },
+      {
+        "slug": "choices",
+        "name": "Choices",
+        "versions": [],
+        "trafficRank": 73,
+        "confirmedAt": 1635597715,
+        "categories": [
+          {
+            "id": 19,
+            "slug": "miscellaneous",
+            "name": "Miscellaneous"
+          }
+        ]
+      },
+      {
+        "slug": "slick",
+        "name": "Slick",
+        "versions": [],
+        "trafficRank": 100,
+        "confirmedAt": 1635448204,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "jquery-ui",
+        "name": "jQuery UI",
+        "versions": [
+          "1.10.4",
+          "1.12.1"
+        ],
+        "trafficRank": 144,
+        "confirmedAt": 1635448204,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "google-font-api",
+        "name": "Google Font API",
+        "versions": [],
+        "trafficRank": 168,
+        "confirmedAt": 1635597715,
+        "categories": [
+          {
+            "id": 17,
+            "slug": "font-scripts",
+            "name": "Font scripts"
+          }
+        ]
+      },
+      {
+        "slug": "yandex-metrika",
+        "name": "Yandex.Metrika",
+        "versions": [],
+        "trafficRank": 272,
+        "confirmedAt": 1637182374,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "nginx",
+        "name": "Nginx",
+        "versions": [
+          "1.14.2"
+        ],
+        "trafficRank": 316,
+        "confirmedAt": 1637182374,
+        "categories": [
+          {
+            "id": 22,
+            "slug": "web-servers",
+            "name": "Web servers"
+          },
+          {
+            "id": 64,
+            "slug": "reverse-proxies",
+            "name": "Reverse proxies"
+          }
+        ]
+      },
+      {
+        "slug": "jquery",
+        "name": "jQuery",
+        "versions": [
+          "1.7.1",
+          "1.11.1",
+          "3.5.1"
+        ],
+        "trafficRank": 316,
+        "confirmedAt": 1637182374,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "url": "https://stankin.ru/",
+    "technologies": [
+      {
+        "slug": "core-js",
+        "name": "core-js",
+        "versions": [
+          "2.6.5"
+        ],
+        "trafficRank": 86,
+        "confirmedAt": 1634982640,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "lodash",
+        "name": "Lodash",
+        "versions": [
+          "4.17.20"
+        ],
+        "trafficRank": 86,
+        "confirmedAt": 1634982640,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "quill",
+        "name": "Quill",
+        "versions": [],
+        "trafficRank": 86,
+        "confirmedAt": 1634982640,
+        "categories": [
+          {
+            "id": 24,
+            "slug": "rich-text-editors",
+            "name": "Rich text editors"
+          }
+        ]
+      },
+      {
+        "slug": "webpack",
+        "name": "webpack",
+        "versions": [],
+        "trafficRank": 86,
+        "confirmedAt": 1634982640,
+        "categories": [
+          {
+            "id": 19,
+            "slug": "miscellaneous",
+            "name": "Miscellaneous"
+          }
+        ]
+      },
+      {
+        "slug": "jquery",
+        "name": "jQuery",
+        "versions": [
+          "3.3.1"
+        ],
+        "trafficRank": 115,
+        "confirmedAt": 1635664693,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "yandex-metrika",
+        "name": "Yandex.Metrika",
+        "versions": [],
+        "trafficRank": 115,
+        "confirmedAt": 1635664693,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "nginx",
+        "name": "Nginx",
+        "versions": [
+          "1.10.3"
+        ],
+        "trafficRank": 115,
+        "confirmedAt": 1635664693,
+        "categories": [
+          {
+            "id": 22,
+            "slug": "web-servers",
+            "name": "Web servers"
+          },
+          {
+            "id": 64,
+            "slug": "reverse-proxies",
+            "name": "Reverse proxies"
+          }
+        ]
+      },
+      {
+        "slug": "ubuntu",
+        "name": "Ubuntu",
+        "versions": [],
+        "trafficRank": 115,
+        "confirmedAt": 1635664693,
+        "categories": [
+          {
+            "id": 28,
+            "slug": "operating-systems",
+            "name": "Operating systems"
+          }
+        ]
+      },
+      {
+        "slug": "bootstrap",
+        "name": "Bootstrap",
+        "versions": [
+          "4.1.0"
+        ],
+        "trafficRank": 115,
+        "confirmedAt": 1635664693,
+        "categories": [
+          {
+            "id": 66,
+            "slug": "ui-frameworks",
+            "name": "UI frameworks"
+          }
+        ]
+      },
+      {
+        "slug": "vue-js",
+        "name": "Vue.js",
+        "versions": [],
+        "trafficRank": 115,
+        "confirmedAt": 1635664693,
+        "categories": [
+          {
+            "id": 12,
+            "slug": "javascript-frameworks",
+            "name": "JavaScript frameworks"
+          }
+        ]
+      }
+    ]
+  }
+]

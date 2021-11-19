@@ -1,0 +1,111 @@
+[
+  {
+    "url": "https://sgau.ru/",
+    "technologies": [
+      {
+        "slug": "php",
+        "name": "PHP",
+        "versions": [
+          "5.4.16"
+        ],
+        "trafficRank": 36,
+        "confirmedAt": 1637058774,
+        "categories": [
+          {
+            "id": 27,
+            "slug": "programming-languages",
+            "name": "Programming languages"
+          }
+        ]
+      },
+      {
+        "slug": "jquery",
+        "name": "jQuery",
+        "versions": [
+          "1.8.3"
+        ],
+        "trafficRank": 36,
+        "confirmedAt": 1637058774,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "swfobject",
+        "name": "SWFObject",
+        "versions": [],
+        "trafficRank": 36,
+        "confirmedAt": 1637058774,
+        "categories": [
+          {
+            "id": 19,
+            "slug": "miscellaneous",
+            "name": "Miscellaneous"
+          }
+        ]
+      },
+      {
+        "slug": "google-font-api",
+        "name": "Google Font API",
+        "versions": [],
+        "trafficRank": 36,
+        "confirmedAt": 1637058774,
+        "categories": [
+          {
+            "id": 17,
+            "slug": "font-scripts",
+            "name": "Font scripts"
+          }
+        ]
+      },
+      {
+        "slug": "yandex-metrika",
+        "name": "Yandex.Metrika",
+        "versions": [],
+        "trafficRank": 36,
+        "confirmedAt": 1637058774,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "apache",
+        "name": "Apache",
+        "versions": [
+          "2.4.6"
+        ],
+        "trafficRank": 77,
+        "confirmedAt": 1637185487,
+        "categories": [
+          {
+            "id": 22,
+            "slug": "web-servers",
+            "name": "Web servers"
+          }
+        ]
+      },
+      {
+        "slug": "centos",
+        "name": "CentOS",
+        "versions": [],
+        "trafficRank": 77,
+        "confirmedAt": 1637185487,
+        "categories": [
+          {
+            "id": 28,
+            "slug": "operating-systems",
+            "name": "Operating systems"
+          }
+        ]
+      }
+    ]
+  }
+]

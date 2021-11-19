@@ -1,102 +1,101 @@
-site,name
-https://www.hse.ru/,НИУ ВШЭ
-https://bmstu.ru/,МГТУ Баумана
-https://mipt.ru/,МФТИ
-https://mephi.ru/,НИЯУ МИФИ
-https://misis.ru/,МИСиС
-https://www.spbstu.ru/,СПбПУ
-https://www.tsu.ru/,ТГУ
-https://www.tpu.ru/,ТПУ
-https://itmo.ru/,ИТМО
-https://urfu.ru/,УрФУ
-http://www.unn.ru/,ННГУ
-https://www.nsu.ru/n/,НГУ
-https://www.sechenov.ru/,Сеченовка
-https://rsmu.ru/,Пироговка
-https://www.timacad.ru/,Тимирязевка
-https://www.susu.ru/ru,ЮУрГУ (НИУ)
-https://sfedu.ru/,Южный ФУ
-https://spmi.ru/,СПГУ Горный
-https://www.gubkin.ru/,РГУ Губкина
-https://spbu.ru/,СГУ
-https://pstu.ru/,ПНИПУ
-https://www.vmeda.org/,Воен-мед академия
-https://www.rudn.ru/,РУДН
-https://www.1spbgmu.ru/,ПСПбГМУ Павлова Минздрава
-https://new.guap.ru/,ГУАП
-https://www.msmsu.ru/,МГМСУ  Минздрава
-https://kpfu.ru/,КФУ
-https://kubsau.ru/,Кубанский ГАУ
-https://mai.ru/,МАИ
-https://pimunn.ru/,ПИМУ Минздрава
-https://www.ranepa.ru/,РАНХиГС
-https://www.miit.ru/,РУТ (МИИТ)
-https://samsmu.ru/,СамГМУ Минздрава России
-https://www.utmn.ru/,ТюмГУ
-https://kantiana.ru/,БФУ им. И. Канта
-https://bashgmu.ru/,БГМУ Минздрава
-https://www.bsu.edu.ru/bsu/,НИУ «БелГУ»
-https://www.dvfu.ru/,ДВФУ
-https://cfuv.ru/,КФУ Вернадского
-https://mgimo.ru/,МГИМО
-https://nstu.ru/,НГТУ
-https://www.muctr.ru/,РХТУ Менделеева
-https://www.smtu.ru/,СПБГМТУ
-https://etu.ru/,ЛЭТИ
-https://www.sevsu.ru/,СевГУ
-https://tusur.ru/,ТУСУР
-https://bashedu.ru/,БашГУ
-https://www.omgtu.ru/,ОмГТУ
-https://www.sfu-kras.ru/,СФУ
-https://rusoil.net/,УГНТУ
-https://nstu.ru/,НГТУ
-https://www.istu.edu/,ИРНИТУ
-https://ssmu.ru/,СибГМУ Минздрава
-http://www.stgau.ru/,Ставропольский ГАУ
-https://www.kstu.ru/,КНИТУ
-https://mpei.ru/,МЭИ
-https://www.mirea.ru/,РТУ МИРЭА
-https://mgsu.ru/,НИУ МГСУ
-https://www.miet.ru/,НИУ МИЭТ
-https://sutd.ru/,СПбГУПТД
-https://www.rea.ru/,РЭУ Плеханова
-https://kai.ru/,КНИТУ-КАИ
-http://www.psu.ru/,ПГНИУ
-https://ssau.ru/,Самарский универ
-https://www.npi-tu.ru/,ЮРГПУ(НПИ)
-https://new.mospolytech.ru/,Московский Политех
-https://www.asu.ru/,АлтГУ
-https://asu.edu.ru/,Астрахань ГУ
-https://www.vstu.ru/,ВолгГТУ
-https://www.bstu.ru/,БГТУ им. В.Г. Шухова
-https://donstu.ru/,ДГТУ
-https://kbsu.ru/,КБГУ
-https://kemsu.ru/,КемГУ
-https://mrsu.ru/,МГУ им. Н.П. Огарёва
-https://www.novsu.ru/,НовГУ
-http://oreluniver.ru/,ОГУ Тургенева
-https://www.s-vfu.ru/,СВФУ
-https://www.ncfu.ru/,СКФУ
-https://www.sibsau.ru/,СибГУ Решетнева
-https://www.tltsu.ru/,Тольятти ГУ
-https://msal.ru/,МГЮА
-https://kgeu.ru/,КГЭУ
-https://stankin.ru/,СТАНКИН
-https://www.chesu.ru/,Чеченский ГУ имени А.А. Кадырова
-https://marsu.ru/,Марийский ГУ
-https://pnu.edu.ru/,ТОГУ
-https://udsu.ru/,УдГУ
-https://sgau.ru/,Саратовский ГАУ Вавилова
-https://www.uniyar.ac.ru/,ЯрГУ
-https://www.adygnet.ru/,Адыгейский ГУ
-https://www.vyatsu.ru/,ВятГУ
-https://www.mgpu.ru/,МГПУ
-http://www.osu.ru/,Оренбург ГУ
-https://pskgu.ru/,ПсковГУ
-https://www.ulsu.ru/,УлГУ
-http://www.ursmu.ru/,УГГУ
-https://tsutmb.ru/,ТГУ имени Г.Р. Державина
-https://www.pgups.ru/,ПГУПС
-http://smolgmu.ru/,СГМУ Минздрава России
-https://www.tyumsmu.ru/,Тюменский ГМУ Минздрава России
-https://swsu.ru/,ЮЗГУ
+https://www.hse.ru/
+https://bmstu.ru/
+https://mipt.ru/
+https://mephi.ru/
+https://misis.ru/
+https://www.spbstu.ru/
+https://www.tsu.ru/
+https://www.tpu.ru/
+https://itmo.ru/
+https://urfu.ru/
+http://www.unn.ru/
+https://www.nsu.ru/n/
+https://www.sechenov.ru/
+https://rsmu.ru/
+https://www.timacad.ru/
+https://www.susu.ru/ru
+https://sfedu.ru/
+https://spmi.ru/
+https://www.gubkin.ru/
+https://spbu.ru/
+https://pstu.ru/
+https://www.vmeda.org/
+https://www.rudn.ru/
+https://www.1spbgmu.ru/
+https://new.guap.ru/
+https://www.msmsu.ru/
+https://kpfu.ru/
+https://kubsau.ru/
+https://mai.ru/
+https://pimunn.ru/
+https://www.ranepa.ru/
+https://www.miit.ru/
+https://samsmu.ru/
+https://www.utmn.ru/
+https://kantiana.ru/
+https://bashgmu.ru/
+https://www.bsu.edu.ru/bsu/
+https://www.dvfu.ru/
+https://cfuv.ru/
+https://mgimo.ru/
+https://nstu.ru/
+https://www.muctr.ru/
+https://www.smtu.ru/
+https://etu.ru/
+https://www.sevsu.ru/
+https://tusur.ru/
+https://bashedu.ru/
+https://www.omgtu.ru/
+https://www.sfu-kras.ru/
+https://rusoil.net/
+https://nstu.ru/
+https://www.istu.edu/
+https://ssmu.ru/
+http://www.stgau.ru/
+https://www.kstu.ru/
+https://mpei.ru/
+https://www.mirea.ru/
+https://mgsu.ru/
+https://www.miet.ru/
+https://sutd.ru/
+https://www.rea.ru/
+https://kai.ru/
+http://www.psu.ru/
+https://ssau.ru/
+https://www.npi-tu.ru/
+https://new.mospolytech.ru/
+https://www.asu.ru/
+https://asu.edu.ru/
+https://www.vstu.ru/
+https://www.bstu.ru/
+https://donstu.ru/
+https://kbsu.ru/
+https://kemsu.ru/
+https://mrsu.ru/
+https://www.novsu.ru/
+http://oreluniver.ru/
+https://www.s-vfu.ru/
+https://www.ncfu.ru/
+https://www.sibsau.ru/
+https://www.tltsu.ru/
+https://msal.ru/
+https://kgeu.ru/
+https://stankin.ru/
+https://www.chesu.ru/
+https://marsu.ru/
+https://pnu.edu.ru/
+https://udsu.ru/
+https://sgau.ru/
+https://www.uniyar.ac.ru/
+https://www.adygnet.ru/
+https://www.vyatsu.ru/
+https://www.mgpu.ru/
+http://www.osu.ru/
+https://pskgu.ru/
+https://www.ulsu.ru/
+http://www.ursmu.ru/
+https://tsutmb.ru/
+https://www.pgups.ru/
+http://smolgmu.ru/
+https://www.tyumsmu.ru/
+https://swsu.ru/
