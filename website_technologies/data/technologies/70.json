@@ -1,0 +1,224 @@
+[
+  {
+    "url": "https://donstu.ru/",
+    "technologies": [
+      {
+        "slug": "swiper-slider",
+        "name": "Swiper Slider",
+        "versions": [],
+        "trafficRank": 19,
+        "confirmedAt": 1635486964,
+        "categories": [
+          {
+            "id": 19,
+            "slug": "miscellaneous",
+            "name": "Miscellaneous"
+          }
+        ]
+      },
+      {
+        "slug": "jquery-ui",
+        "name": "jQuery UI",
+        "versions": [
+          "1.8.5"
+        ],
+        "trafficRank": 19,
+        "confirmedAt": 1635486964,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "userway",
+        "name": "UserWay",
+        "versions": [],
+        "trafficRank": 39,
+        "confirmedAt": 1637043564,
+        "categories": [
+          {
+            "id": 68,
+            "slug": "accessibility",
+            "name": "Accessibility"
+          }
+        ]
+      },
+      {
+        "slug": "youtube",
+        "name": "YouTube",
+        "versions": [],
+        "trafficRank": 20,
+        "confirmedAt": 1636433383,
+        "categories": [
+          {
+            "id": 14,
+            "slug": "video-players",
+            "name": "Video players"
+          }
+        ]
+      },
+      {
+        "slug": "cdnjs",
+        "name": "cdnjs",
+        "versions": [],
+        "trafficRank": 28,
+        "confirmedAt": 1637043564,
+        "categories": [
+          {
+            "id": 31,
+            "slug": "cdn",
+            "name": "CDN"
+          }
+        ]
+      },
+      {
+        "slug": "fancybox",
+        "name": "FancyBox",
+        "versions": [
+          "2.1.5"
+        ],
+        "trafficRank": 47,
+        "confirmedAt": 1637043564,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "google-tag-manager",
+        "name": "Google Tag Manager",
+        "versions": [],
+        "trafficRank": 47,
+        "confirmedAt": 1637043564,
+        "categories": [
+          {
+            "id": 42,
+            "slug": "tag-managers",
+            "name": "Tag managers"
+          }
+        ]
+      },
+      {
+        "slug": "jquery",
+        "name": "jQuery",
+        "versions": [
+          "3.2.1",
+          "2.1.1"
+        ],
+        "trafficRank": 47,
+        "confirmedAt": 1637043564,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "vue-js",
+        "name": "Vue.js",
+        "versions": [
+          "2.5.13"
+        ],
+        "trafficRank": 47,
+        "confirmedAt": 1637043564,
+        "categories": [
+          {
+            "id": 12,
+            "slug": "javascript-frameworks",
+            "name": "JavaScript frameworks"
+          }
+        ]
+      },
+      {
+        "slug": "google-analytics",
+        "name": "Google Analytics",
+        "versions": [],
+        "trafficRank": 47,
+        "confirmedAt": 1637043564,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "php",
+        "name": "PHP",
+        "versions": [
+          "7.2.34"
+        ],
+        "trafficRank": 51,
+        "confirmedAt": 1637043564,
+        "categories": [
+          {
+            "id": 27,
+            "slug": "programming-languages",
+            "name": "Programming languages"
+          }
+        ]
+      },
+      {
+        "slug": "1c-bitrix",
+        "name": "1C-Bitrix",
+        "versions": [],
+        "trafficRank": 51,
+        "confirmedAt": 1637043564,
+        "categories": [
+          {
+            "id": 1,
+            "slug": "cms",
+            "name": "CMS"
+          },
+          {
+            "id": 6,
+            "slug": "ecommerce",
+            "name": "Ecommerce"
+          }
+        ]
+      },
+      {
+        "slug": "yandex-metrika",
+        "name": "Yandex.Metrika",
+        "versions": [],
+        "trafficRank": 51,
+        "confirmedAt": 1637043564,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "nginx",
+        "name": "Nginx",
+        "versions": [],
+        "trafficRank": 64,
+        "confirmedAt": 1637043564,
+        "categories": [
+          {
+            "id": 22,
+            "slug": "web-servers",
+            "name": "Web servers"
+          },
+          {
+            "id": 64,
+            "slug": "reverse-proxies",
+            "name": "Reverse proxies"
+          }
+        ]
+      }
+    ]
+  }
+]

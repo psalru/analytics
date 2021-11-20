@@ -1,0 +1,218 @@
+[
+  {
+    "url": "https://pnu.edu.ru/",
+    "technologies": [
+      {
+        "slug": "react",
+        "name": "React",
+        "versions": [],
+        "trafficRank": 643,
+        "confirmedAt": 1634907101,
+        "categories": [
+          {
+            "id": 12,
+            "slug": "javascript-frameworks",
+            "name": "JavaScript frameworks"
+          }
+        ]
+      },
+      {
+        "slug": "django",
+        "name": "Django",
+        "versions": [],
+        "trafficRank": 677,
+        "confirmedAt": 1635383047,
+        "categories": [
+          {
+            "id": 18,
+            "slug": "web-frameworks",
+            "name": "Web frameworks"
+          }
+        ]
+      },
+      {
+        "slug": "python",
+        "name": "Python",
+        "versions": [],
+        "trafficRank": 677,
+        "confirmedAt": 1635383047,
+        "categories": [
+          {
+            "id": 27,
+            "slug": "programming-languages",
+            "name": "Programming languages"
+          }
+        ]
+      },
+      {
+        "slug": "clipboard-js",
+        "name": "Clipboard.js",
+        "versions": [],
+        "trafficRank": 677,
+        "confirmedAt": 1635383048,
+        "categories": [
+          {
+            "id": 19,
+            "slug": "miscellaneous",
+            "name": "Miscellaneous"
+          }
+        ]
+      },
+      {
+        "slug": "google-font-api",
+        "name": "Google Font API",
+        "versions": [],
+        "trafficRank": 1221,
+        "confirmedAt": 1635566553,
+        "categories": [
+          {
+            "id": 17,
+            "slug": "font-scripts",
+            "name": "Font scripts"
+          }
+        ]
+      },
+      {
+        "slug": "jquery",
+        "name": "jQuery",
+        "versions": [
+          "2.0.3",
+          "-2.0.3"
+        ],
+        "trafficRank": 1221,
+        "confirmedAt": 1635566553,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "yandex-metrika",
+        "name": "Yandex.Metrika",
+        "versions": [],
+        "trafficRank": 1221,
+        "confirmedAt": 1635566553,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "cufon",
+        "name": "Cufon",
+        "versions": [],
+        "trafficRank": 1221,
+        "confirmedAt": 1635566553,
+        "categories": [
+          {
+            "id": 17,
+            "slug": "font-scripts",
+            "name": "Font scripts"
+          }
+        ]
+      },
+      {
+        "slug": "bootstrap",
+        "name": "Bootstrap",
+        "versions": [
+          "3"
+        ],
+        "trafficRank": 1221,
+        "confirmedAt": 1635566553,
+        "categories": [
+          {
+            "id": 66,
+            "slug": "ui-frameworks",
+            "name": "UI frameworks"
+          }
+        ]
+      },
+      {
+        "slug": "font-awesome",
+        "name": "Font Awesome",
+        "versions": [],
+        "trafficRank": 1221,
+        "confirmedAt": 1635566553,
+        "categories": [
+          {
+            "id": 17,
+            "slug": "font-scripts",
+            "name": "Font scripts"
+          }
+        ]
+      },
+      {
+        "slug": "jquery-ui",
+        "name": "jQuery UI",
+        "versions": [
+          "1.8.18",
+          "1.10.3"
+        ],
+        "trafficRank": 1221,
+        "confirmedAt": 1635566553,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "select2",
+        "name": "Select2",
+        "versions": [],
+        "trafficRank": 1221,
+        "confirmedAt": 1635566553,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "google-analytics",
+        "name": "Google Analytics",
+        "versions": [],
+        "trafficRank": 1221,
+        "confirmedAt": 1635566553,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "nginx",
+        "name": "Nginx",
+        "versions": [
+          "1.13.0"
+        ],
+        "trafficRank": 1266,
+        "confirmedAt": 1635566553,
+        "categories": [
+          {
+            "id": 22,
+            "slug": "web-servers",
+            "name": "Web servers"
+          },
+          {
+            "id": 64,
+            "slug": "reverse-proxies",
+            "name": "Reverse proxies"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "url": "https://www.miet.ru/",
+    "technologies": [
+      {
+        "slug": "sectigo",
+        "name": "Sectigo",
+        "versions": [],
+        "trafficRank": 0,
+        "confirmedAt": 1635218422,
+        "categories": [
+          {
+            "id": 70,
+            "slug": "ssl-tls-certificate-authorities",
+            "name": "SSL/TLS certificate authorities"
+          }
+        ]
+      },
+      {
+        "slug": "lightbox",
+        "name": "Lightbox",
+        "versions": [],
+        "trafficRank": 183,
+        "confirmedAt": 1635540861,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "jquery",
+        "name": "jQuery",
+        "versions": [
+          "3.3.1"
+        ],
+        "trafficRank": 183,
+        "confirmedAt": 1635540861,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "yandex-metrika",
+        "name": "Yandex.Metrika",
+        "versions": [],
+        "trafficRank": 183,
+        "confirmedAt": 1635540861,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "google-analytics",
+        "name": "Google Analytics",
+        "versions": [],
+        "trafficRank": 183,
+        "confirmedAt": 1635540861,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "php",
+        "name": "PHP",
+        "versions": [
+          "5.6.31"
+        ],
+        "trafficRank": 190,
+        "confirmedAt": 1635540861,
+        "categories": [
+          {
+            "id": 27,
+            "slug": "programming-languages",
+            "name": "Programming languages"
+          }
+        ]
+      },
+      {
+        "slug": "1c-bitrix",
+        "name": "1C-Bitrix",
+        "versions": [],
+        "trafficRank": 190,
+        "confirmedAt": 1635540861,
+        "categories": [
+          {
+            "id": 1,
+            "slug": "cms",
+            "name": "CMS"
+          },
+          {
+            "id": 6,
+            "slug": "ecommerce",
+            "name": "Ecommerce"
+          }
+        ]
+      },
+      {
+        "slug": "microsoft-asp-net",
+        "name": "Microsoft ASP.NET",
+        "versions": [],
+        "trafficRank": 208,
+        "confirmedAt": 1635540861,
+        "categories": [
+          {
+            "id": 18,
+            "slug": "web-frameworks",
+            "name": "Web frameworks"
+          }
+        ]
+      },
+      {
+        "slug": "nginx",
+        "name": "Nginx",
+        "versions": [],
+        "trafficRank": 208,
+        "confirmedAt": 1635540861,
+        "categories": [
+          {
+            "id": 22,
+            "slug": "web-servers",
+            "name": "Web servers"
+          },
+          {
+            "id": 64,
+            "slug": "reverse-proxies",
+            "name": "Reverse proxies"
+          }
+        ]
+      }
+    ]
+  }
+]

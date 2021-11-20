@@ -1,0 +1,190 @@
+[
+  {
+    "url": "https://pskgu.ru/",
+    "technologies": [
+      {
+        "slug": "google-font-api",
+        "name": "Google Font API",
+        "versions": [],
+        "trafficRank": 13,
+        "confirmedAt": 1635355775,
+        "categories": [
+          {
+            "id": 17,
+            "slug": "font-scripts",
+            "name": "Font scripts"
+          }
+        ]
+      },
+      {
+        "slug": "php",
+        "name": "PHP",
+        "versions": [
+          "5.6.21"
+        ],
+        "trafficRank": 24,
+        "confirmedAt": 1636524771,
+        "categories": [
+          {
+            "id": 27,
+            "slug": "programming-languages",
+            "name": "Programming languages"
+          }
+        ]
+      },
+      {
+        "slug": "moment-js",
+        "name": "Moment.js",
+        "versions": [
+          "2.24.0"
+        ],
+        "trafficRank": 24,
+        "confirmedAt": 1636524771,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "jquery",
+        "name": "jQuery",
+        "versions": [
+          "1.7.2"
+        ],
+        "trafficRank": 24,
+        "confirmedAt": 1636524771,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "modernizr",
+        "name": "Modernizr",
+        "versions": [
+          "2.7.1"
+        ],
+        "trafficRank": 24,
+        "confirmedAt": 1636524771,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "debian",
+        "name": "Debian",
+        "versions": [],
+        "trafficRank": 24,
+        "confirmedAt": 1636524771,
+        "categories": [
+          {
+            "id": 28,
+            "slug": "operating-systems",
+            "name": "Operating systems"
+          }
+        ]
+      },
+      {
+        "slug": "nginx",
+        "name": "Nginx",
+        "versions": [
+          "1.2.1"
+        ],
+        "trafficRank": 24,
+        "confirmedAt": 1636524771,
+        "categories": [
+          {
+            "id": 22,
+            "slug": "web-servers",
+            "name": "Web servers"
+          },
+          {
+            "id": 64,
+            "slug": "reverse-proxies",
+            "name": "Reverse proxies"
+          }
+        ]
+      },
+      {
+        "slug": "liveinternet",
+        "name": "Liveinternet",
+        "versions": [],
+        "trafficRank": 24,
+        "confirmedAt": 1636524771,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "recaptcha",
+        "name": "reCAPTCHA",
+        "versions": [],
+        "trafficRank": 24,
+        "confirmedAt": 1636524771,
+        "categories": [
+          {
+            "id": 16,
+            "slug": "security",
+            "name": "Security"
+          }
+        ]
+      },
+      {
+        "slug": "bootstrap",
+        "name": "Bootstrap",
+        "versions": [],
+        "trafficRank": 24,
+        "confirmedAt": 1636524771,
+        "categories": [
+          {
+            "id": 66,
+            "slug": "ui-frameworks",
+            "name": "UI frameworks"
+          }
+        ]
+      },
+      {
+        "slug": "font-awesome",
+        "name": "Font Awesome",
+        "versions": [],
+        "trafficRank": 24,
+        "confirmedAt": 1636524771,
+        "categories": [
+          {
+            "id": 17,
+            "slug": "font-scripts",
+            "name": "Font scripts"
+          }
+        ]
+      },
+      {
+        "slug": "select2",
+        "name": "Select2",
+        "versions": [],
+        "trafficRank": 24,
+        "confirmedAt": 1636524771,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      }
+    ]
+  }
+]

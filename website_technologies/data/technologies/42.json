@@ -1,0 +1,184 @@
+[
+  {
+    "url": "https://www.smtu.ru/",
+    "technologies": [
+      {
+        "slug": "nginx",
+        "name": "Nginx",
+        "versions": [],
+        "trafficRank": 0,
+        "confirmedAt": 1637360904,
+        "categories": [
+          {
+            "id": 22,
+            "slug": "web-servers",
+            "name": "Web servers"
+          },
+          {
+            "id": 64,
+            "slug": "reverse-proxies",
+            "name": "Reverse proxies"
+          }
+        ]
+      },
+      {
+        "slug": "google-tag-manager",
+        "name": "Google Tag Manager",
+        "versions": [],
+        "trafficRank": 0,
+        "confirmedAt": 1637360904,
+        "categories": [
+          {
+            "id": 42,
+            "slug": "tag-managers",
+            "name": "Tag managers"
+          }
+        ]
+      },
+      {
+        "slug": "php",
+        "name": "PHP",
+        "versions": [],
+        "trafficRank": 0,
+        "confirmedAt": 1637360904,
+        "categories": [
+          {
+            "id": 27,
+            "slug": "programming-languages",
+            "name": "Programming languages"
+          }
+        ]
+      },
+      {
+        "slug": "core-js",
+        "name": "core-js",
+        "versions": [
+          "3.6.5"
+        ],
+        "trafficRank": 0,
+        "confirmedAt": 1637360904,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "sectigo",
+        "name": "Sectigo",
+        "versions": [],
+        "trafficRank": 0,
+        "confirmedAt": 1637360904,
+        "categories": [
+          {
+            "id": 70,
+            "slug": "ssl-tls-certificate-authorities",
+            "name": "SSL/TLS certificate authorities"
+          }
+        ]
+      },
+      {
+        "slug": "facebook",
+        "name": "Facebook",
+        "versions": [],
+        "trafficRank": 0,
+        "confirmedAt": 1637360904,
+        "categories": [
+          {
+            "id": 5,
+            "slug": "widgets",
+            "name": "Widgets"
+          }
+        ]
+      },
+      {
+        "slug": "webpack",
+        "name": "webpack",
+        "versions": [],
+        "trafficRank": 0,
+        "confirmedAt": 1637360904,
+        "categories": [
+          {
+            "id": 19,
+            "slug": "miscellaneous",
+            "name": "Miscellaneous"
+          }
+        ]
+      },
+      {
+        "slug": "google-font-api",
+        "name": "Google Font API",
+        "versions": [],
+        "trafficRank": 0,
+        "confirmedAt": 1637360904,
+        "categories": [
+          {
+            "id": 17,
+            "slug": "font-scripts",
+            "name": "Font scripts"
+          }
+        ]
+      },
+      {
+        "slug": "google-analytics",
+        "name": "Google Analytics",
+        "versions": [],
+        "trafficRank": 0,
+        "confirmedAt": 1637360904,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "yandex-metrika",
+        "name": "Yandex.Metrika",
+        "versions": [],
+        "trafficRank": 0,
+        "confirmedAt": 1637360904,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "recaptcha",
+        "name": "reCAPTCHA",
+        "versions": [],
+        "trafficRank": 0,
+        "confirmedAt": 1637360904,
+        "categories": [
+          {
+            "id": 16,
+            "slug": "security",
+            "name": "Security"
+          }
+        ]
+      },
+      {
+        "slug": "facebook-pixel",
+        "name": "Facebook Pixel",
+        "versions": [
+          "2.9.48"
+        ],
+        "trafficRank": 0,
+        "confirmedAt": 1637360904,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      }
+    ]
+  }
+]

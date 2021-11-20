@@ -1,0 +1,211 @@
+[
+  {
+    "url": "https://www.pgups.ru/",
+    "technologies": [
+      {
+        "slug": "nginx",
+        "name": "Nginx",
+        "versions": [],
+        "trafficRank": 722,
+        "confirmedAt": 1636800809,
+        "categories": [
+          {
+            "id": 22,
+            "slug": "web-servers",
+            "name": "Web servers"
+          },
+          {
+            "id": 64,
+            "slug": "reverse-proxies",
+            "name": "Reverse proxies"
+          }
+        ]
+      },
+      {
+        "slug": "owl-carousel",
+        "name": "OWL Carousel",
+        "versions": [],
+        "trafficRank": 722,
+        "confirmedAt": 1636800809,
+        "categories": [
+          {
+            "id": 5,
+            "slug": "widgets",
+            "name": "Widgets"
+          }
+        ]
+      },
+      {
+        "slug": "php",
+        "name": "PHP",
+        "versions": [
+          "7.3.6"
+        ],
+        "trafficRank": 722,
+        "confirmedAt": 1636800809,
+        "categories": [
+          {
+            "id": 27,
+            "slug": "programming-languages",
+            "name": "Programming languages"
+          }
+        ]
+      },
+      {
+        "slug": "jquery",
+        "name": "jQuery",
+        "versions": [
+          "2.1.0"
+        ],
+        "trafficRank": 722,
+        "confirmedAt": 1636800809,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "plesk",
+        "name": "Plesk",
+        "versions": [],
+        "trafficRank": 722,
+        "confirmedAt": 1636800809,
+        "categories": [
+          {
+            "id": 9,
+            "slug": "hosting-panels",
+            "name": "Hosting panels"
+          }
+        ]
+      },
+      {
+        "slug": "font-awesome",
+        "name": "Font Awesome",
+        "versions": [],
+        "trafficRank": 722,
+        "confirmedAt": 1636800809,
+        "categories": [
+          {
+            "id": 17,
+            "slug": "font-scripts",
+            "name": "Font scripts"
+          }
+        ]
+      },
+      {
+        "slug": "modernizr",
+        "name": "Modernizr",
+        "versions": [
+          "2.7.1"
+        ],
+        "trafficRank": 722,
+        "confirmedAt": 1636800809,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "1c-bitrix",
+        "name": "1C-Bitrix",
+        "versions": [],
+        "trafficRank": 722,
+        "confirmedAt": 1636800809,
+        "categories": [
+          {
+            "id": 1,
+            "slug": "cms",
+            "name": "CMS"
+          },
+          {
+            "id": 6,
+            "slug": "ecommerce",
+            "name": "Ecommerce"
+          }
+        ]
+      },
+      {
+        "slug": "bootstrap",
+        "name": "Bootstrap",
+        "versions": [
+          "3.3.6"
+        ],
+        "trafficRank": 722,
+        "confirmedAt": 1636800809,
+        "categories": [
+          {
+            "id": 66,
+            "slug": "ui-frameworks",
+            "name": "UI frameworks"
+          }
+        ]
+      },
+      {
+        "slug": "underscore-js",
+        "name": "Underscore.js",
+        "versions": [
+          "1.8.3"
+        ],
+        "trafficRank": 722,
+        "confirmedAt": 1636800809,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "google-analytics",
+        "name": "Google Analytics",
+        "versions": [],
+        "trafficRank": 722,
+        "confirmedAt": 1636800809,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "yandex-metrika",
+        "name": "Yandex.Metrika",
+        "versions": [],
+        "trafficRank": 722,
+        "confirmedAt": 1636800809,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "moment-js",
+        "name": "Moment.js",
+        "versions": [
+          "2.29.1"
+        ],
+        "trafficRank": 722,
+        "confirmedAt": 1636800809,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      }
+    ]
+  }
+]

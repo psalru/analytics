@@ -1,0 +1,317 @@
+[
+  {
+    "url": "https://www.sechenov.ru/",
+    "technologies": [
+      {
+        "slug": "sectigo",
+        "name": "Sectigo",
+        "versions": [],
+        "trafficRank": 0,
+        "confirmedAt": 1635454758,
+        "categories": [
+          {
+            "id": 70,
+            "slug": "ssl-tls-certificate-authorities",
+            "name": "SSL/TLS certificate authorities"
+          }
+        ]
+      },
+      {
+        "slug": "slick",
+        "name": "Slick",
+        "versions": [],
+        "trafficRank": 181,
+        "confirmedAt": 1635454758,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "select2",
+        "name": "Select2",
+        "versions": [],
+        "trafficRank": 181,
+        "confirmedAt": 1635454758,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "facebook",
+        "name": "Facebook",
+        "versions": [],
+        "trafficRank": 651,
+        "confirmedAt": 1637279632,
+        "categories": [
+          {
+            "id": 5,
+            "slug": "widgets",
+            "name": "Widgets"
+          }
+        ]
+      },
+      {
+        "slug": "facebook-pixel",
+        "name": "Facebook Pixel",
+        "versions": [
+          "2.9.48",
+          "2.9.47"
+        ],
+        "trafficRank": 651,
+        "confirmedAt": 1637279632,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "twitter-ads",
+        "name": "Twitter Ads",
+        "versions": [],
+        "trafficRank": 661,
+        "confirmedAt": 1637194284,
+        "categories": [
+          {
+            "id": 36,
+            "slug": "advertising",
+            "name": "Advertising"
+          }
+        ]
+      },
+      {
+        "slug": "twitter",
+        "name": "Twitter",
+        "versions": [],
+        "trafficRank": 667,
+        "confirmedAt": 1637194284,
+        "categories": [
+          {
+            "id": 5,
+            "slug": "widgets",
+            "name": "Widgets"
+          }
+        ]
+      },
+      {
+        "slug": "fancybox",
+        "name": "FancyBox",
+        "versions": [
+          "2.1.5"
+        ],
+        "trafficRank": 732,
+        "confirmedAt": 1637279632,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "clipboard-js",
+        "name": "Clipboard.js",
+        "versions": [],
+        "trafficRank": 732,
+        "confirmedAt": 1637279632,
+        "categories": [
+          {
+            "id": 19,
+            "slug": "miscellaneous",
+            "name": "Miscellaneous"
+          }
+        ]
+      },
+      {
+        "slug": "jquery-ui",
+        "name": "jQuery UI",
+        "versions": [
+          "1.11.4"
+        ],
+        "trafficRank": 732,
+        "confirmedAt": 1637279632,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "owl-carousel",
+        "name": "OWL Carousel",
+        "versions": [],
+        "trafficRank": 732,
+        "confirmedAt": 1637279632,
+        "categories": [
+          {
+            "id": 5,
+            "slug": "widgets",
+            "name": "Widgets"
+          }
+        ]
+      },
+      {
+        "slug": "google-tag-manager",
+        "name": "Google Tag Manager",
+        "versions": [],
+        "trafficRank": 736,
+        "confirmedAt": 1637279632,
+        "categories": [
+          {
+            "id": 42,
+            "slug": "tag-managers",
+            "name": "Tag managers"
+          }
+        ]
+      },
+      {
+        "slug": "core-js",
+        "name": "core-js",
+        "versions": [
+          "2.6.3",
+          "3.15.2"
+        ],
+        "trafficRank": 736,
+        "confirmedAt": 1637279632,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "php",
+        "name": "PHP",
+        "versions": [
+          "7.2.34"
+        ],
+        "trafficRank": 736,
+        "confirmedAt": 1637279632,
+        "categories": [
+          {
+            "id": 27,
+            "slug": "programming-languages",
+            "name": "Programming languages"
+          }
+        ]
+      },
+      {
+        "slug": "jquery",
+        "name": "jQuery",
+        "versions": [
+          "1.12.2",
+          "3.4.1"
+        ],
+        "trafficRank": 736,
+        "confirmedAt": 1637279632,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "yandex-metrika",
+        "name": "Yandex.Metrika",
+        "versions": [],
+        "trafficRank": 736,
+        "confirmedAt": 1637279632,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "bootstrap",
+        "name": "Bootstrap",
+        "versions": [
+          "3.3.6",
+          "4.4.1"
+        ],
+        "trafficRank": 736,
+        "confirmedAt": 1637279632,
+        "categories": [
+          {
+            "id": 66,
+            "slug": "ui-frameworks",
+            "name": "UI frameworks"
+          }
+        ]
+      },
+      {
+        "slug": "1c-bitrix",
+        "name": "1C-Bitrix",
+        "versions": [],
+        "trafficRank": 736,
+        "confirmedAt": 1637279632,
+        "categories": [
+          {
+            "id": 1,
+            "slug": "cms",
+            "name": "CMS"
+          },
+          {
+            "id": 6,
+            "slug": "ecommerce",
+            "name": "Ecommerce"
+          }
+        ]
+      },
+      {
+        "slug": "google-analytics",
+        "name": "Google Analytics",
+        "versions": [],
+        "trafficRank": 736,
+        "confirmedAt": 1637279632,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "nginx",
+        "name": "Nginx",
+        "versions": [
+          "1.16.1"
+        ],
+        "trafficRank": 747,
+        "confirmedAt": 1637352932,
+        "categories": [
+          {
+            "id": 22,
+            "slug": "web-servers",
+            "name": "Web servers"
+          },
+          {
+            "id": 64,
+            "slug": "reverse-proxies",
+            "name": "Reverse proxies"
+          }
+        ]
+      }
+    ]
+  }
+]

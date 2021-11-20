@@ -1,0 +1,214 @@
+[
+  {
+    "url": "https://www.susu.ru/ru",
+    "technologies": [
+      {
+        "slug": "youtube",
+        "name": "YouTube",
+        "versions": [],
+        "trafficRank": 149,
+        "confirmedAt": 1636489257,
+        "categories": [
+          {
+            "id": 14,
+            "slug": "video-players",
+            "name": "Video players"
+          }
+        ]
+      },
+      {
+        "slug": "google-tag-manager",
+        "name": "Google Tag Manager",
+        "versions": [],
+        "trafficRank": 197,
+        "confirmedAt": 1636489257,
+        "categories": [
+          {
+            "id": 42,
+            "slug": "tag-managers",
+            "name": "Tag managers"
+          }
+        ]
+      },
+      {
+        "slug": "php",
+        "name": "PHP",
+        "versions": [],
+        "trafficRank": 206,
+        "confirmedAt": 1636489257,
+        "categories": [
+          {
+            "id": 27,
+            "slug": "programming-languages",
+            "name": "Programming languages"
+          }
+        ]
+      },
+      {
+        "slug": "drupal",
+        "name": "Drupal",
+        "versions": [],
+        "trafficRank": 206,
+        "confirmedAt": 1636489257,
+        "categories": [
+          {
+            "id": 1,
+            "slug": "cms",
+            "name": "CMS"
+          }
+        ]
+      },
+      {
+        "slug": "jquery",
+        "name": "jQuery",
+        "versions": [
+          "1.10.2"
+        ],
+        "trafficRank": 197,
+        "confirmedAt": 1636489257,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "vk-pixel",
+        "name": "VK Pixel",
+        "versions": [],
+        "trafficRank": 197,
+        "confirmedAt": 1636489257,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "jquery-ui",
+        "name": "jQuery UI",
+        "versions": [
+          "1.10.2"
+        ],
+        "trafficRank": 197,
+        "confirmedAt": 1636489257,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "facebook",
+        "name": "Facebook",
+        "versions": [],
+        "trafficRank": 193,
+        "confirmedAt": 1636489257,
+        "categories": [
+          {
+            "id": 5,
+            "slug": "widgets",
+            "name": "Widgets"
+          }
+        ]
+      },
+      {
+        "slug": "bootstrap",
+        "name": "Bootstrap",
+        "versions": [
+          "3.3.7"
+        ],
+        "trafficRank": 197,
+        "confirmedAt": 1636489257,
+        "categories": [
+          {
+            "id": 66,
+            "slug": "ui-frameworks",
+            "name": "UI frameworks"
+          }
+        ]
+      },
+      {
+        "slug": "google-analytics",
+        "name": "Google Analytics",
+        "versions": [],
+        "trafficRank": 204,
+        "confirmedAt": 1636489257,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "yandex-metrika",
+        "name": "Yandex.Metrika",
+        "versions": [],
+        "trafficRank": 197,
+        "confirmedAt": 1636489257,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "facebook-pixel",
+        "name": "Facebook Pixel",
+        "versions": [
+          "2.9.48",
+          "2.9.47"
+        ],
+        "trafficRank": 193,
+        "confirmedAt": 1636489257,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "debian",
+        "name": "Debian",
+        "versions": [],
+        "trafficRank": 212,
+        "confirmedAt": 1636489257,
+        "categories": [
+          {
+            "id": 28,
+            "slug": "operating-systems",
+            "name": "Operating systems"
+          }
+        ]
+      },
+      {
+        "slug": "apache",
+        "name": "Apache",
+        "versions": [
+          "2.4.10"
+        ],
+        "trafficRank": 212,
+        "confirmedAt": 1636489257,
+        "categories": [
+          {
+            "id": 22,
+            "slug": "web-servers",
+            "name": "Web servers"
+          }
+        ]
+      }
+    ]
+  }
+]

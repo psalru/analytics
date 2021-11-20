@@ -1,0 +1,157 @@
+[
+  {
+    "url": "https://mpei.ru/",
+    "technologies": [
+      {
+        "slug": "jquery-ui",
+        "name": "jQuery UI",
+        "versions": [
+          "1.8.17"
+        ],
+        "trafficRank": 2060,
+        "confirmedAt": 1635705942,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "twitter-ads",
+        "name": "Twitter Ads",
+        "versions": [],
+        "trafficRank": 2437,
+        "confirmedAt": 1635402117,
+        "categories": [
+          {
+            "id": 36,
+            "slug": "advertising",
+            "name": "Advertising"
+          }
+        ]
+      },
+      {
+        "slug": "twitter",
+        "name": "Twitter",
+        "versions": [],
+        "trafficRank": 2746,
+        "confirmedAt": 1635705942,
+        "categories": [
+          {
+            "id": 5,
+            "slug": "widgets",
+            "name": "Widgets"
+          }
+        ]
+      },
+      {
+        "slug": "yandex-metrika",
+        "name": "Yandex.Metrika",
+        "versions": [],
+        "trafficRank": 2767,
+        "confirmedAt": 1635705942,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "google-analytics",
+        "name": "Google Analytics",
+        "versions": [],
+        "trafficRank": 2767,
+        "confirmedAt": 1635705942,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "iis",
+        "name": "IIS",
+        "versions": [
+          "7.5"
+        ],
+        "trafficRank": 2768,
+        "confirmedAt": 1635705942,
+        "categories": [
+          {
+            "id": 22,
+            "slug": "web-servers",
+            "name": "Web servers"
+          }
+        ]
+      },
+      {
+        "slug": "windows-server",
+        "name": "Windows Server",
+        "versions": [],
+        "trafficRank": 2768,
+        "confirmedAt": 1635705941,
+        "categories": [
+          {
+            "id": 28,
+            "slug": "operating-systems",
+            "name": "Operating systems"
+          }
+        ]
+      },
+      {
+        "slug": "jquery",
+        "name": "jQuery",
+        "versions": [
+          "1.7.1"
+        ],
+        "trafficRank": 2772,
+        "confirmedAt": 1635705942,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "microsoft-asp-net",
+        "name": "Microsoft ASP.NET",
+        "versions": [
+          "2.0.50727"
+        ],
+        "trafficRank": 2807,
+        "confirmedAt": 1635705941,
+        "categories": [
+          {
+            "id": 18,
+            "slug": "web-frameworks",
+            "name": "Web frameworks"
+          }
+        ]
+      },
+      {
+        "slug": "microsoft-sharepoint",
+        "name": "Microsoft SharePoint",
+        "versions": [
+          "14.0.0.7015"
+        ],
+        "trafficRank": 2807,
+        "confirmedAt": 1635705941,
+        "categories": [
+          {
+            "id": 1,
+            "slug": "cms",
+            "name": "CMS"
+          }
+        ]
+      }
+    ]
+  }
+]

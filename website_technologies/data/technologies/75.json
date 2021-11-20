@@ -1,0 +1,214 @@
+[
+  {
+    "url": "http://oreluniver.ru/",
+    "technologies": [
+      {
+        "slug": "ckeditor",
+        "name": "CKEditor",
+        "versions": [
+          "4.5.8"
+        ],
+        "trafficRank": 349,
+        "confirmedAt": 1634743332,
+        "categories": [
+          {
+            "id": 24,
+            "slug": "rich-text-editors",
+            "name": "Rich text editors"
+          }
+        ]
+      },
+      {
+        "slug": "apache",
+        "name": "Apache",
+        "versions": [],
+        "trafficRank": 980,
+        "confirmedAt": 1636405524,
+        "categories": [
+          {
+            "id": 22,
+            "slug": "web-servers",
+            "name": "Web servers"
+          }
+        ]
+      },
+      {
+        "slug": "cdnjs",
+        "name": "cdnjs",
+        "versions": [],
+        "trafficRank": 564,
+        "confirmedAt": 1636405524,
+        "categories": [
+          {
+            "id": 31,
+            "slug": "cdn",
+            "name": "CDN"
+          }
+        ]
+      },
+      {
+        "slug": "php",
+        "name": "PHP",
+        "versions": [],
+        "trafficRank": 960,
+        "confirmedAt": 1636405524,
+        "categories": [
+          {
+            "id": 27,
+            "slug": "programming-languages",
+            "name": "Programming languages"
+          }
+        ]
+      },
+      {
+        "slug": "prettyphoto",
+        "name": "prettyPhoto",
+        "versions": [],
+        "trafficRank": 913,
+        "confirmedAt": 1636405524,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "jquery",
+        "name": "jQuery",
+        "versions": [
+          "1.11.2"
+        ],
+        "trafficRank": 913,
+        "confirmedAt": 1636405524,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "jquery-migrate",
+        "name": "jQuery Migrate",
+        "versions": [
+          "1.2.1"
+        ],
+        "trafficRank": 913,
+        "confirmedAt": 1636405524,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "jquery-ui",
+        "name": "jQuery UI",
+        "versions": [
+          "1.11.2"
+        ],
+        "trafficRank": 913,
+        "confirmedAt": 1636405524,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "font-awesome",
+        "name": "Font Awesome",
+        "versions": [],
+        "trafficRank": 913,
+        "confirmedAt": 1636405524,
+        "categories": [
+          {
+            "id": 17,
+            "slug": "font-scripts",
+            "name": "Font scripts"
+          }
+        ]
+      },
+      {
+        "slug": "google-font-api",
+        "name": "Google Font API",
+        "versions": [],
+        "trafficRank": 934,
+        "confirmedAt": 1636405524,
+        "categories": [
+          {
+            "id": 17,
+            "slug": "font-scripts",
+            "name": "Font scripts"
+          }
+        ]
+      },
+      {
+        "slug": "bootstrap",
+        "name": "Bootstrap",
+        "versions": [
+          "3.3.6"
+        ],
+        "trafficRank": 913,
+        "confirmedAt": 1636405524,
+        "categories": [
+          {
+            "id": 66,
+            "slug": "ui-frameworks",
+            "name": "UI frameworks"
+          }
+        ]
+      },
+      {
+        "slug": "google-analytics",
+        "name": "Google Analytics",
+        "versions": [],
+        "trafficRank": 913,
+        "confirmedAt": 1636405524,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "yandex-metrika",
+        "name": "Yandex.Metrika",
+        "versions": [],
+        "trafficRank": 913,
+        "confirmedAt": 1636405524,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "recaptcha",
+        "name": "reCAPTCHA",
+        "versions": [],
+        "trafficRank": 913,
+        "confirmedAt": 1636405524,
+        "categories": [
+          {
+            "id": 16,
+            "slug": "security",
+            "name": "Security"
+          }
+        ]
+      }
+    ],
+    "crawl": true
+  }
+]

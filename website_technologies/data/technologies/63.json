@@ -1,0 +1,246 @@
+[
+  {
+    "url": "https://ssau.ru/",
+    "technologies": [
+      {
+        "slug": "google-analytics",
+        "name": "Google Analytics",
+        "versions": [],
+        "trafficRank": 245,
+        "confirmedAt": 1635241162,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "choices",
+        "name": "Choices",
+        "versions": [],
+        "trafficRank": 381,
+        "confirmedAt": 1635671845,
+        "categories": [
+          {
+            "id": 19,
+            "slug": "miscellaneous",
+            "name": "Miscellaneous"
+          }
+        ]
+      },
+      {
+        "slug": "php",
+        "name": "PHP",
+        "versions": [],
+        "trafficRank": 464,
+        "confirmedAt": 1635671845,
+        "categories": [
+          {
+            "id": 27,
+            "slug": "programming-languages",
+            "name": "Programming languages"
+          }
+        ]
+      },
+      {
+        "slug": "laravel",
+        "name": "Laravel",
+        "versions": [],
+        "trafficRank": 464,
+        "confirmedAt": 1635671845,
+        "categories": [
+          {
+            "id": 18,
+            "slug": "web-frameworks",
+            "name": "Web frameworks"
+          }
+        ]
+      },
+      {
+        "slug": "core-js",
+        "name": "core-js",
+        "versions": [
+          "3.6.5"
+        ],
+        "trafficRank": 466,
+        "confirmedAt": 1635529215,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "lodash",
+        "name": "Lodash",
+        "versions": [
+          "4.17.19"
+        ],
+        "trafficRank": 466,
+        "confirmedAt": 1635529215,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "jquery",
+        "name": "jQuery",
+        "versions": [
+          "3.5.1"
+        ],
+        "trafficRank": 466,
+        "confirmedAt": 1635529215,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "webpack",
+        "name": "webpack",
+        "versions": [],
+        "trafficRank": 466,
+        "confirmedAt": 1635529215,
+        "categories": [
+          {
+            "id": 19,
+            "slug": "miscellaneous",
+            "name": "Miscellaneous"
+          }
+        ]
+      },
+      {
+        "slug": "axios",
+        "name": "Axios",
+        "versions": [],
+        "trafficRank": 466,
+        "confirmedAt": 1635529215,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "babel",
+        "name": "Babel",
+        "versions": [],
+        "trafficRank": 466,
+        "confirmedAt": 1635529215,
+        "categories": [
+          {
+            "id": 19,
+            "slug": "miscellaneous",
+            "name": "Miscellaneous"
+          }
+        ]
+      },
+      {
+        "slug": "swiper-slider",
+        "name": "Swiper Slider",
+        "versions": [],
+        "trafficRank": 466,
+        "confirmedAt": 1635529215,
+        "categories": [
+          {
+            "id": 19,
+            "slug": "miscellaneous",
+            "name": "Miscellaneous"
+          }
+        ]
+      },
+      {
+        "slug": "datatables",
+        "name": "DataTables",
+        "versions": [
+          "1.10.21"
+        ],
+        "trafficRank": 466,
+        "confirmedAt": 1635529215,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "yandex-metrika",
+        "name": "Yandex.Metrika",
+        "versions": [],
+        "trafficRank": 469,
+        "confirmedAt": 1635671845,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "nginx",
+        "name": "Nginx",
+        "versions": [
+          "1.14.0"
+        ],
+        "trafficRank": 469,
+        "confirmedAt": 1635671845,
+        "categories": [
+          {
+            "id": 22,
+            "slug": "web-servers",
+            "name": "Web servers"
+          },
+          {
+            "id": 64,
+            "slug": "reverse-proxies",
+            "name": "Reverse proxies"
+          }
+        ]
+      },
+      {
+        "slug": "ubuntu",
+        "name": "Ubuntu",
+        "versions": [],
+        "trafficRank": 469,
+        "confirmedAt": 1635671845,
+        "categories": [
+          {
+            "id": 28,
+            "slug": "operating-systems",
+            "name": "Operating systems"
+          }
+        ]
+      },
+      {
+        "slug": "vk-pixel",
+        "name": "VK Pixel",
+        "versions": [],
+        "trafficRank": 469,
+        "confirmedAt": 1635671845,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      }
+    ]
+  }
+]

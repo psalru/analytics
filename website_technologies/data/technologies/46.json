@@ -1,0 +1,158 @@
+[
+  {
+    "url": "https://bashedu.ru/",
+    "technologies": [
+      {
+        "slug": "sectigo",
+        "name": "Sectigo",
+        "versions": [],
+        "trafficRank": 0,
+        "confirmedAt": 1633491736,
+        "categories": [
+          {
+            "id": 70,
+            "slug": "ssl-tls-certificate-authorities",
+            "name": "SSL/TLS certificate authorities"
+          }
+        ]
+      },
+      {
+        "slug": "core-js",
+        "name": "core-js",
+        "versions": [
+          "3.15.2"
+        ],
+        "trafficRank": 144,
+        "confirmedAt": 1635322027,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "webpack",
+        "name": "webpack",
+        "versions": [],
+        "trafficRank": 144,
+        "confirmedAt": 1635322027,
+        "categories": [
+          {
+            "id": 19,
+            "slug": "miscellaneous",
+            "name": "Miscellaneous"
+          }
+        ]
+      },
+      {
+        "slug": "mediaelement-js",
+        "name": "MediaElement.js",
+        "versions": [
+          "4.2.12"
+        ],
+        "trafficRank": 186,
+        "confirmedAt": 1635322027,
+        "categories": [
+          {
+            "id": 14,
+            "slug": "video-players",
+            "name": "Video players"
+          }
+        ]
+      },
+      {
+        "slug": "php",
+        "name": "PHP",
+        "versions": [],
+        "trafficRank": 198,
+        "confirmedAt": 1635680183,
+        "categories": [
+          {
+            "id": 27,
+            "slug": "programming-languages",
+            "name": "Programming languages"
+          }
+        ]
+      },
+      {
+        "slug": "jquery",
+        "name": "jQuery",
+        "versions": [
+          "3.5.1"
+        ],
+        "trafficRank": 198,
+        "confirmedAt": 1635680183,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "yandex-metrika",
+        "name": "Yandex.Metrika",
+        "versions": [],
+        "trafficRank": 198,
+        "confirmedAt": 1635680183,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "apache",
+        "name": "Apache",
+        "versions": [
+          "2.4.41"
+        ],
+        "trafficRank": 198,
+        "confirmedAt": 1635680183,
+        "categories": [
+          {
+            "id": 22,
+            "slug": "web-servers",
+            "name": "Web servers"
+          }
+        ]
+      },
+      {
+        "slug": "drupal",
+        "name": "Drupal",
+        "versions": [
+          "9"
+        ],
+        "trafficRank": 198,
+        "confirmedAt": 1635680183,
+        "categories": [
+          {
+            "id": 1,
+            "slug": "cms",
+            "name": "CMS"
+          }
+        ]
+      },
+      {
+        "slug": "ubuntu",
+        "name": "Ubuntu",
+        "versions": [],
+        "trafficRank": 198,
+        "confirmedAt": 1635680183,
+        "categories": [
+          {
+            "id": 28,
+            "slug": "operating-systems",
+            "name": "Operating systems"
+          }
+        ]
+      }
+    ],
+    "crawl": true
+  }
+]

@@ -1,0 +1,195 @@
+[
+  {
+    "url": "https://marsu.ru/",
+    "technologies": [
+      {
+        "slug": "nginx",
+        "name": "Nginx",
+        "versions": [],
+        "trafficRank": 10,
+        "confirmedAt": 1636693425,
+        "categories": [
+          {
+            "id": 22,
+            "slug": "web-servers",
+            "name": "Web servers"
+          },
+          {
+            "id": 64,
+            "slug": "reverse-proxies",
+            "name": "Reverse proxies"
+          }
+        ]
+      },
+      {
+        "slug": "fancybox",
+        "name": "FancyBox",
+        "versions": [
+          "3.5.7"
+        ],
+        "trafficRank": 10,
+        "confirmedAt": 1636693425,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "php",
+        "name": "PHP",
+        "versions": [],
+        "trafficRank": 10,
+        "confirmedAt": 1636693425,
+        "categories": [
+          {
+            "id": 27,
+            "slug": "programming-languages",
+            "name": "Programming languages"
+          }
+        ]
+      },
+      {
+        "slug": "core-js",
+        "name": "core-js",
+        "versions": [
+          "2.6.3"
+        ],
+        "trafficRank": 10,
+        "confirmedAt": 1636693425,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "jquery",
+        "name": "jQuery",
+        "versions": [
+          "1.11.1"
+        ],
+        "trafficRank": 10,
+        "confirmedAt": 1636693425,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "jquery-ui",
+        "name": "jQuery UI",
+        "versions": [
+          "1.12.1"
+        ],
+        "trafficRank": 10,
+        "confirmedAt": 1636693425,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "flexslider",
+        "name": "FlexSlider",
+        "versions": [],
+        "trafficRank": 10,
+        "confirmedAt": 1636693425,
+        "categories": [
+          {
+            "id": 5,
+            "slug": "widgets",
+            "name": "Widgets"
+          }
+        ]
+      },
+      {
+        "slug": "font-awesome",
+        "name": "Font Awesome",
+        "versions": [],
+        "trafficRank": 10,
+        "confirmedAt": 1636693425,
+        "categories": [
+          {
+            "id": 17,
+            "slug": "font-scripts",
+            "name": "Font scripts"
+          }
+        ]
+      },
+      {
+        "slug": "1c-bitrix",
+        "name": "1C-Bitrix",
+        "versions": [],
+        "trafficRank": 10,
+        "confirmedAt": 1636693425,
+        "categories": [
+          {
+            "id": 1,
+            "slug": "cms",
+            "name": "CMS"
+          },
+          {
+            "id": 6,
+            "slug": "ecommerce",
+            "name": "Ecommerce"
+          }
+        ]
+      },
+      {
+        "slug": "google-analytics",
+        "name": "Google Analytics",
+        "versions": [],
+        "trafficRank": 10,
+        "confirmedAt": 1636693425,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "recaptcha",
+        "name": "reCAPTCHA",
+        "versions": [],
+        "trafficRank": 10,
+        "confirmedAt": 1636693425,
+        "categories": [
+          {
+            "id": 16,
+            "slug": "security",
+            "name": "Security"
+          }
+        ]
+      },
+      {
+        "slug": "moment-js",
+        "name": "Moment.js",
+        "versions": [
+          "2.13.0"
+        ],
+        "trafficRank": 10,
+        "confirmedAt": 1636693425,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      }
+    ]
+  }
+]

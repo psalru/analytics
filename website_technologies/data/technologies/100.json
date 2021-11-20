@@ -1,0 +1,255 @@
+[
+  {
+    "url": "https://swsu.ru/",
+    "technologies": [
+      {
+        "slug": "preact",
+        "name": "Preact",
+        "versions": [],
+        "trafficRank": 49,
+        "confirmedAt": 1634990486,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "jivochat",
+        "name": "JivoChat",
+        "versions": [
+          "43.8.0",
+          "44.10.0",
+          "45.2.0",
+          "45.10.0"
+        ],
+        "trafficRank": 53,
+        "confirmedAt": 1634990486,
+        "categories": [
+          {
+            "id": 52,
+            "slug": "live-chat",
+            "name": "Live chat"
+          }
+        ]
+      },
+      {
+        "slug": "font-awesome",
+        "name": "Font Awesome",
+        "versions": [],
+        "trafficRank": 53,
+        "confirmedAt": 1634990486,
+        "categories": [
+          {
+            "id": 17,
+            "slug": "font-scripts",
+            "name": "Font scripts"
+          }
+        ]
+      },
+      {
+        "slug": "google-tag-manager",
+        "name": "Google Tag Manager",
+        "versions": [],
+        "trafficRank": 57,
+        "confirmedAt": 1634990486,
+        "categories": [
+          {
+            "id": 42,
+            "slug": "tag-managers",
+            "name": "Tag managers"
+          }
+        ]
+      },
+      {
+        "slug": "core-js",
+        "name": "core-js",
+        "versions": [
+          "2.6.3"
+        ],
+        "trafficRank": 84,
+        "confirmedAt": 1635584299,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "php",
+        "name": "PHP",
+        "versions": [],
+        "trafficRank": 84,
+        "confirmedAt": 1635584299,
+        "categories": [
+          {
+            "id": 27,
+            "slug": "programming-languages",
+            "name": "Programming languages"
+          }
+        ]
+      },
+      {
+        "slug": "jquery",
+        "name": "jQuery",
+        "versions": [
+          "1.12.4"
+        ],
+        "trafficRank": 84,
+        "confirmedAt": 1635584299,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "yandex-metrika",
+        "name": "Yandex.Metrika",
+        "versions": [],
+        "trafficRank": 84,
+        "confirmedAt": 1635584299,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "fancybox",
+        "name": "FancyBox",
+        "versions": [
+          "2.1.5"
+        ],
+        "trafficRank": 84,
+        "confirmedAt": 1635584299,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "userway",
+        "name": "UserWay",
+        "versions": [],
+        "trafficRank": 84,
+        "confirmedAt": 1635584299,
+        "categories": [
+          {
+            "id": 68,
+            "slug": "accessibility",
+            "name": "Accessibility"
+          }
+        ]
+      },
+      {
+        "slug": "bootstrap",
+        "name": "Bootstrap",
+        "versions": [
+          "3.3.7",
+          "4.5.2"
+        ],
+        "trafficRank": 84,
+        "confirmedAt": 1635584299,
+        "categories": [
+          {
+            "id": 66,
+            "slug": "ui-frameworks",
+            "name": "UI frameworks"
+          }
+        ]
+      },
+      {
+        "slug": "google-remarketing-tag",
+        "name": "Google Remarketing Tag",
+        "versions": [],
+        "trafficRank": 84,
+        "confirmedAt": 1635584299,
+        "categories": [
+          {
+            "id": 77,
+            "slug": "retargeting",
+            "name": "Retargeting"
+          }
+        ]
+      },
+      {
+        "slug": "1c-bitrix",
+        "name": "1C-Bitrix",
+        "versions": [],
+        "trafficRank": 84,
+        "confirmedAt": 1635584299,
+        "categories": [
+          {
+            "id": 1,
+            "slug": "cms",
+            "name": "CMS"
+          },
+          {
+            "id": 6,
+            "slug": "ecommerce",
+            "name": "Ecommerce"
+          }
+        ]
+      },
+      {
+        "slug": "vk-pixel",
+        "name": "VK Pixel",
+        "versions": [],
+        "trafficRank": 84,
+        "confirmedAt": 1635584299,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "google-analytics",
+        "name": "Google Analytics",
+        "versions": [],
+        "trafficRank": 84,
+        "confirmedAt": 1635584299,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "nginx",
+        "name": "Nginx",
+        "versions": [],
+        "trafficRank": 201,
+        "confirmedAt": 1636961521,
+        "categories": [
+          {
+            "id": 22,
+            "slug": "web-servers",
+            "name": "Web servers"
+          },
+          {
+            "id": 64,
+            "slug": "reverse-proxies",
+            "name": "Reverse proxies"
+          }
+        ]
+      }
+    ]
+  }
+]

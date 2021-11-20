@@ -1,0 +1,255 @@
+[
+  {
+    "url": "https://tusur.ru/",
+    "technologies": [
+      {
+        "slug": "sectigo",
+        "name": "Sectigo",
+        "versions": [],
+        "trafficRank": 0,
+        "confirmedAt": 1633753601,
+        "categories": [
+          {
+            "id": 70,
+            "slug": "ssl-tls-certificate-authorities",
+            "name": "SSL/TLS certificate authorities"
+          }
+        ]
+      },
+      {
+        "slug": "core-js",
+        "name": "core-js",
+        "versions": [
+          "3.0.0",
+          "3.15.2"
+        ],
+        "trafficRank": 25,
+        "confirmedAt": 1635559392,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "jquery",
+        "name": "jQuery",
+        "versions": [
+          "1.12.4"
+        ],
+        "trafficRank": 69,
+        "confirmedAt": 1637057665,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "webpack",
+        "name": "webpack",
+        "versions": [],
+        "trafficRank": 69,
+        "confirmedAt": 1637057665,
+        "categories": [
+          {
+            "id": 19,
+            "slug": "miscellaneous",
+            "name": "Miscellaneous"
+          }
+        ]
+      },
+      {
+        "slug": "angularjs",
+        "name": "AngularJS",
+        "versions": [
+          "1.5.11"
+        ],
+        "trafficRank": 69,
+        "confirmedAt": 1637057665,
+        "categories": [
+          {
+            "id": 12,
+            "slug": "javascript-frameworks",
+            "name": "JavaScript frameworks"
+          }
+        ]
+      },
+      {
+        "slug": "bootstrap",
+        "name": "Bootstrap",
+        "versions": [
+          "3.3.7"
+        ],
+        "trafficRank": 69,
+        "confirmedAt": 1637057665,
+        "categories": [
+          {
+            "id": 66,
+            "slug": "ui-frameworks",
+            "name": "UI frameworks"
+          }
+        ]
+      },
+      {
+        "slug": "jquery-ui",
+        "name": "jQuery UI",
+        "versions": [
+          "1.9.2"
+        ],
+        "trafficRank": 69,
+        "confirmedAt": 1637057665,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "highcharts",
+        "name": "Highcharts",
+        "versions": [
+          "4.1.9"
+        ],
+        "trafficRank": 69,
+        "confirmedAt": 1637057665,
+        "categories": [
+          {
+            "id": 25,
+            "slug": "javascript-graphics",
+            "name": "JavaScript graphics"
+          }
+        ]
+      },
+      {
+        "slug": "ckeditor",
+        "name": "CKEditor",
+        "versions": [
+          "4.6.2"
+        ],
+        "trafficRank": 69,
+        "confirmedAt": 1637057665,
+        "categories": [
+          {
+            "id": 24,
+            "slug": "rich-text-editors",
+            "name": "Rich text editors"
+          }
+        ]
+      },
+      {
+        "slug": "facebook",
+        "name": "Facebook",
+        "versions": [],
+        "trafficRank": 72,
+        "confirmedAt": 1637057665,
+        "categories": [
+          {
+            "id": 5,
+            "slug": "widgets",
+            "name": "Widgets"
+          }
+        ]
+      },
+      {
+        "slug": "facebook-pixel",
+        "name": "Facebook Pixel",
+        "versions": [
+          "2.9.47",
+          "2.9.48"
+        ],
+        "trafficRank": 72,
+        "confirmedAt": 1637057665,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "yandex-metrika",
+        "name": "Yandex.Metrika",
+        "versions": [],
+        "trafficRank": 72,
+        "confirmedAt": 1637057665,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "nginx",
+        "name": "Nginx",
+        "versions": [],
+        "trafficRank": 72,
+        "confirmedAt": 1637057665,
+        "categories": [
+          {
+            "id": 22,
+            "slug": "web-servers",
+            "name": "Web servers"
+          },
+          {
+            "id": 64,
+            "slug": "reverse-proxies",
+            "name": "Reverse proxies"
+          }
+        ]
+      },
+      {
+        "slug": "ruby-on-rails",
+        "name": "Ruby on Rails",
+        "versions": [],
+        "trafficRank": 72,
+        "confirmedAt": 1637057665,
+        "categories": [
+          {
+            "id": 18,
+            "slug": "web-frameworks",
+            "name": "Web frameworks"
+          }
+        ]
+      },
+      {
+        "slug": "ruby",
+        "name": "Ruby",
+        "versions": [],
+        "trafficRank": 72,
+        "confirmedAt": 1637057665,
+        "categories": [
+          {
+            "id": 27,
+            "slug": "programming-languages",
+            "name": "Programming languages"
+          }
+        ]
+      },
+      {
+        "slug": "google-analytics",
+        "name": "Google Analytics",
+        "versions": [],
+        "trafficRank": 72,
+        "confirmedAt": 1637057665,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      }
+    ],
+    "crawl": true
+  }
+]

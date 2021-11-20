@@ -1,0 +1,237 @@
+[
+  {
+    "url": "https://www.ranepa.ru/",
+    "technologies": [
+      {
+        "slug": "youtube",
+        "name": "YouTube",
+        "versions": [],
+        "trafficRank": 118,
+        "confirmedAt": 1635409848,
+        "categories": [
+          {
+            "id": 14,
+            "slug": "video-players",
+            "name": "Video players"
+          }
+        ]
+      },
+      {
+        "slug": "cdnjs",
+        "name": "cdnjs",
+        "versions": [],
+        "trafficRank": 133,
+        "confirmedAt": 1636902583,
+        "categories": [
+          {
+            "id": 31,
+            "slug": "cdn",
+            "name": "CDN"
+          }
+        ]
+      },
+      {
+        "slug": "mediaelement-js",
+        "name": "MediaElement.js",
+        "versions": [
+          "2.15.1"
+        ],
+        "trafficRank": 273,
+        "confirmedAt": 1636902583,
+        "categories": [
+          {
+            "id": 14,
+            "slug": "video-players",
+            "name": "Video players"
+          }
+        ]
+      },
+      {
+        "slug": "jquery-migrate",
+        "name": "jQuery Migrate",
+        "versions": [],
+        "trafficRank": 288,
+        "confirmedAt": 1636902583,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "core-js",
+        "name": "core-js",
+        "versions": [
+          "2.6.3",
+          "3.6.5"
+        ],
+        "trafficRank": 288,
+        "confirmedAt": 1636902583,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "bitrix24",
+        "name": "Bitrix24",
+        "versions": [],
+        "trafficRank": 288,
+        "confirmedAt": 1636902583,
+        "categories": [
+          {
+            "id": 53,
+            "slug": "crm",
+            "name": "CRM"
+          }
+        ]
+      },
+      {
+        "slug": "fancybox",
+        "name": "FancyBox",
+        "versions": [
+          "2.1.5"
+        ],
+        "trafficRank": 288,
+        "confirmedAt": 1636902583,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "swiper-slider",
+        "name": "Swiper Slider",
+        "versions": [],
+        "trafficRank": 288,
+        "confirmedAt": 1636902583,
+        "categories": [
+          {
+            "id": 19,
+            "slug": "miscellaneous",
+            "name": "Miscellaneous"
+          }
+        ]
+      },
+      {
+        "slug": "php",
+        "name": "PHP",
+        "versions": [],
+        "trafficRank": 298,
+        "confirmedAt": 1636902583,
+        "categories": [
+          {
+            "id": 27,
+            "slug": "programming-languages",
+            "name": "Programming languages"
+          }
+        ]
+      },
+      {
+        "slug": "jquery",
+        "name": "jQuery",
+        "versions": [
+          "1.11.3",
+          "3.1.12"
+        ],
+        "trafficRank": 298,
+        "confirmedAt": 1636902583,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "yandex-metrika",
+        "name": "Yandex.Metrika",
+        "versions": [],
+        "trafficRank": 298,
+        "confirmedAt": 1636902583,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "nginx",
+        "name": "Nginx",
+        "versions": [],
+        "trafficRank": 298,
+        "confirmedAt": 1636902583,
+        "categories": [
+          {
+            "id": 22,
+            "slug": "web-servers",
+            "name": "Web servers"
+          },
+          {
+            "id": 64,
+            "slug": "reverse-proxies",
+            "name": "Reverse proxies"
+          }
+        ]
+      },
+      {
+        "slug": "font-awesome",
+        "name": "Font Awesome",
+        "versions": [],
+        "trafficRank": 298,
+        "confirmedAt": 1636902583,
+        "categories": [
+          {
+            "id": 17,
+            "slug": "font-scripts",
+            "name": "Font scripts"
+          }
+        ]
+      },
+      {
+        "slug": "1c-bitrix",
+        "name": "1C-Bitrix",
+        "versions": [],
+        "trafficRank": 298,
+        "confirmedAt": 1636902583,
+        "categories": [
+          {
+            "id": 1,
+            "slug": "cms",
+            "name": "CMS"
+          },
+          {
+            "id": 6,
+            "slug": "ecommerce",
+            "name": "Ecommerce"
+          }
+        ]
+      },
+      {
+        "slug": "google-analytics",
+        "name": "Google Analytics",
+        "versions": [],
+        "trafficRank": 298,
+        "confirmedAt": 1636902583,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      }
+    ]
+  }
+]

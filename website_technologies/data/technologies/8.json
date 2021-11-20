@@ -1,0 +1,162 @@
+[
+  {
+    "url": "https://itmo.ru/",
+    "technologies": [
+      {
+        "slug": "google-analytics",
+        "name": "Google Analytics",
+        "versions": [],
+        "trafficRank": 601,
+        "confirmedAt": 1635395931,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "google-tag-manager",
+        "name": "Google Tag Manager",
+        "versions": [],
+        "trafficRank": 1052,
+        "confirmedAt": 1635533086,
+        "categories": [
+          {
+            "id": 42,
+            "slug": "tag-managers",
+            "name": "Tag managers"
+          }
+        ]
+      },
+      {
+        "slug": "facebook",
+        "name": "Facebook",
+        "versions": [],
+        "trafficRank": 1052,
+        "confirmedAt": 1635533086,
+        "categories": [
+          {
+            "id": 5,
+            "slug": "widgets",
+            "name": "Widgets"
+          }
+        ]
+      },
+      {
+        "slug": "php",
+        "name": "PHP",
+        "versions": [],
+        "trafficRank": 1052,
+        "confirmedAt": 1635533086,
+        "categories": [
+          {
+            "id": 27,
+            "slug": "programming-languages",
+            "name": "Programming languages"
+          }
+        ]
+      },
+      {
+        "slug": "facebook-pixel",
+        "name": "Facebook Pixel",
+        "versions": [
+          "2.9.47"
+        ],
+        "trafficRank": 1052,
+        "confirmedAt": 1635533086,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "jquery",
+        "name": "jQuery",
+        "versions": [
+          "2.2.4"
+        ],
+        "trafficRank": 1052,
+        "confirmedAt": 1635533086,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "swiper-slider",
+        "name": "Swiper Slider",
+        "versions": [],
+        "trafficRank": 1052,
+        "confirmedAt": 1635533086,
+        "categories": [
+          {
+            "id": 19,
+            "slug": "miscellaneous",
+            "name": "Miscellaneous"
+          }
+        ]
+      },
+      {
+        "slug": "bootstrap",
+        "name": "Bootstrap",
+        "versions": [
+          "3.3.7"
+        ],
+        "trafficRank": 1052,
+        "confirmedAt": 1635533086,
+        "categories": [
+          {
+            "id": 66,
+            "slug": "ui-frameworks",
+            "name": "UI frameworks"
+          }
+        ]
+      },
+      {
+        "slug": "gsap",
+        "name": "GSAP",
+        "versions": [
+          "1.18.5"
+        ],
+        "trafficRank": 1052,
+        "confirmedAt": 1635533086,
+        "categories": [
+          {
+            "id": 12,
+            "slug": "javascript-frameworks",
+            "name": "JavaScript frameworks"
+          }
+        ]
+      },
+      {
+        "slug": "nginx",
+        "name": "Nginx",
+        "versions": [
+          "1.19.8"
+        ],
+        "trafficRank": 1118,
+        "confirmedAt": 1635533086,
+        "categories": [
+          {
+            "id": 22,
+            "slug": "web-servers",
+            "name": "Web servers"
+          },
+          {
+            "id": 64,
+            "slug": "reverse-proxies",
+            "name": "Reverse proxies"
+          }
+        ]
+      }
+    ]
+  }
+]

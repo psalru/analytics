@@ -1,0 +1,261 @@
+[
+  {
+    "url": "https://www.rudn.ru/",
+    "technologies": [
+      {
+        "slug": "google-sign-in",
+        "name": "Google Sign-in",
+        "versions": [],
+        "trafficRank": 245,
+        "confirmedAt": 1635343361,
+        "categories": [
+          {
+            "id": 69,
+            "slug": "authentication",
+            "name": "Authentication"
+          }
+        ]
+      },
+      {
+        "slug": "slick",
+        "name": "Slick",
+        "versions": [],
+        "trafficRank": 431,
+        "confirmedAt": 1635588480,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "google-tag-manager",
+        "name": "Google Tag Manager",
+        "versions": [],
+        "trafficRank": 431,
+        "confirmedAt": 1635588480,
+        "categories": [
+          {
+            "id": 42,
+            "slug": "tag-managers",
+            "name": "Tag managers"
+          }
+        ]
+      },
+      {
+        "slug": "jquery-migrate",
+        "name": "jQuery Migrate",
+        "versions": [
+          "1.2.1",
+          "1.4.1"
+        ],
+        "trafficRank": 431,
+        "confirmedAt": 1635588480,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "moment-js",
+        "name": "Moment.js",
+        "versions": [
+          "2.8.4"
+        ],
+        "trafficRank": 431,
+        "confirmedAt": 1635588480,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "jquery",
+        "name": "jQuery",
+        "versions": [
+          "1.9.1",
+          "1.12.4"
+        ],
+        "trafficRank": 431,
+        "confirmedAt": 1635588480,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "yandex-metrika",
+        "name": "Yandex.Metrika",
+        "versions": [],
+        "trafficRank": 431,
+        "confirmedAt": 1635588480,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "fancybox",
+        "name": "FancyBox",
+        "versions": [
+          "3.0.47",
+          "3.1.20"
+        ],
+        "trafficRank": 431,
+        "confirmedAt": 1635588480,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "plyr",
+        "name": "Plyr",
+        "versions": [],
+        "trafficRank": 431,
+        "confirmedAt": 1635588480,
+        "categories": [
+          {
+            "id": 14,
+            "slug": "video-players",
+            "name": "Video players"
+          }
+        ]
+      },
+      {
+        "slug": "bootstrap",
+        "name": "Bootstrap",
+        "versions": [],
+        "trafficRank": 431,
+        "confirmedAt": 1635588480,
+        "categories": [
+          {
+            "id": 66,
+            "slug": "ui-frameworks",
+            "name": "UI frameworks"
+          }
+        ]
+      },
+      {
+        "slug": "google-remarketing-tag",
+        "name": "Google Remarketing Tag",
+        "versions": [],
+        "trafficRank": 431,
+        "confirmedAt": 1635588480,
+        "categories": [
+          {
+            "id": 77,
+            "slug": "retargeting",
+            "name": "Retargeting"
+          }
+        ]
+      },
+      {
+        "slug": "jquery-ui",
+        "name": "jQuery UI",
+        "versions": [
+          "1.10.3",
+          "1.12.1"
+        ],
+        "trafficRank": 431,
+        "confirmedAt": 1635588480,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "select2",
+        "name": "Select2",
+        "versions": [],
+        "trafficRank": 431,
+        "confirmedAt": 1635588480,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "owl-carousel",
+        "name": "OWL Carousel",
+        "versions": [],
+        "trafficRank": 431,
+        "confirmedAt": 1635588480,
+        "categories": [
+          {
+            "id": 5,
+            "slug": "widgets",
+            "name": "Widgets"
+          }
+        ]
+      },
+      {
+        "slug": "php",
+        "name": "PHP",
+        "versions": [
+          "5.6.40"
+        ],
+        "trafficRank": 434,
+        "confirmedAt": 1635588480,
+        "categories": [
+          {
+            "id": 27,
+            "slug": "programming-languages",
+            "name": "Programming languages"
+          }
+        ]
+      },
+      {
+        "slug": "apache",
+        "name": "Apache",
+        "versions": [],
+        "trafficRank": 434,
+        "confirmedAt": 1635588480,
+        "categories": [
+          {
+            "id": 22,
+            "slug": "web-servers",
+            "name": "Web servers"
+          }
+        ]
+      },
+      {
+        "slug": "google-analytics",
+        "name": "Google Analytics",
+        "versions": [],
+        "trafficRank": 434,
+        "confirmedAt": 1635588480,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,221 @@
+[
+  {
+    "url": "https://www.msmsu.ru/",
+    "technologies": [
+      {
+        "slug": "sectigo",
+        "name": "Sectigo",
+        "versions": [],
+        "trafficRank": 0,
+        "confirmedAt": 1636443102,
+        "categories": [
+          {
+            "id": 70,
+            "slug": "ssl-tls-certificate-authorities",
+            "name": "SSL/TLS certificate authorities"
+          }
+        ]
+      },
+      {
+        "slug": "periodic",
+        "name": "Periodic",
+        "versions": [],
+        "trafficRank": 0,
+        "confirmedAt": 1633054998,
+        "categories": [
+          {
+            "id": 72,
+            "slug": "appointment-scheduling",
+            "name": "Appointment scheduling"
+          }
+        ]
+      },
+      {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "versions": [],
+        "trafficRank": 72,
+        "confirmedAt": 1633547545,
+        "categories": [
+          {
+            "id": 27,
+            "slug": "programming-languages",
+            "name": "Programming languages"
+          }
+        ]
+      },
+      {
+        "slug": "twitter-ads",
+        "name": "Twitter Ads",
+        "versions": [],
+        "trafficRank": 72,
+        "confirmedAt": 1636443102,
+        "categories": [
+          {
+            "id": 36,
+            "slug": "advertising",
+            "name": "Advertising"
+          }
+        ]
+      },
+      {
+        "slug": "angular",
+        "name": "Angular",
+        "versions": [
+          "11.1.0"
+        ],
+        "trafficRank": 72,
+        "confirmedAt": 1633547545,
+        "categories": [
+          {
+            "id": 12,
+            "slug": "javascript-frameworks",
+            "name": "JavaScript frameworks"
+          }
+        ]
+      },
+      {
+        "slug": "twitter",
+        "name": "Twitter",
+        "versions": [],
+        "trafficRank": 110,
+        "confirmedAt": 1636443102,
+        "categories": [
+          {
+            "id": 5,
+            "slug": "widgets",
+            "name": "Widgets"
+          }
+        ]
+      },
+      {
+        "slug": "youtube",
+        "name": "YouTube",
+        "versions": [],
+        "trafficRank": 125,
+        "confirmedAt": 1636443102,
+        "categories": [
+          {
+            "id": 14,
+            "slug": "video-players",
+            "name": "Video players"
+          }
+        ]
+      },
+      {
+        "slug": "php",
+        "name": "PHP",
+        "versions": [],
+        "trafficRank": 152,
+        "confirmedAt": 1636443102,
+        "categories": [
+          {
+            "id": 27,
+            "slug": "programming-languages",
+            "name": "Programming languages"
+          }
+        ]
+      },
+      {
+        "slug": "jquery",
+        "name": "jQuery",
+        "versions": [
+          "2.2.2"
+        ],
+        "trafficRank": 152,
+        "confirmedAt": 1636443102,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "modernizr",
+        "name": "Modernizr",
+        "versions": [
+          "2.8.3"
+        ],
+        "trafficRank": 152,
+        "confirmedAt": 1636443102,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "yandex-metrika",
+        "name": "Yandex.Metrika",
+        "versions": [],
+        "trafficRank": 152,
+        "confirmedAt": 1636443102,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "fancybox",
+        "name": "FancyBox",
+        "versions": [
+          "2.1.5"
+        ],
+        "trafficRank": 152,
+        "confirmedAt": 1636443102,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "nginx",
+        "name": "Nginx",
+        "versions": [],
+        "trafficRank": 174,
+        "confirmedAt": 1636443102,
+        "categories": [
+          {
+            "id": 22,
+            "slug": "web-servers",
+            "name": "Web servers"
+          },
+          {
+            "id": 64,
+            "slug": "reverse-proxies",
+            "name": "Reverse proxies"
+          }
+        ]
+      },
+      {
+        "slug": "1c-bitrix",
+        "name": "1C-Bitrix",
+        "versions": [],
+        "trafficRank": 152,
+        "confirmedAt": 1636443102,
+        "categories": [
+          {
+            "id": 1,
+            "slug": "cms",
+            "name": "CMS"
+          },
+          {
+            "id": 6,
+            "slug": "ecommerce",
+            "name": "Ecommerce"
+          }
+        ]
+      }
+    ]
+  }
+]

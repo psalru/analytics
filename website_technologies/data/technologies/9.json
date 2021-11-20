@@ -1,0 +1,268 @@
+[
+  {
+    "url": "https://urfu.ru/",
+    "technologies": [
+      {
+        "slug": "cart-functionality",
+        "name": "Cart Functionality",
+        "versions": [],
+        "trafficRank": 311,
+        "confirmedAt": 1635583032,
+        "categories": [
+          {
+            "id": 6,
+            "slug": "ecommerce",
+            "name": "Ecommerce"
+          }
+        ]
+      },
+      {
+        "slug": "google-tag-manager",
+        "name": "Google Tag Manager",
+        "versions": [],
+        "trafficRank": 353,
+        "confirmedAt": 1635583032,
+        "categories": [
+          {
+            "id": 42,
+            "slug": "tag-managers",
+            "name": "Tag managers"
+          }
+        ]
+      },
+      {
+        "slug": "facebook",
+        "name": "Facebook",
+        "versions": [],
+        "trafficRank": 353,
+        "confirmedAt": 1635583032,
+        "categories": [
+          {
+            "id": 5,
+            "slug": "widgets",
+            "name": "Widgets"
+          }
+        ]
+      },
+      {
+        "slug": "php",
+        "name": "PHP",
+        "versions": [],
+        "trafficRank": 353,
+        "confirmedAt": 1635583032,
+        "categories": [
+          {
+            "id": 27,
+            "slug": "programming-languages",
+            "name": "Programming languages"
+          }
+        ]
+      },
+      {
+        "slug": "facebook-pixel",
+        "name": "Facebook Pixel",
+        "versions": [
+          "2.9.5",
+          "2.9.47",
+          "2.9.48"
+        ],
+        "trafficRank": 353,
+        "confirmedAt": 1635583032,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "moment-js",
+        "name": "Moment.js",
+        "versions": [
+          "2.17.0"
+        ],
+        "trafficRank": 353,
+        "confirmedAt": 1635583032,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "jquery",
+        "name": "jQuery",
+        "versions": [
+          "1.11.0"
+        ],
+        "trafficRank": 353,
+        "confirmedAt": 1635583032,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "modernizr",
+        "name": "Modernizr",
+        "versions": [
+          "2.8.3"
+        ],
+        "trafficRank": 353,
+        "confirmedAt": 1635583032,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "yandex-metrika",
+        "name": "Yandex.Metrika",
+        "versions": [],
+        "trafficRank": 353,
+        "confirmedAt": 1635583032,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "fancybox",
+        "name": "FancyBox",
+        "versions": [
+          "2.1.5"
+        ],
+        "trafficRank": 353,
+        "confirmedAt": 1635583032,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "addthis",
+        "name": "AddThis",
+        "versions": [],
+        "trafficRank": 353,
+        "confirmedAt": 1635583032,
+        "categories": [
+          {
+            "id": 5,
+            "slug": "widgets",
+            "name": "Widgets"
+          }
+        ]
+      },
+      {
+        "slug": "vue-js",
+        "name": "Vue.js",
+        "versions": [
+          "2.4.0"
+        ],
+        "trafficRank": 353,
+        "confirmedAt": 1635583032,
+        "categories": [
+          {
+            "id": 12,
+            "slug": "javascript-frameworks",
+            "name": "JavaScript frameworks"
+          }
+        ]
+      },
+      {
+        "slug": "jquery-ui",
+        "name": "jQuery UI",
+        "versions": [
+          "1.10.3"
+        ],
+        "trafficRank": 353,
+        "confirmedAt": 1635583032,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "datatables",
+        "name": "DataTables",
+        "versions": [
+          "1.10.12"
+        ],
+        "trafficRank": 353,
+        "confirmedAt": 1635583032,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "typo3-cms",
+        "name": "TYPO3 CMS",
+        "versions": [],
+        "trafficRank": 353,
+        "confirmedAt": 1635583032,
+        "categories": [
+          {
+            "id": 1,
+            "slug": "cms",
+            "name": "CMS"
+          }
+        ]
+      },
+      {
+        "slug": "select2",
+        "name": "Select2",
+        "versions": [],
+        "trafficRank": 353,
+        "confirmedAt": 1635583032,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "nginx",
+        "name": "Nginx",
+        "versions": [],
+        "trafficRank": 405,
+        "confirmedAt": 1635583032,
+        "categories": [
+          {
+            "id": 22,
+            "slug": "web-servers",
+            "name": "Web servers"
+          },
+          {
+            "id": 64,
+            "slug": "reverse-proxies",
+            "name": "Reverse proxies"
+          }
+        ]
+      }
+    ]
+  }
+]

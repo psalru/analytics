@@ -1,0 +1,225 @@
+[
+  {
+    "url": "https://new.mospolytech.ru/",
+    "technologies": [
+      {
+        "slug": "google-tag-manager",
+        "name": "Google Tag Manager",
+        "versions": [],
+        "trafficRank": 267,
+        "confirmedAt": 1634886598,
+        "categories": [
+          {
+            "id": 42,
+            "slug": "tag-managers",
+            "name": "Tag managers"
+          }
+        ]
+      },
+      {
+        "slug": "core-js",
+        "name": "core-js",
+        "versions": [
+          "2.6.3"
+        ],
+        "trafficRank": 267,
+        "confirmedAt": 1634886598,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "facebook",
+        "name": "Facebook",
+        "versions": [],
+        "trafficRank": 267,
+        "confirmedAt": 1634886598,
+        "categories": [
+          {
+            "id": 5,
+            "slug": "widgets",
+            "name": "Widgets"
+          }
+        ]
+      },
+      {
+        "slug": "php",
+        "name": "PHP",
+        "versions": [
+          "7.2.34"
+        ],
+        "trafficRank": 267,
+        "confirmedAt": 1634886598,
+        "categories": [
+          {
+            "id": 27,
+            "slug": "programming-languages",
+            "name": "Programming languages"
+          }
+        ]
+      },
+      {
+        "slug": "facebook-pixel",
+        "name": "Facebook Pixel",
+        "versions": [
+          "2.9.47"
+        ],
+        "trafficRank": 267,
+        "confirmedAt": 1634886598,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "jquery",
+        "name": "jQuery",
+        "versions": [
+          "2.1.3"
+        ],
+        "trafficRank": 267,
+        "confirmedAt": 1634886598,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "yandex-metrika",
+        "name": "Yandex.Metrika",
+        "versions": [],
+        "trafficRank": 267,
+        "confirmedAt": 1634886598,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "nginx",
+        "name": "Nginx",
+        "versions": [
+          "1.16.1"
+        ],
+        "trafficRank": 267,
+        "confirmedAt": 1634886598,
+        "categories": [
+          {
+            "id": 22,
+            "slug": "web-servers",
+            "name": "Web servers"
+          },
+          {
+            "id": 64,
+            "slug": "reverse-proxies",
+            "name": "Reverse proxies"
+          }
+        ]
+      },
+      {
+        "slug": "webpack",
+        "name": "webpack",
+        "versions": [],
+        "trafficRank": 267,
+        "confirmedAt": 1634886598,
+        "categories": [
+          {
+            "id": 19,
+            "slug": "miscellaneous",
+            "name": "Miscellaneous"
+          }
+        ]
+      },
+      {
+        "slug": "swiper-slider",
+        "name": "Swiper Slider",
+        "versions": [],
+        "trafficRank": 267,
+        "confirmedAt": 1634886598,
+        "categories": [
+          {
+            "id": 19,
+            "slug": "miscellaneous",
+            "name": "Miscellaneous"
+          }
+        ]
+      },
+      {
+        "slug": "google-remarketing-tag",
+        "name": "Google Remarketing Tag",
+        "versions": [],
+        "trafficRank": 267,
+        "confirmedAt": 1634886598,
+        "categories": [
+          {
+            "id": 77,
+            "slug": "retargeting",
+            "name": "Retargeting"
+          }
+        ]
+      },
+      {
+        "slug": "gsap",
+        "name": "GSAP",
+        "versions": [
+          "2.1.3"
+        ],
+        "trafficRank": 267,
+        "confirmedAt": 1634886598,
+        "categories": [
+          {
+            "id": 12,
+            "slug": "javascript-frameworks",
+            "name": "JavaScript frameworks"
+          }
+        ]
+      },
+      {
+        "slug": "1c-bitrix",
+        "name": "1C-Bitrix",
+        "versions": [],
+        "trafficRank": 267,
+        "confirmedAt": 1634886598,
+        "categories": [
+          {
+            "id": 1,
+            "slug": "cms",
+            "name": "CMS"
+          },
+          {
+            "id": 6,
+            "slug": "ecommerce",
+            "name": "Ecommerce"
+          }
+        ]
+      },
+      {
+        "slug": "google-analytics",
+        "name": "Google Analytics",
+        "versions": [],
+        "trafficRank": 267,
+        "confirmedAt": 1634886598,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      }
+    ]
+  }
+]

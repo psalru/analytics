@@ -1,0 +1,235 @@
+[
+  {
+    "url": "https://kbsu.ru/",
+    "technologies": [
+      {
+        "slug": "google-analytics-enhanced-ecommerce",
+        "name": "Google Analytics Enhanced eCommerce",
+        "versions": [],
+        "trafficRank": 58,
+        "confirmedAt": 1637172353,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "cart-functionality",
+        "name": "Cart Functionality",
+        "versions": [],
+        "trafficRank": 58,
+        "confirmedAt": 1637172353,
+        "categories": [
+          {
+            "id": 6,
+            "slug": "ecommerce",
+            "name": "Ecommerce"
+          }
+        ]
+      },
+      {
+        "slug": "firebase",
+        "name": "Firebase",
+        "versions": [
+          "4.13.0"
+        ],
+        "trafficRank": 66,
+        "confirmedAt": 1637172353,
+        "categories": [
+          {
+            "id": 34,
+            "slug": "databases",
+            "name": "Databases"
+          }
+        ]
+      },
+      {
+        "slug": "alexa-certified-site-metrics",
+        "name": "Alexa Certified Site Metrics",
+        "versions": [],
+        "trafficRank": 66,
+        "confirmedAt": 1637172353,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "php",
+        "name": "PHP",
+        "versions": [
+          "7.2.34"
+        ],
+        "trafficRank": 66,
+        "confirmedAt": 1637172353,
+        "categories": [
+          {
+            "id": 27,
+            "slug": "programming-languages",
+            "name": "Programming languages"
+          }
+        ]
+      },
+      {
+        "slug": "core-js",
+        "name": "core-js",
+        "versions": [
+          "2.5.5"
+        ],
+        "trafficRank": 66,
+        "confirmedAt": 1637172353,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "jquery",
+        "name": "jQuery",
+        "versions": [
+          "1.12.4"
+        ],
+        "trafficRank": 66,
+        "confirmedAt": 1637172353,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "wordpress",
+        "name": "WordPress",
+        "versions": [],
+        "trafficRank": 66,
+        "confirmedAt": 1637172353,
+        "categories": [
+          {
+            "id": 1,
+            "slug": "cms",
+            "name": "CMS"
+          },
+          {
+            "id": 11,
+            "slug": "blogs",
+            "name": "Blogs"
+          }
+        ]
+      },
+      {
+        "slug": "mysql",
+        "name": "MySQL",
+        "versions": [],
+        "trafficRank": 66,
+        "confirmedAt": 1637172353,
+        "categories": [
+          {
+            "id": 34,
+            "slug": "databases",
+            "name": "Databases"
+          }
+        ]
+      },
+      {
+        "slug": "jquery-migrate",
+        "name": "jQuery Migrate",
+        "versions": [
+          "1.4.1"
+        ],
+        "trafficRank": 66,
+        "confirmedAt": 1637172353,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "google-analytics",
+        "name": "Google Analytics",
+        "versions": [],
+        "trafficRank": 66,
+        "confirmedAt": 1637172353,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "yandex-metrika",
+        "name": "Yandex.Metrika",
+        "versions": [],
+        "trafficRank": 66,
+        "confirmedAt": 1637172353,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "recaptcha",
+        "name": "reCAPTCHA",
+        "versions": [],
+        "trafficRank": 66,
+        "confirmedAt": 1637172353,
+        "categories": [
+          {
+            "id": 16,
+            "slug": "security",
+            "name": "Security"
+          }
+        ]
+      },
+      {
+        "slug": "debian",
+        "name": "Debian",
+        "versions": [],
+        "trafficRank": 101,
+        "confirmedAt": 1637172353,
+        "categories": [
+          {
+            "id": 28,
+            "slug": "operating-systems",
+            "name": "Operating systems"
+          }
+        ]
+      },
+      {
+        "slug": "apache",
+        "name": "Apache",
+        "versions": [
+          "2.4.10",
+          "2.4.37"
+        ],
+        "trafficRank": 109,
+        "confirmedAt": 1637172353,
+        "categories": [
+          {
+            "id": 22,
+            "slug": "web-servers",
+            "name": "Web servers"
+          }
+        ]
+      }
+    ]
+  }
+]

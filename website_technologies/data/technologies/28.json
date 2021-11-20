@@ -1,0 +1,210 @@
+[
+  {
+    "url": "https://mai.ru/",
+    "technologies": [
+      {
+        "slug": "core-js",
+        "name": "core-js",
+        "versions": [
+          "2.6.3",
+          "3.0.0"
+        ],
+        "trafficRank": 356,
+        "confirmedAt": 1635421090,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "google-tag-manager",
+        "name": "Google Tag Manager",
+        "versions": [],
+        "trafficRank": 426,
+        "confirmedAt": 1635578979,
+        "categories": [
+          {
+            "id": 42,
+            "slug": "tag-managers",
+            "name": "Tag managers"
+          }
+        ]
+      },
+      {
+        "slug": "php",
+        "name": "PHP",
+        "versions": [],
+        "trafficRank": 556,
+        "confirmedAt": 1635714681,
+        "categories": [
+          {
+            "id": 27,
+            "slug": "programming-languages",
+            "name": "Programming languages"
+          }
+        ]
+      },
+      {
+        "slug": "1c-bitrix",
+        "name": "1C-Bitrix",
+        "versions": [],
+        "trafficRank": 556,
+        "confirmedAt": 1635714681,
+        "categories": [
+          {
+            "id": 1,
+            "slug": "cms",
+            "name": "CMS"
+          },
+          {
+            "id": 6,
+            "slug": "ecommerce",
+            "name": "Ecommerce"
+          }
+        ]
+      },
+      {
+        "slug": "google-remarketing-tag",
+        "name": "Google Remarketing Tag",
+        "versions": [],
+        "trafficRank": 565,
+        "confirmedAt": 1635578979,
+        "categories": [
+          {
+            "id": 77,
+            "slug": "retargeting",
+            "name": "Retargeting"
+          }
+        ]
+      },
+      {
+        "slug": "facebook",
+        "name": "Facebook",
+        "versions": [],
+        "trafficRank": 578,
+        "confirmedAt": 1635714681,
+        "categories": [
+          {
+            "id": 5,
+            "slug": "widgets",
+            "name": "Widgets"
+          }
+        ]
+      },
+      {
+        "slug": "facebook-pixel",
+        "name": "Facebook Pixel",
+        "versions": [
+          "2.9.5",
+          "2.9.47",
+          "2.9.48"
+        ],
+        "trafficRank": 578,
+        "confirmedAt": 1635714681,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "jquery",
+        "name": "jQuery",
+        "versions": [
+          "1.11.1"
+        ],
+        "trafficRank": 578,
+        "confirmedAt": 1635714681,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "yandex-metrika",
+        "name": "Yandex.Metrika",
+        "versions": [],
+        "trafficRank": 578,
+        "confirmedAt": 1635714681,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "twitter-ads",
+        "name": "Twitter Ads",
+        "versions": [],
+        "trafficRank": 578,
+        "confirmedAt": 1635714681,
+        "categories": [
+          {
+            "id": 36,
+            "slug": "advertising",
+            "name": "Advertising"
+          }
+        ]
+      },
+      {
+        "slug": "bootstrap",
+        "name": "Bootstrap",
+        "versions": [
+          "3.3.1"
+        ],
+        "trafficRank": 578,
+        "confirmedAt": 1635714681,
+        "categories": [
+          {
+            "id": 66,
+            "slug": "ui-frameworks",
+            "name": "UI frameworks"
+          }
+        ]
+      },
+      {
+        "slug": "nginx",
+        "name": "Nginx",
+        "versions": [],
+        "trafficRank": 581,
+        "confirmedAt": 1635714681,
+        "categories": [
+          {
+            "id": 22,
+            "slug": "web-servers",
+            "name": "Web servers"
+          },
+          {
+            "id": 64,
+            "slug": "reverse-proxies",
+            "name": "Reverse proxies"
+          }
+        ]
+      },
+      {
+        "slug": "google-analytics",
+        "name": "Google Analytics",
+        "versions": [],
+        "trafficRank": 581,
+        "confirmedAt": 1635714681,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      }
+    ]
+  }
+]

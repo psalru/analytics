@@ -1,0 +1,187 @@
+[
+  {
+    "url": "https://pstu.ru/",
+    "technologies": [
+      {
+        "slug": "google-font-api",
+        "name": "Google Font API",
+        "versions": [],
+        "trafficRank": 192,
+        "confirmedAt": 1635567664,
+        "categories": [
+          {
+            "id": 17,
+            "slug": "font-scripts",
+            "name": "Font scripts"
+          }
+        ]
+      },
+      {
+        "slug": "google-tag-manager",
+        "name": "Google Tag Manager",
+        "versions": [],
+        "trafficRank": 352,
+        "confirmedAt": 1635574340,
+        "categories": [
+          {
+            "id": 42,
+            "slug": "tag-managers",
+            "name": "Tag managers"
+          }
+        ]
+      },
+      {
+        "slug": "jquery",
+        "name": "jQuery",
+        "versions": [
+          "1.11.1"
+        ],
+        "trafficRank": 369,
+        "confirmedAt": 1635574340,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "yandex-metrika",
+        "name": "Yandex.Metrika",
+        "versions": [],
+        "trafficRank": 369,
+        "confirmedAt": 1635574340,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "fancybox",
+        "name": "FancyBox",
+        "versions": [
+          "3.5.7"
+        ],
+        "trafficRank": 369,
+        "confirmedAt": 1635574340,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "google-remarketing-tag",
+        "name": "Google Remarketing Tag",
+        "versions": [],
+        "trafficRank": 369,
+        "confirmedAt": 1635574340,
+        "categories": [
+          {
+            "id": 77,
+            "slug": "retargeting",
+            "name": "Retargeting"
+          }
+        ]
+      },
+      {
+        "slug": "jquery-ui",
+        "name": "jQuery UI",
+        "versions": [
+          "1.10.3"
+        ],
+        "trafficRank": 369,
+        "confirmedAt": 1635574340,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "google-analytics",
+        "name": "Google Analytics",
+        "versions": [],
+        "trafficRank": 369,
+        "confirmedAt": 1635574340,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "php",
+        "name": "PHP",
+        "versions": [
+          "7.3.20"
+        ],
+        "trafficRank": 495,
+        "confirmedAt": 1635574340,
+        "categories": [
+          {
+            "id": 27,
+            "slug": "programming-languages",
+            "name": "Programming languages"
+          }
+        ]
+      },
+      {
+        "slug": "apache",
+        "name": "Apache",
+        "versions": [
+          "2.4.6"
+        ],
+        "trafficRank": 495,
+        "confirmedAt": 1635574340,
+        "categories": [
+          {
+            "id": 22,
+            "slug": "web-servers",
+            "name": "Web servers"
+          }
+        ]
+      },
+      {
+        "slug": "centos",
+        "name": "CentOS",
+        "versions": [],
+        "trafficRank": 495,
+        "confirmedAt": 1635574340,
+        "categories": [
+          {
+            "id": 28,
+            "slug": "operating-systems",
+            "name": "Operating systems"
+          }
+        ]
+      },
+      {
+        "slug": "openssl",
+        "name": "OpenSSL",
+        "versions": [
+          "1.0.2k"
+        ],
+        "trafficRank": 495,
+        "confirmedAt": 1635574340,
+        "categories": [
+          {
+            "id": 33,
+            "slug": "web-server-extensions",
+            "name": "Web server extensions"
+          }
+        ]
+      }
+    ]
+  }
+]

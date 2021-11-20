@@ -1,0 +1,216 @@
+[
+  {
+    "url": "https://www.1spbgmu.ru/",
+    "technologies": [
+      {
+        "slug": "google-font-api",
+        "name": "Google Font API",
+        "versions": [],
+        "trafficRank": 100,
+        "confirmedAt": 1634405590,
+        "categories": [
+          {
+            "id": 17,
+            "slug": "font-scripts",
+            "name": "Font scripts"
+          }
+        ]
+      },
+      {
+        "slug": "cart-functionality",
+        "name": "Cart Functionality",
+        "versions": [],
+        "trafficRank": 100,
+        "confirmedAt": 1634405590,
+        "categories": [
+          {
+            "id": 6,
+            "slug": "ecommerce",
+            "name": "Ecommerce"
+          }
+        ]
+      },
+      {
+        "slug": "jw-player",
+        "name": "JW Player",
+        "versions": [],
+        "trafficRank": 100,
+        "confirmedAt": 1634405590,
+        "categories": [
+          {
+            "id": 14,
+            "slug": "video-players",
+            "name": "Video players"
+          }
+        ]
+      },
+      {
+        "slug": "jquery-migrate",
+        "name": "jQuery Migrate",
+        "versions": [
+          "1.4.1"
+        ],
+        "trafficRank": 188,
+        "confirmedAt": 1635417041,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "jquery",
+        "name": "jQuery",
+        "versions": [
+          "1.12.4"
+        ],
+        "trafficRank": 188,
+        "confirmedAt": 1635417041,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "mootools",
+        "name": "MooTools",
+        "versions": [
+          "1.4.5"
+        ],
+        "trafficRank": 188,
+        "confirmedAt": 1635417041,
+        "categories": [
+          {
+            "id": 12,
+            "slug": "javascript-frameworks",
+            "name": "JavaScript frameworks"
+          }
+        ]
+      },
+      {
+        "slug": "yandex-metrika",
+        "name": "Yandex.Metrika",
+        "versions": [],
+        "trafficRank": 188,
+        "confirmedAt": 1635417041,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "joomla",
+        "name": "Joomla",
+        "versions": [],
+        "trafficRank": 188,
+        "confirmedAt": 1635417041,
+        "categories": [
+          {
+            "id": 1,
+            "slug": "cms",
+            "name": "CMS"
+          }
+        ]
+      },
+      {
+        "slug": "recaptcha",
+        "name": "reCAPTCHA",
+        "versions": [],
+        "trafficRank": 188,
+        "confirmedAt": 1635417041,
+        "categories": [
+          {
+            "id": 16,
+            "slug": "security",
+            "name": "Security"
+          }
+        ]
+      },
+      {
+        "slug": "google-analytics",
+        "name": "Google Analytics",
+        "versions": [],
+        "trafficRank": 188,
+        "confirmedAt": 1635417041,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "php",
+        "name": "PHP",
+        "versions": [
+          "5.5.38"
+        ],
+        "trafficRank": 267,
+        "confirmedAt": 1635417041,
+        "categories": [
+          {
+            "id": 27,
+            "slug": "programming-languages",
+            "name": "Programming languages"
+          }
+        ]
+      },
+      {
+        "slug": "freebsd",
+        "name": "FreeBSD",
+        "versions": [],
+        "trafficRank": 267,
+        "confirmedAt": 1635417041,
+        "categories": [
+          {
+            "id": 28,
+            "slug": "operating-systems",
+            "name": "Operating systems"
+          }
+        ]
+      },
+      {
+        "slug": "apache",
+        "name": "Apache",
+        "versions": [
+          "2.4.23"
+        ],
+        "trafficRank": 267,
+        "confirmedAt": 1635417041,
+        "categories": [
+          {
+            "id": 22,
+            "slug": "web-servers",
+            "name": "Web servers"
+          }
+        ]
+      },
+      {
+        "slug": "openssl",
+        "name": "OpenSSL",
+        "versions": [
+          "1.0.1s"
+        ],
+        "trafficRank": 267,
+        "confirmedAt": 1635417041,
+        "categories": [
+          {
+            "id": 33,
+            "slug": "web-server-extensions",
+            "name": "Web server extensions"
+          }
+        ]
+      }
+    ],
+    "crawl": true
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "url": "https://kemsu.ru/",
+    "technologies": [
+      {
+        "slug": "php",
+        "name": "PHP",
+        "versions": [
+          "5.6.40"
+        ],
+        "trafficRank": 23,
+        "confirmedAt": 1636019468,
+        "categories": [
+          {
+            "id": 27,
+            "slug": "programming-languages",
+            "name": "Programming languages"
+          }
+        ]
+      },
+      {
+        "slug": "jquery",
+        "name": "jQuery",
+        "versions": [
+          "3.2.1"
+        ],
+        "trafficRank": 23,
+        "confirmedAt": 1636019468,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "yandex-metrika",
+        "name": "Yandex.Metrika",
+        "versions": [],
+        "trafficRank": 23,
+        "confirmedAt": 1636019468,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "fancybox",
+        "name": "FancyBox",
+        "versions": [
+          "3.2.10"
+        ],
+        "trafficRank": 23,
+        "confirmedAt": 1636019468,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "apache",
+        "name": "Apache",
+        "versions": [
+          "2.4.6"
+        ],
+        "trafficRank": 23,
+        "confirmedAt": 1636019468,
+        "categories": [
+          {
+            "id": 22,
+            "slug": "web-servers",
+            "name": "Web servers"
+          }
+        ]
+      },
+      {
+        "slug": "centos",
+        "name": "CentOS",
+        "versions": [],
+        "trafficRank": 23,
+        "confirmedAt": 1636019468,
+        "categories": [
+          {
+            "id": 28,
+            "slug": "operating-systems",
+            "name": "Operating systems"
+          }
+        ]
+      },
+      {
+        "slug": "recaptcha",
+        "name": "reCAPTCHA",
+        "versions": [],
+        "trafficRank": 23,
+        "confirmedAt": 1636019468,
+        "categories": [
+          {
+            "id": 16,
+            "slug": "security",
+            "name": "Security"
+          }
+        ]
+      },
+      {
+        "slug": "font-awesome",
+        "name": "Font Awesome",
+        "versions": [],
+        "trafficRank": 23,
+        "confirmedAt": 1636019468,
+        "categories": [
+          {
+            "id": 17,
+            "slug": "font-scripts",
+            "name": "Font scripts"
+          }
+        ]
+      },
+      {
+        "slug": "1c-bitrix",
+        "name": "1C-Bitrix",
+        "versions": [],
+        "trafficRank": 23,
+        "confirmedAt": 1636019468,
+        "categories": [
+          {
+            "id": 1,
+            "slug": "cms",
+            "name": "CMS"
+          },
+          {
+            "id": 6,
+            "slug": "ecommerce",
+            "name": "Ecommerce"
+          }
+        ]
+      },
+      {
+        "slug": "openssl",
+        "name": "OpenSSL",
+        "versions": [
+          "1.0.2k"
+        ],
+        "trafficRank": 23,
+        "confirmedAt": 1636019468,
+        "categories": [
+          {
+            "id": 33,
+            "slug": "web-server-extensions",
+            "name": "Web server extensions"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,265 @@
+[
+  {
+    "url": "https://sutd.ru/",
+    "technologies": [
+      {
+        "slug": "core-js",
+        "name": "core-js",
+        "versions": [
+          "2.6.3"
+        ],
+        "trafficRank": 34,
+        "confirmedAt": 1635782740,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "font-awesome",
+        "name": "Font Awesome",
+        "versions": [],
+        "trafficRank": 34,
+        "confirmedAt": 1635782740,
+        "categories": [
+          {
+            "id": 17,
+            "slug": "font-scripts",
+            "name": "Font scripts"
+          }
+        ]
+      },
+      {
+        "slug": "google-analytics",
+        "name": "Google Analytics",
+        "versions": [],
+        "trafficRank": 34,
+        "confirmedAt": 1635782740,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "slick",
+        "name": "Slick",
+        "versions": [],
+        "trafficRank": 86,
+        "confirmedAt": 1635782740,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "jquery-migrate",
+        "name": "jQuery Migrate",
+        "versions": [
+          "1.4.1"
+        ],
+        "trafficRank": 86,
+        "confirmedAt": 1635782740,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "php",
+        "name": "PHP",
+        "versions": [],
+        "trafficRank": 86,
+        "confirmedAt": 1635782740,
+        "categories": [
+          {
+            "id": 27,
+            "slug": "programming-languages",
+            "name": "Programming languages"
+          }
+        ]
+      },
+      {
+        "slug": "jquery",
+        "name": "jQuery",
+        "versions": [
+          "1.11.1"
+        ],
+        "trafficRank": 86,
+        "confirmedAt": 1635782740,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "yandex-metrika",
+        "name": "Yandex.Metrika",
+        "versions": [],
+        "trafficRank": 86,
+        "confirmedAt": 1635782740,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "jivochat",
+        "name": "JivoChat",
+        "versions": [
+          "45.2.0",
+          "45.10.0"
+        ],
+        "trafficRank": 86,
+        "confirmedAt": 1635782740,
+        "categories": [
+          {
+            "id": 52,
+            "slug": "live-chat",
+            "name": "Live chat"
+          }
+        ]
+      },
+      {
+        "slug": "recaptcha",
+        "name": "reCAPTCHA",
+        "versions": [],
+        "trafficRank": 86,
+        "confirmedAt": 1635782740,
+        "categories": [
+          {
+            "id": 16,
+            "slug": "security",
+            "name": "Security"
+          }
+        ]
+      },
+      {
+        "slug": "1c-bitrix",
+        "name": "1C-Bitrix",
+        "versions": [],
+        "trafficRank": 86,
+        "confirmedAt": 1635782740,
+        "categories": [
+          {
+            "id": 1,
+            "slug": "cms",
+            "name": "CMS"
+          },
+          {
+            "id": 6,
+            "slug": "ecommerce",
+            "name": "Ecommerce"
+          }
+        ]
+      },
+      {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "versions": [],
+        "trafficRank": 92,
+        "confirmedAt": 1633374047,
+        "categories": [
+          {
+            "id": 27,
+            "slug": "programming-languages",
+            "name": "Programming languages"
+          }
+        ]
+      },
+      {
+        "slug": "angular",
+        "name": "Angular",
+        "versions": [
+          "11.1.0"
+        ],
+        "trafficRank": 92,
+        "confirmedAt": 1633374047,
+        "categories": [
+          {
+            "id": 12,
+            "slug": "javascript-frameworks",
+            "name": "JavaScript frameworks"
+          }
+        ]
+      },
+      {
+        "slug": "google-font-api",
+        "name": "Google Font API",
+        "versions": [],
+        "trafficRank": 178,
+        "confirmedAt": 1635782740,
+        "categories": [
+          {
+            "id": 17,
+            "slug": "font-scripts",
+            "name": "Font scripts"
+          }
+        ]
+      },
+      {
+        "slug": "debian",
+        "name": "Debian",
+        "versions": [],
+        "trafficRank": 178,
+        "confirmedAt": 1635782740,
+        "categories": [
+          {
+            "id": 28,
+            "slug": "operating-systems",
+            "name": "Operating systems"
+          }
+        ]
+      },
+      {
+        "slug": "apache",
+        "name": "Apache",
+        "versions": [
+          "2.4.38"
+        ],
+        "trafficRank": 178,
+        "confirmedAt": 1635782740,
+        "categories": [
+          {
+            "id": 22,
+            "slug": "web-servers",
+            "name": "Web servers"
+          }
+        ]
+      },
+      {
+        "slug": "openssl",
+        "name": "OpenSSL",
+        "versions": [
+          "1.1.1d"
+        ],
+        "trafficRank": 178,
+        "confirmedAt": 1635782740,
+        "categories": [
+          {
+            "id": 33,
+            "slug": "web-server-extensions",
+            "name": "Web server extensions"
+          }
+        ]
+      }
+    ]
+  }
+]

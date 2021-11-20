@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://www.kstu.ru/",
+    "technologies": [
+      {
+        "slug": "apache-tomcat",
+        "name": "Apache Tomcat",
+        "versions": [],
+        "trafficRank": 20,
+        "confirmedAt": 1637043434,
+        "categories": [
+          {
+            "id": 22,
+            "slug": "web-servers",
+            "name": "Web servers"
+          }
+        ]
+      },
+      {
+        "slug": "nginx",
+        "name": "Nginx",
+        "versions": [
+          "1.16.1"
+        ],
+        "trafficRank": 31,
+        "confirmedAt": 1634802819,
+        "categories": [
+          {
+            "id": 22,
+            "slug": "web-servers",
+            "name": "Web servers"
+          },
+          {
+            "id": 64,
+            "slug": "reverse-proxies",
+            "name": "Reverse proxies"
+          }
+        ]
+      },
+      {
+        "slug": "jquery-migrate",
+        "name": "jQuery Migrate",
+        "versions": [
+          "1.2.1"
+        ],
+        "trafficRank": 34,
+        "confirmedAt": 1635445025,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "jquery",
+        "name": "jQuery",
+        "versions": [
+          "1.11.0"
+        ],
+        "trafficRank": 34,
+        "confirmedAt": 1635445025,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "yandex-metrika",
+        "name": "Yandex.Metrika",
+        "versions": [],
+        "trafficRank": 34,
+        "confirmedAt": 1635445025,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "java",
+        "name": "Java",
+        "versions": [],
+        "trafficRank": 54,
+        "confirmedAt": 1637043434,
+        "categories": [
+          {
+            "id": 27,
+            "slug": "programming-languages",
+            "name": "Programming languages"
+          }
+        ]
+      }
+    ]
+  }
+]

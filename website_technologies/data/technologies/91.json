@@ -1,0 +1,411 @@
+[
+  {
+    "url": "https://www.mgpu.ru/",
+    "technologies": [
+      {
+        "slug": "microsoft-365",
+        "name": "Microsoft 365",
+        "versions": [],
+        "trafficRank": 0,
+        "confirmedAt": 1637360994,
+        "categories": [
+          {
+            "id": 30,
+            "slug": "webmail",
+            "name": "Webmail"
+          },
+          {
+            "id": 75,
+            "slug": "email",
+            "name": "Email"
+          }
+        ]
+      },
+      {
+        "slug": "angular",
+        "name": "Angular",
+        "versions": [
+          "11.1.0"
+        ],
+        "trafficRank": 16,
+        "confirmedAt": 1635974947,
+        "categories": [
+          {
+            "id": 12,
+            "slug": "javascript-frameworks",
+            "name": "JavaScript frameworks"
+          }
+        ]
+      },
+      {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "versions": [],
+        "trafficRank": 16,
+        "confirmedAt": 1635974947,
+        "categories": [
+          {
+            "id": 27,
+            "slug": "programming-languages",
+            "name": "Programming languages"
+          }
+        ]
+      },
+      {
+        "slug": "fancybox",
+        "name": "FancyBox",
+        "versions": [
+          "2.1.5"
+        ],
+        "trafficRank": 23,
+        "confirmedAt": 1637360994,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "core-js",
+        "name": "core-js",
+        "versions": [
+          "2.6.4"
+        ],
+        "trafficRank": 23,
+        "confirmedAt": 1637360994,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "parcel",
+        "name": "parcel",
+        "versions": [],
+        "trafficRank": 23,
+        "confirmedAt": 1637360994,
+        "categories": [
+          {
+            "id": 19,
+            "slug": "miscellaneous",
+            "name": "Miscellaneous"
+          }
+        ]
+      },
+      {
+        "slug": "twitter-emoji-twemoji",
+        "name": "Twitter Emoji (Twemoji)",
+        "versions": [],
+        "trafficRank": 23,
+        "confirmedAt": 1637360994,
+        "categories": [
+          {
+            "id": 17,
+            "slug": "font-scripts",
+            "name": "Font scripts"
+          }
+        ]
+      },
+      {
+        "slug": "jquery-ui",
+        "name": "jQuery UI",
+        "versions": [
+          "1.11.4"
+        ],
+        "trafficRank": 23,
+        "confirmedAt": 1637360994,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "slick",
+        "name": "Slick",
+        "versions": [],
+        "trafficRank": 26,
+        "confirmedAt": 1637360994,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "nginx",
+        "name": "Nginx",
+        "versions": [],
+        "trafficRank": 26,
+        "confirmedAt": 1637360994,
+        "categories": [
+          {
+            "id": 22,
+            "slug": "web-servers",
+            "name": "Web servers"
+          },
+          {
+            "id": 64,
+            "slug": "reverse-proxies",
+            "name": "Reverse proxies"
+          }
+        ]
+      },
+      {
+        "slug": "animate-css",
+        "name": "animate.css",
+        "versions": [],
+        "trafficRank": 26,
+        "confirmedAt": 1637360994,
+        "categories": [
+          {
+            "id": 66,
+            "slug": "ui-frameworks",
+            "name": "UI frameworks"
+          }
+        ]
+      },
+      {
+        "slug": "owl-carousel",
+        "name": "OWL Carousel",
+        "versions": [],
+        "trafficRank": 26,
+        "confirmedAt": 1637360994,
+        "categories": [
+          {
+            "id": 5,
+            "slug": "widgets",
+            "name": "Widgets"
+          }
+        ]
+      },
+      {
+        "slug": "yoast-seo",
+        "name": "Yoast SEO",
+        "versions": [
+          "14.4.1"
+        ],
+        "trafficRank": 26,
+        "confirmedAt": 1637360994,
+        "categories": [
+          {
+            "id": 54,
+            "slug": "seo",
+            "name": "SEO"
+          },
+          {
+            "id": 87,
+            "slug": "wordpress-plugins",
+            "name": "WordPress plugins"
+          }
+        ]
+      },
+      {
+        "slug": "php",
+        "name": "PHP",
+        "versions": [],
+        "trafficRank": 26,
+        "confirmedAt": 1637360994,
+        "categories": [
+          {
+            "id": 27,
+            "slug": "programming-languages",
+            "name": "Programming languages"
+          }
+        ]
+      },
+      {
+        "slug": "jquery",
+        "name": "jQuery",
+        "versions": [
+          "1.12.4"
+        ],
+        "trafficRank": 26,
+        "confirmedAt": 1637360994,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "wordpress",
+        "name": "WordPress",
+        "versions": [
+          "5.3.6"
+        ],
+        "trafficRank": 26,
+        "confirmedAt": 1637360994,
+        "categories": [
+          {
+            "id": 1,
+            "slug": "cms",
+            "name": "CMS"
+          },
+          {
+            "id": 11,
+            "slug": "blogs",
+            "name": "Blogs"
+          }
+        ]
+      },
+      {
+        "slug": "mysql",
+        "name": "MySQL",
+        "versions": [],
+        "trafficRank": 26,
+        "confirmedAt": 1637360994,
+        "categories": [
+          {
+            "id": 34,
+            "slug": "databases",
+            "name": "Databases"
+          }
+        ]
+      },
+      {
+        "slug": "vk-pixel",
+        "name": "VK Pixel",
+        "versions": [],
+        "trafficRank": 26,
+        "confirmedAt": 1637360994,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "jquery-migrate",
+        "name": "jQuery Migrate",
+        "versions": [
+          "1.4.1"
+        ],
+        "trafficRank": 26,
+        "confirmedAt": 1637360994,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "font-awesome",
+        "name": "Font Awesome",
+        "versions": [],
+        "trafficRank": 26,
+        "confirmedAt": 1637360994,
+        "categories": [
+          {
+            "id": 17,
+            "slug": "font-scripts",
+            "name": "Font scripts"
+          }
+        ]
+      },
+      {
+        "slug": "modernizr",
+        "name": "Modernizr",
+        "versions": [
+          "2.8.3"
+        ],
+        "trafficRank": 26,
+        "confirmedAt": 1637360994,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "google-font-api",
+        "name": "Google Font API",
+        "versions": [],
+        "trafficRank": 26,
+        "confirmedAt": 1637360994,
+        "categories": [
+          {
+            "id": 17,
+            "slug": "font-scripts",
+            "name": "Font scripts"
+          }
+        ]
+      },
+      {
+        "slug": "bootstrap",
+        "name": "Bootstrap",
+        "versions": [
+          "3.3.7"
+        ],
+        "trafficRank": 26,
+        "confirmedAt": 1637360994,
+        "categories": [
+          {
+            "id": 66,
+            "slug": "ui-frameworks",
+            "name": "UI frameworks"
+          }
+        ]
+      },
+      {
+        "slug": "select2",
+        "name": "Select2",
+        "versions": [],
+        "trafficRank": 26,
+        "confirmedAt": 1637360994,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "google-analytics",
+        "name": "Google Analytics",
+        "versions": [],
+        "trafficRank": 26,
+        "confirmedAt": 1637360994,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "yandex-metrika",
+        "name": "Yandex.Metrika",
+        "versions": [],
+        "trafficRank": 26,
+        "confirmedAt": 1637360994,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      }
+    ]
+  }
+]

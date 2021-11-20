@@ -1,0 +1,221 @@
+[
+  {
+    "url": "https://ssmu.ru/",
+    "technologies": [
+      {
+        "slug": "periodic",
+        "name": "Periodic",
+        "versions": [],
+        "trafficRank": 0,
+        "confirmedAt": 1633054630,
+        "categories": [
+          {
+            "id": 72,
+            "slug": "appointment-scheduling",
+            "name": "Appointment scheduling"
+          }
+        ]
+      },
+      {
+        "slug": "core-js",
+        "name": "core-js",
+        "versions": [
+          "3.0.0"
+        ],
+        "trafficRank": 58,
+        "confirmedAt": 1635914955,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "facebook",
+        "name": "Facebook",
+        "versions": [],
+        "trafficRank": 88,
+        "confirmedAt": 1634995782,
+        "categories": [
+          {
+            "id": 5,
+            "slug": "widgets",
+            "name": "Widgets"
+          }
+        ]
+      },
+      {
+        "slug": "facebook-pixel",
+        "name": "Facebook Pixel",
+        "versions": [
+          "2.9.47"
+        ],
+        "trafficRank": 88,
+        "confirmedAt": 1634995782,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "jquery",
+        "name": "jQuery",
+        "versions": [
+          "1.10.2"
+        ],
+        "trafficRank": 88,
+        "confirmedAt": 1634995782,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "modernizr",
+        "name": "Modernizr",
+        "versions": [
+          "2.6.2"
+        ],
+        "trafficRank": 88,
+        "confirmedAt": 1634995782,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "yandex-metrika",
+        "name": "Yandex.Metrika",
+        "versions": [],
+        "trafficRank": 88,
+        "confirmedAt": 1634995782,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "nginx",
+        "name": "Nginx",
+        "versions": [],
+        "trafficRank": 88,
+        "confirmedAt": 1634995782,
+        "categories": [
+          {
+            "id": 22,
+            "slug": "web-servers",
+            "name": "Web servers"
+          },
+          {
+            "id": 64,
+            "slug": "reverse-proxies",
+            "name": "Reverse proxies"
+          }
+        ]
+      },
+      {
+        "slug": "alexa-certified-site-metrics",
+        "name": "Alexa Certified Site Metrics",
+        "versions": [],
+        "trafficRank": 88,
+        "confirmedAt": 1635914955,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "gsap",
+        "name": "GSAP",
+        "versions": [
+          "1.11.0"
+        ],
+        "trafficRank": 88,
+        "confirmedAt": 1635914955,
+        "categories": [
+          {
+            "id": 12,
+            "slug": "javascript-frameworks",
+            "name": "JavaScript frameworks"
+          }
+        ]
+      },
+      {
+        "slug": "jquery-ui",
+        "name": "jQuery UI",
+        "versions": [
+          "1.12.1"
+        ],
+        "trafficRank": 88,
+        "confirmedAt": 1634995782,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "select2",
+        "name": "Select2",
+        "versions": [],
+        "trafficRank": 88,
+        "confirmedAt": 1634995782,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "openresty",
+        "name": "OpenResty",
+        "versions": [],
+        "trafficRank": 88,
+        "confirmedAt": 1634995782,
+        "categories": [
+          {
+            "id": 22,
+            "slug": "web-servers",
+            "name": "Web servers"
+          }
+        ]
+      },
+      {
+        "slug": "google-analytics",
+        "name": "Google Analytics",
+        "versions": [],
+        "trafficRank": 88,
+        "confirmedAt": 1634995782,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      }
+    ],
+    "crawl": true
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "url": "https://mipt.ru/",
+    "technologies": [
+      {
+        "slug": "core-js",
+        "name": "core-js",
+        "versions": [
+          "3.0.0",
+          "3.15.2"
+        ],
+        "trafficRank": 874,
+        "confirmedAt": 1635527309,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "facebook-login",
+        "name": "Facebook Login",
+        "versions": [],
+        "trafficRank": 1094,
+        "confirmedAt": 1635707803,
+        "categories": [
+          {
+            "id": 69,
+            "slug": "authentication",
+            "name": "Authentication"
+          }
+        ]
+      },
+      {
+        "slug": "highlight-js",
+        "name": "Highlight.js",
+        "versions": [],
+        "trafficRank": 1226,
+        "confirmedAt": 1635707803,
+        "categories": [
+          {
+            "id": 19,
+            "slug": "miscellaneous",
+            "name": "Miscellaneous"
+          }
+        ]
+      },
+      {
+        "slug": "facebook",
+        "name": "Facebook",
+        "versions": [],
+        "trafficRank": 1235,
+        "confirmedAt": 1635707803,
+        "categories": [
+          {
+            "id": 5,
+            "slug": "widgets",
+            "name": "Widgets"
+          }
+        ]
+      },
+      {
+        "slug": "facebook-pixel",
+        "name": "Facebook Pixel",
+        "versions": [
+          "2.9.47",
+          "2.9.48"
+        ],
+        "trafficRank": 1235,
+        "confirmedAt": 1635707803,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "vue-js",
+        "name": "Vue.js",
+        "versions": [
+          "1.0.21"
+        ],
+        "trafficRank": 1282,
+        "confirmedAt": 1635707803,
+        "categories": [
+          {
+            "id": 12,
+            "slug": "javascript-frameworks",
+            "name": "JavaScript frameworks"
+          }
+        ]
+      },
+      {
+        "slug": "jquery-ui",
+        "name": "jQuery UI",
+        "versions": [
+          "1.8.20",
+          "1.8.24"
+        ],
+        "trafficRank": 1282,
+        "confirmedAt": 1635707803,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "yandex-metrika",
+        "name": "Yandex.Metrika",
+        "versions": [],
+        "trafficRank": 1582,
+        "confirmedAt": 1635707803,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "vk-pixel",
+        "name": "VK Pixel",
+        "versions": [],
+        "trafficRank": 1582,
+        "confirmedAt": 1635707803,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "jquery",
+        "name": "jQuery",
+        "versions": [
+          "1.8.3",
+          "2.2.1"
+        ],
+        "trafficRank": 1629,
+        "confirmedAt": 1635707803,
+        "categories": [
+          {
+            "id": 59,
+            "slug": "javascript-libraries",
+            "name": "JavaScript libraries"
+          }
+        ]
+      },
+      {
+        "slug": "1c-bitrix",
+        "name": "1C-Bitrix",
+        "versions": [],
+        "trafficRank": 1632,
+        "confirmedAt": 1635707803,
+        "categories": [
+          {
+            "id": 1,
+            "slug": "cms",
+            "name": "CMS"
+          },
+          {
+            "id": 6,
+            "slug": "ecommerce",
+            "name": "Ecommerce"
+          }
+        ]
+      },
+      {
+        "slug": "google-analytics",
+        "name": "Google Analytics",
+        "versions": [],
+        "trafficRank": 1642,
+        "confirmedAt": 1635707803,
+        "categories": [
+          {
+            "id": 10,
+            "slug": "analytics",
+            "name": "Analytics"
+          }
+        ]
+      },
+      {
+        "slug": "php",
+        "name": "PHP",
+        "versions": [],
+        "trafficRank": 1645,
+        "confirmedAt": 1635707803,
+        "categories": [
+          {
+            "id": 27,
+            "slug": "programming-languages",
+            "name": "Programming languages"
+          }
+        ]
+      },
+      {
+        "slug": "nginx",
+        "name": "Nginx",
+        "versions": [],
+        "trafficRank": 1925,
+        "confirmedAt": 1635707803,
+        "categories": [
+          {
+            "id": 22,
+            "slug": "web-servers",
+            "name": "Web servers"
+          },
+          {
+            "id": 64,
+            "slug": "reverse-proxies",
+            "name": "Reverse proxies"
+          }
+        ]
+      }
+    ]
+  }
+]
