@@ -1,0 +1,113 @@
+,site,path,name,is_download
+0,https://www.hse.ru/,sveden/education/,НИУ ВШЭ,True
+1,https://wwv.bmstu.ru/,sveden/education/,МГТУ Баумана,True
+2,https://mipt.ru/,sveden/education/eduAccred/,МФТИ,True
+3,https://eis.mephi.ru/,AccGateway/index.aspx?report_param_gosn=3&report_param_ismagister=false,НИЯУ МИФИ,True
+4,https://eis.mephi.ru/,AccGateway/index.aspx?report_param_gosn=3&report_param_ismagister=true&report_param_isbakspec=false,НИЯУ МИФИ,True
+5,https://misis.ru/,sveden/education/eduAccred/,МИСиС,True
+6,https://www.spbstu.ru/,sveden/education/list-educational-programs/,СПбПУ,True
+7,https://www.tsu.ru/,sveden/education,ТГУ,True
+8,https://www.tpu.ru/,sveden/education,ТПУ,True
+9,https://itmo.ru/,sveden/education/,ИТМО,True
+10,https://urfu.ru/,sveden/education/,УрФУ,False
+11,http://www.unn.ru/,sveden/education/edu-accred.php,ННГУ,True
+12,https://www.nsu.ru/,n/sveden/education/,НГУ,True
+13,https://www.sechenov.ru/,sveden/education/,Сеченовка,True
+14,https://rsmu.ru/,sveden/education/akkreditacija-programm-bakalavriata-i-specialiteta/,Пироговка,True
+15,https://rsmu.ru/,sveden/education/akkreditacija-programm-magistratury/,Пироговка,True
+16,https://www.timacad.ru/,sveden/education/eduAccred/,Тимирязевка,True
+17,https://www.susu.ru/,sites/default/files/ron/education.html,ЮУрГУ (НИУ),True
+18,https://sfedu.ru/,www/stat_pages22.show?p=GOV/N13190/P,Южный ФУ,False
+19,https://spmi.ru/,sveden/education/,СПГУ Горный,True
+20,https://www.gubkin.ru/,sveden/education/,РГУ Губкина,False
+21,https://spbu.ru/,sveden/education,СГУ,True
+22,https://pstu.ru/,sveden/education/,ПНИПУ,True
+23,https://www.vmeda.org/,sveden/,Воен-мед академия,True
+24,https://www.rudn.ru/,sveden/education,РУДН,True
+25,https://www.1spbgmu.ru/,sveden/education/,ПСПбГМУ Павлова Минздрава,True
+26,https://guap.ru/,sveden/education/tab1,ГУАП,True
+27,https://www.msmsu.ru/,sveden/education/,МГМСУ  Минздрава,True
+28,https://kpfu.ru/,sveden/education/,КФУ,False
+29,https://kubsau.ru/,sveden/education/04_01_eduAccred.php,Кубанский ГАУ,True
+30,https://mai.ru/,sveden/education/obrazovanie_1/,МАИ,True
+31,https://pimunn.ru/,sveden/education/,ПИМУ Минздрава,True
+32,https://www.ranepa.ru/,sveden/education/,РАНХиГС,True
+33,https://www.miit.ru/,sveden/education/accreditation,РУТ (МИИТ),True
+34,https://samsmu.ru/,sveden/education/,СамГМУ Минздрава России,True
+35,https://www.utmn.ru/,sveden/education/eduAccred/,ТюмГУ,False
+36,https://kantiana.ru/,sveden/education/,БФУ им. И. Канта,True
+37,https://bashgmu.ru/,sveden/education/eduAccred/,БГМУ Минздрава,True
+38,https://dekanat.bsu.edu.ru/,blocks/bsu_nabor/nabor.php?kvalif=2&tab=2021&facid=1&edformid=1,НИУ «БелГУ»,True
+39,https://dekanat.bsu.edu.ru/,blocks/bsu_nabor/nabor.php?kvalif=3&tab=2021&facid=1&edformid=1,НИУ «БелГУ»,True
+40,https://dekanat.bsu.edu.ru/,blocks/bsu_nabor/nabor.php?kvalif=4&tab=2021&facid=1&edformid=1,НИУ «БелГУ»,True
+41,https://www.dvfu.ru/,sveden/education/,ДВФУ,False
+42,https://cfuv.ru/,sveden/education/bakalavriat,КФУ Вернадского,True
+43,https://cfuv.ru/,sveden/education/magistratura,КФУ Вернадского,True
+44,https://cfuv.ru/,sveden/education/specialitet,КФУ Вернадского,True
+45,https://mgimo.ru/,sveden/education/bac.php,МГИМО,True
+46,https://mgimo.ru/,sveden/education/master.php,МГИМО,True
+47,https://nstu.ru/,sveden/education/,НГТУ,True
+48,https://www.muctr.ru/,sveden/education/,РХТУ Менделеева,True
+49,https://www.smtu.ru/,sveden/education/,СПБГМТУ,True
+50,https://etu.ru/,sveden/education/eduAccred/,ЛЭТИ,True
+51,https://www.sevsu.ru/,sveden/education/,СевГУ,False
+52,https://tusur.ru/,sveden/education/eduAccred,ТУСУР,True
+53,https://bashedu.ru/,sveden/education/eduAccred/,БашГУ,False
+54,https://www.omgtu.ru/,sveden/education/,ОмГТУ,False
+55,https://www.sfu-kras.ru/,sveden/education/eduAccred,СФУ,True
+56,https://rusoil.net/,sveden/education,УГНТУ,True
+57,https://nstu.ru/,sveden/education/,НГТУ,True
+58,https://www.istu.edu/,sveden/education/akred_spec,ИРНИТУ,True
+59,https://www.istu.edu/,sveden/education/akred_bak,ИРНИТУ,True
+60,https://www.istu.edu/,sveden/education/akred_mag,ИРНИТУ,True
+61,https://ssmu.ru/,sveden/education/,СибГМУ Минздрава,True
+62,http://new.stgau.ru/,sveden/education/eduAccred,Ставропольский ГАУ,True
+63,https://www.kstu.ru/,sveden/education/,КНИТУ,False
+64,https://mpei.ru/,sveden/education/Pages/default.aspx,МЭИ,True
+65,https://www.mirea.ru/,sveden/education/,РТУ МИРЭА,True
+66,https://mgsu.ru/,sveden/education/,НИУ МГСУ,False
+67,https://www.miet.ru/,sveden/education/eduAccred,НИУ МИЭТ,True
+68,https://sutd.ru/,sveden/education/,СПбГУПТД,True
+69,https://www.rea.ru/,sveden/education/,РЭУ Плеханова,True
+70,https://kai.ru/,sveden/education/,КНИТУ-КАИ,True
+71,http://www.psu.ru/,sveden/education/eduAccred/,ПГНИУ,False
+72,https://ssau.ru/,sveden/education,Самарский универ,True
+73,https://www.npi-tu.ru/,sveden/education/eduAccred/,ЮРГПУ(НПИ),False
+74,https://old.mospolytech.ru/,index.php?id=3124,Московский Политех,False
+75,https://www.asu.ru/,sveden/education/,АлтГУ,True
+76,https://asu.edu.ru/,sveden/education/,Астрахань ГУ,False
+77,https://www.vstu.ru/,sveden/education/,ВолгГТУ,True
+78,https://www.bstu.ru/,sveden/education,БГТУ им. В.Г. Шухова,True
+79,https://donstu.ru/,sveden/education/eduAccred/,ДГТУ,True
+80,https://kbsu.ru/,sveden/education/,КБГУ,True
+81,https://kemsu.ru/,sveden/education/,КемГУ,True
+82,https://mrsu.ru/,sveden/education/,МГУ им. Н.П. Огарёва,True
+83,https://www.novsu.ru/,sveden/education/,НовГУ,True
+84,http://oreluniver.ru/,sveden/education/eduaccred,ОГУ Тургенева,False
+85,https://www.s-vfu.ru/,,СВФУ,False
+86,https://www.ncfu.ru/,sveden/education/,СКФУ,True
+87,https://www.sibsau.ru/,sveden/education/,СибГУ Решетнева,True
+88,https://www.tltsu.ru/,sveden/education/,Тольятти ГУ,True
+89,https://msal.ru/,sveden/education/,МГЮА,False
+90,https://kgeu.ru/,sveden/education/,КГЭУ,True
+91,https://stankin.ru/,,СТАНКИН,False
+92,https://www.chesu.ru/,sveden/education/eduAccred/,Чеченский ГУ имени А.А. Кадырова,True
+93,https://marsu.ru/,sveden/education/eduAccred.php,Марийский ГУ,True
+94,https://pnu.edu.ru/,sveden/education/,ТОГУ,False
+95,https://udsu.ru/,sveden/education/,УдГУ,True
+96,https://sgau.ru/,sveden/education/eduAccred/,Саратовский ГАУ Вавилова,True
+97,https://www.uniyar.ac.ru/,,ЯрГУ,False
+98,https://www.adygnet.ru/,sveden/education/,Адыгейский ГУ,True
+99,https://new.vyatsu.ru/,admission/admission_special/?on_site_level=%D0%91%D0%B0%D0%BA%D0%B0%D0%BB%D0%B0%D0%B2%D1%80%D0%B8%D0%B0%D1%82/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%82%D0%B5%D1%82&on_site_form_ob=%D0%9E%D1%87%D0%BD%D0%B0%D1%8F,ВятГУ,True
+100,https://new.vyatsu.ru/,admission/admission_special/?on_site_level=%D0%91%D0%B0%D0%BA%D0%B0%D0%BB%D0%B0%D0%B2%D1%80%D0%B8%D0%B0%D1%82%2F%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%82%D0%B5%D1%82&on_site_form_ob=%D0%97%D0%B0%D0%BE%D1%87%D0%BD%D0%B0%D1%8F&other=,ВятГУ,True
+101,https://new.vyatsu.ru/,admission/admission_special/?on_site_level=%D0%9C%D0%B0%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0&on_site_form_ob=%D0%9E%D1%87%D0%BD%D0%B0%D1%8F&other=,ВятГУ,True
+102,https://www.mgpu.ru/,vo-new/,МГПУ,True
+103,http://www.osu.ru/,doc/4642,Оренбург ГУ,False
+104,https://pskgu.ru/,,ПсковГУ,False
+105,https://www.ulsu.ru/,ru/sveden/education/,УлГУ,True
+106,http://www.ursmu.ru/,,УГГУ,False
+107,https://tsutmb.ru/,sveden/education/,ТГУ имени Г.Р. Державина,True
+108,https://www.pgups.ru/,sveden/education/,ПГУПС,True
+109,http://smolgmu.ru/,sveden/education/,СГМУ Минздрава России,True
+110,https://www.tyumsmu.ru/,sveden/education/,Тюменский ГМУ Минздрава России,True
+111,https://swsu.ru/,sveden/education/eduAccred/,ЮЗГУ,True
