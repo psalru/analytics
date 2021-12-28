@@ -1,7 +1,7 @@
 import pandas as pd
 import requests
 
-university = pd.read_csv('data/university.csv')
+university = pd.read_csv('data/university.csv').query('id != "4twacwymeq"')
 
 for i, row in university.iterrows():
     id = row['id']
