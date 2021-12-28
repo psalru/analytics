@@ -4,3 +4,4 @@
 
 * [Фракционный счёт по данным WoS](wos_q1_q2_with_fractions/report.ipynb)
 * [Используемые технологии на сайтах университетов](website_technologies/report.ipynb)
+* [Объединенные данные по университетам](combined_analytics_data/report.ipynb) на базе данных с [оф. сайта программы](https://priority2030.ru/analytics/)
