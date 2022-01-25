@@ -1,0 +1,148 @@
+,site,path,name,isCandidate,is_download,is_manually
+0,https://www.adygnet.ru/,sveden/education/,АГУ (Майкоп),False,True,False
+1,https://vaganovaacademy.ru/,sveden/education/,Академия Русского балета имени А.Я. Вагановой,False,True,False
+2,https://www.asu.ru/,sveden/education/,АлтГУ,False,True,False
+3,https://www.amursu.ru/,sveden/education/eduAccred/,АмГУ,True,True,False
+4,https://asu.edu.ru/,sveden/education/,АГУ (Астрахань),False,False,False
+5,https://www.kantiana.ru/,sveden/education/,БФУ им. И. Канта,False,True,False
+6,https://bashgmu.ru/,sveden/education/eduAccred/,ФГБОУ ВО БГМУ Минздрава России,False,False,False
+7,https://bashedu.ru/,sveden/education/eduAccred/,БашГУ,False,False,False
+8,https://www.bsu.edu.ru/,blocks/bsu_nabor/nabor.php?kvalif=2&tab=2021&facid=1&edformid=1,НИУ «БелГУ»,False,False,False
+9,https://www.bsu.edu.ru/,blocks/bsu_nabor/nabor.php?tab=2021&kvalif=3&facid=1&edformid=1,НИУ «БелГУ»,False,False,False
+10,https://www.bsu.edu.ru/,blocks/bsu_nabor/nabor.php?kvalif=4&tab=2021&facid=1&edformid=1,НИУ «БелГУ»,False,False,False
+11,https://www.bstu.ru/,sveden/education,БГТУ им. В.Г. Шухова,False,True,False
+12,https://www.vstu.ru/,sveden/education/,ВолгГТУ,False,True,False
+13,https://vgik.info/,sveden/education/information-about-the-validity-of-the-state-accreditation-of-the-educational-program-the-languages-i.php,Всероссийский государственный институт кинематографии имени С.А.Герасимова,False,False,False
+14,https://www.hse.ru/,sveden/education/,НИУ ВШЭ,False,True,False
+15,https://new.vyatsu.ru/,admission/admission_special/?on_site_level=%D0%91%D0%B0%D0%BA%D0%B0%D0%BB%D0%B0%D0%B2%D1%80%D0%B8%D0%B0%D1%82/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%82%D0%B5%D1%82&on_site_form_ob=%D0%9E%D1%87%D0%BD%D0%B0%D1%8F,ВятГУ,False,True,False
+16,https://new.vyatsu.ru/,admission/admission_special/?on_site_level=%D0%91%D0%B0%D0%BA%D0%B0%D0%BB%D0%B0%D0%B2%D1%80%D0%B8%D0%B0%D1%82%2F%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%82%D0%B5%D1%82&on_site_form_ob=%D0%97%D0%B0%D0%BE%D1%87%D0%BD%D0%B0%D1%8F&other=,ВятГУ,False,True,False
+17,https://new.vyatsu.ru/,admission/admission_special/?on_site_level=%D0%9C%D0%B0%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0&on_site_form_ob=%D0%9E%D1%87%D0%BD%D0%B0%D1%8F&other=,ВятГУ,False,True,False
+18,https://spmi.ru/,sveden/education/,СПГУ,False,True,False
+19,https://www.dvfu.ru/,sveden/education/,ДВФУ,False,False,False
+20,https://donstu.ru/,sveden/education/eduAccred/ ,ДГТУ,False,False,False
+21,https://kbsu.ru/,sveden/education/,КБГУ,False,True,False
+22,https://kai.ru/,sveden/education/,КНИТУ-КАИ,False,True,False
+23,https://kpfu.ru/,sveden/education/,КФУ,False,False,False
+24,https://www.kemsu.ru/,sveden/education/,КемГУ,False,True,False
+25,https://cfuv.ru/,sveden/education/bakalavriat,ФГАОУ ВО «КФУ им. В.И. Вернадского»,False,True,False
+26,https://cfuv.ru/,sveden/education/magistratura,ФГАОУ ВО «КФУ им. В.И. Вернадского»,False,True,False
+27,https://cfuv.ru/,sveden/education/specialitet,ФГАОУ ВО «КФУ им. В.И. Вернадского»,False,True,False
+28,http://www.ksma.ru/,sveden/education/eduAccred/,Кубанский государственный медицинский университет,True,True,False
+29,https://mgimo.ru/,sveden/education/bac.php,МГИМО,False,True,False
+30,https://mgimo.ru/,sveden/education/master.php,МГИМО,False,True,False
+31,http://www.bmstu.ru/,sveden/education/,МГТУ им. Н.Э. Баумана,False,True,False
+32,https://mai.ru/,sveden/education/obrazovanie_1/,МАИ,False,True,False
+33,https://www.mgpu.ru/,vo-new/,ГАОУ ВО МГПУ,False,True,False
+34,https://miigaik.ru/,sveden/education/,МИИГАиК,True,False,False
+35,https://mgupp.ru/,sveden/education/,МГУПП,True,True,False
+36,http://mpgu.su/,sveden/education/,МПГУ,True,True,False
+37,https://old.mospolytech.ru/,index.php?id=3124,Московский Политех,False,False,False
+38,https://mipt.ru/,sveden/education/eduAccred/,МФТИ,False,False,False
+39,https://mrsu.ru/,sveden/education/,МГУ им. Н.П. Огарёва,False,True,False
+40,https://www.miet.ru/,sveden/education/eduAccred,НИУ МИЭТ,False,True,False
+41,https://eis.mephi.ru/,AccGateway/index.aspx?report_param_gosn=3&report_param_ismagister=false,НИЯУ МИФИ,False,True,False
+42,https://mephi.ru/,brdeyat/obrazovatelnye-programmy/undergraduate_and_specialties/biti,НИЯУ МИФИ,False,False,False
+43,https://mephi.ru/,obrdeyat/obrazovatelnye-programmy/undergraduate_and_specialties/viti,НИЯУ МИФИ,False,True,False
+44,https://mephi.ru/,obrdeyat/obrazovatelnye-programmy/undergraduate_and_specialties/diti,НИЯУ МИФИ,False,True,False
+45,https://mephi.ru/,obrdeyat/obrazovatelnye-programmy/undergraduate_and_specialties/nti,НИЯУ МИФИ,False,True,False
+46,https://mephi.ru/,obrdeyat/obrazovatelnye-programmy/undergraduate_and_specialties/iate,НИЯУ МИФИ,False,True,False
+47,https://mephi.ru/,obrdeyat/obrazovatelnye-programmy/undergraduate_and_specialties/oti,НИЯУ МИФИ,False,True,False
+48,https://mephi.ru/,obrdeyat/obrazovatelnye-programmy/undergraduate_and_specialties/sarfti,НИЯУ МИФИ,False,True,False
+49,https://mephi.ru/,obrdeyat/obrazovatelnye-programmy/undergraduate_and_specialties/sti,НИЯУ МИФИ,False,True,False
+50,https://mephi.ru/,obrdeyat/obrazovatelnye-programmy/undergraduate_and_specialties/sfti,НИЯУ МИФИ,False,True,False
+51,https://mephi.ru/,obrdeyat/obrazovatelnye-programmy/undergraduate_and_specialties/ti,НИЯУ МИФИ,False,True,False
+52,https://mephi.ru/,obrdeyat/obrazovatelnye-programmy/undergraduate_and_specialties/tti,НИЯУ МИФИ,False,True,False
+53,https://eis.mephi.ru/,AccGateway/index.aspx?report_param_gosn=3&report_param_ismagister=true&report_param_isbakspec=false,НИЯУ МИФИ,False,True,False
+54,https://mephi.ru/,obrdeyat/obrazovatelnye-programmy/graduate/spisok/viti,НИЯУ МИФИ,False,True,False
+55,https://mephi.ru/,obrdeyat/obrazovatelnye-programmy/graduate/spisok/diti,НИЯУ МИФИ,False,True,False
+56,https://mephi.ru/,obrdeyat/obrazovatelnye-programmy/graduate/spisok/iate,НИЯУ МИФИ,False,True,False
+57,https://mephi.ru/,obrdeyat/obrazovatelnye-programmy/graduate/spisok/sarfti,НИЯУ МИФИ,False,True,False
+58,https://mephi.ru/,obrdeyat/obrazovatelnye-programmy/graduate/spisok/sfti,НИЯУ МИФИ,False,True,False
+59,http://www.unn.ru/,sveden/education/edu-accred.php,ННГУ,False,True,False
+60,https://misis.ru/,sveden/education/eduAccred/,МИСиС,False,False,False
+61,https://mpei.ru/,sveden/education/Pages/default.aspx,МЭИ,False,True,False
+62,https://www.novsu.ru/,sveden/education/,НовГУ,False,True,False
+63,https://www.nntu.ru/,sveden/education/,НГТУ (Новосибирск),False,True,False
+64,https://www.nsu.ru/,n/sveden/education/,НГУ,False,True,False
+65,https://www.omgtu.ru/,sveden/education/,ОмГТУ,False,False,False
+66,http://www.osu.ru/,doc/4642,ОГУ,False,False,False
+67,http://oreluniver.ru/,sveden/education/eduaccred,ФГБОУ ВО «ОГУ им. И.С. Тургенева»,False,False,False
+68,http://www.psu.ru/,sveden/education/eduAccred/,ПГНИУ,False,False,False
+69,https://www.pskgu.ru/,sveden/education/?action=eduAccred,ПсковГУ,False,True,False
+70,https://gnesin-academy.ru/,sveden/education/eduop,РАМ имени Гнесиных,False,False,False
+71,https://www.gubkin.ru/,sveden/education/,Губкинский университет,False,False,False
+72,https://www.ranepa.ru/,sveden/education/,РАНХиГС,False,True,False
+73,http://www.gitis.net,about/svedeniya-ob-obrazovatelnoy-organizatsii/obrazovanie/,ГИТИС,False,False,False
+74,https://www.rudn.ru/,sveden/education,РУДН,False,True,False
+75,https://www.mirea.ru/,sveden/education/,РТУ МИРЭА,False,True,False
+76,http://www.muctr.ru,sveden/education/,РХТУ им. Д.И. Менделеева,False,False,False
+77,https://ssau.ru/,sveden/education,Самарский университет,False,True,False
+78,https://www.smtu.ru/,sveden/education/,СПБГМТУ,False,True,False
+79,https://guap.ru/,sveden/education/tab1,ГУАП,False,True,False
+80,https://www.spbstu.ru/,sveden/education/list-educational-programs/,Санкт-Петербургский политехнический университет Петра Великого,False,True,False
+81,https://www.sgu.ru/,sveden/education,СГУ,False,True,False
+82,https://www.sevsu.ru/,sveden/education/,СевГУ,False,False,False
+83,https://www.s-vfu.ru/,,СВФУ,False,False,False
+84,https://www.ncfu.ru/,sveden/education/,СКФУ,False,True,False
+85,https://www.sechenov.ru/,sveden/education/,ФГАОУ ВО Первый МГМУ им. И.М. Сеченова Минздрава России ,False,True,False
+86,https://www.sibsau.ru/,sveden/education/,СибГУ им. М.Ф. Решетнева,False,True,False
+87,https://www.sfu-kras.ru/,sveden/education/eduaccred,СФУ,False,True,False
+88,https://etu.ru/,sveden/education/eduAccred/,"СПбГЭТУ ""ЛЭТИ""",False,True,False
+89,http://www.surgu.ru/,sveden/education,СурГУ,True,True,False
+90,http://www.htvs.ru/,sveden/education/,Театральный институт имени Бориса Щукина,False,True,False
+91,https://www.tsu.ru/,sveden/education,ТГУ (Тольятти),False,True,False
+92,https://tsuab.ru/,sveden/education/eduaccred/,ТГАСУ,True,True,False
+93,https://www.tsu.ru/,sveden/education,ТГУ (Томск),False,True,False
+94,https://tusur.ru/,sveden/education/eduAccred,ТУСУР,False,False,False
+95,https://tpu.ru/,sveden/education,ТПУ,False,True,False
+96,https://tsput.ru/,sveden/education/,ТГПУ им. Л.Н. Толстого,True,False,False
+97,https://tsu.tula.ru/,education/eduOp/,ТулГУ,True,True,False
+98,https://www.utmn.ru/,sveden/education/eduAccred/,ТюмГУ,False,False,False
+99,https://ulsu.ru/,ru/sveden/education/,УлГУ,False,True,False
+100,https://www.msal.ru/,sveden/education/,МГЮА,False,False,False
+101,https://itmo.ru/,sveden/education/,ИТМО,False,True,False
+102,https://sutd.ru/,sveden/education/,СПбГУПТД,False,True,False
+103,http://www.ursmu.ru/,,УГГУ,False,False,False
+104,https://urfu.ru/,sveden/education/,УрФУ,False,False,False
+105,https://rusoil.net/,sveden/education,УГНТУ,False,True,False
+106,https://pstu.ru/,sveden/education/,ПНИПУ,False,True,False
+107,https://rsmu.ru/,sveden/education/akkreditacija-programm-bakalavriata-i-specialiteta/,ФГАОУ ВО РНИМУ им. Н.И. Пирогова Минздрава России,False,True,False
+108,https://rsmu.ru/,sveden/education/akkreditacija-programm-magistratury/,ФГАОУ ВО РНИМУ им. Н.И. Пирогова Минздрава России,False,True,False
+109,https://rut-miit.ru/,sveden/education/accreditation,РУТ (МИИТ),False,True,False
+110,https://www.kalmgu.ru/,/sveden/education/index.html,КалмГУ,True,True,False
+111,https://kgeu.ru/,sveden/education/,КГЭУ,False,True,False
+112,http://www.kstu.ru/,sveden/education/,"ФГБОУ ВО ""КНИТУ""",False,False,False
+113,https://stankin.ru/,sveden/education/,"ФГБОУ ВО ""МГТУ ""СТАНКИН""",False,True,False
+114,https://mgsu.ru/,sveden/education/,НИУ МГСУ,False,False,False
+115,https://www.nntu.ru/,sveden/education/,НГТУ (Нижний Новгород),False,True,False
+116,https://pimunn.ru/,sveden/education/,"ФГБОУ ВО ""ПИМУ"" Минздрава России",False,True,False
+117,https://www.chesu.ru/,sveden/education/eduAccred/,"""Чеченский государственный университет имени А.А. Кадырова""",False,False,False
+118,http://www.zabgu.ru/,sveden/education,ФГБОУ ВО «ЗабГУ»,True,True,False
+119,http://www.istu.edu/,sveden/education/akred_bak,ИРНИТУ,False,True,False
+120,http://www.istu.edu/,sveden/education/akred_spec,ИРНИТУ,False,True,False
+121,http://www.istu.edu/,sveden/education/akred_mag,ИРНИТУ,False,True,False
+122,https://marsu.ru/,sveden/education/eduAccred.php,"ФГБОУ ВО ""Марийский государственный университет""",False,True,False
+123,https://www.rea.ru/,sveden/education/,РЭУ им. Г.В. Плеханова,False,True,False
+124,https://www.tsutmb.ru/,sveden/education/,ТГУ имени Г.Р. Державина,False,True,False
+125,https://pnu.edu.ru/,sveden/education/,ТОГУ,False,True,False
+126,https://udsu.ru/,sveden/education/,УдГУ,False,True,False
+127,https://kazangmu.ru/,sveden/education/,Казанский ГМУ Минздрава России,True,True,False
+128,https://kubsau.ru/,sveden/education/04_01_eduAccred.php,Кубанский ГАУ,False,False,False
+129,https://www.msmsu.ru/,sveden/education/,МГМСУ имени А.И.Евдокимова Минздрава России,False,True,False
+130,https://mgppu.ru/,sveden/education,МГППУ,True,True,False
+131,https://www.pgups.ru/,sveden/education/,ПГУПС,False,True,False
+132,https://www.1spbgmu.ru/,sveden/education/,ПСПбГМУ им. И.П. Павлова Минздрава России,False,True,False
+133,https://www.timacad.ru/,sveden/education/eduAccred/,РГАУ-МСХА имени К.А. Тимирязева,False,False,False
+134,https://samsmu.ru/,sveden/education/,СамГМУ Минздрава России,False,True,False
+135,https://www.sgau.ru/,sveden/education/eduaccred/,Саратовский ГАУ,False,True,False
+136,http://www.nsmu.ru/,sveden/education/,СГМУ (г.Архангельск) Минздрава России,True,False,False
+137,http://www.smolgmu.ru/,sveden/education/,ФГБОУ ВО СГМУ Минздрава России,False,True,False
+138,https://www.ssmu.ru/,sveden/education/,ФГБОУ ВО СибГМУ Минздрава России,False,True,False
+139,http://www.stgau.ru/,sveden/education/eduaccred,Ставропольский ГАУ,False,True,False
+140,https://www.tyumsmu.ru/,sveden/education/,Тюменский ГМУ Минздрава России,False,True,False
+141,https://usma.ru/,sveden/education/eduAccred/,ФГБОУ ВО УГМУ Минздрава России,True,True,False
+142,https://swsu.ru/,sveden/education/eduAccred/,ЮЗГУ,False,False,False
+143,https://www.susu.ru/,sites/default/files/ron/education.html,"ФГАОУ ВО ""ЮУрГУ (НИУ)""",False,True,False
+144,https://sfedu.ru/,www/stat_pages22.show?p=GOV/N13190/P,Южный федеральный университет,False,False,False
+145,https://www.npi-tu.ru/,sveden/education/eduAccred/,ЮРГПУ(НПИ),False,False,False
+146,https://www.uniyar.ac.ru/,sveden/education/obr-prog.php,ЯрГУ,False,True,False

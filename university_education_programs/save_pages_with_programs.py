@@ -3,6 +3,7 @@ import requests
 
 df = pd.read_csv('data/pages_and_names.csv').fillna('')
 df['is_download'] = False
+df['is_manually'] = False
 
 for i, row in df.iterrows():
     if row.path != '':
@@ -15,7 +16,8 @@ for i, row in df.iterrows():
                     with open('data/pages/%d.html' % i, 'w') as file:
                         file.write(response.content.decode('utf-8'))
                     df.loc[i, 'is_download'] = True
+                    print('good:', i, url)
         except BaseException:
             print('fail:', i, url)
 
-df.to_csv('data/pages/download_report.csv')
+df.to_csv('data/download_report.csv')
