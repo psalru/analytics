@@ -1,4 +1,4 @@
-,site,path,name,isCandidate,is_download,is_manually
+id,site,path,name,isCandidate,is_download,is_manually
 0,https://www.adygnet.ru/,sveden/education/,АГУ (Майкоп),False,True,False
 1,https://vaganovaacademy.ru/,sveden/education/,Академия Русского балета имени А.Я. Вагановой,False,True,False
 2,https://www.asu.ru/,sveden/education/,АлтГУ,False,True,False
