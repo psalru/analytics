@@ -1,2 +1,4 @@
 downloaded/*
+datalens/*
+*.xlsx
 !**/.gitkeep
