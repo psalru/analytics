@@ -45,7 +45,7 @@ end_date = '2022-11-01'
 payload_tmpl = {**json.loads(Path('payload.json').read_text()), 'start_date': start_date, 'end_date': end_date}
 
 if home_resp.status_code == 200:
-    for i, university in university_list.iterrows():
+    for i, university in university_list[university_list['short_name'] != 'ВМА'].iterrows():
         university_id = university['rosrid_id']
         university_folder = f'data/downloaded/{university_id}'
 
