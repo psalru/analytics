@@ -84,7 +84,7 @@ def get_final_url(url: str, redirect_count=0):
         soup = BeautifulSoup(resp_get.text)
         meta_refresh = soup.find('meta', {'http-equiv': 'refresh'})
 
-        if meta_refresh:
+        if meta_refresh and len(meta_refresh.attrs['content'].split(';')) > 1:
             redirect_target = re.sub(r'url=', '', meta_refresh.attrs['content'].split(';')[1], flags=re.IGNORECASE)
         else:
             return url
