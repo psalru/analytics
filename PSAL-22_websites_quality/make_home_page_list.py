@@ -80,6 +80,8 @@ def get_final_url(url: str, redirect_count=0):
             resp_get = session.get(url, verify=False, timeout=5)
         except requests.exceptions.ReadTimeout:
             return np.NaN
+        except requests.exceptions.ConnectionError:
+            return np.NaN
 
         soup = BeautifulSoup(resp_get.text)
         meta_refresh = soup.find('meta', {'http-equiv': 'refresh'})
@@ -147,4 +149,5 @@ udf_stage_03 = udf_stage_03.apply(set_data_by_home_page, axis=1)
 
 #%% Сохраняем результаты
 
-udf_stage_03.replace({False: 0, True: 1}).to_excel('../data/PSAL-21_rating_parsing/universities_with_home_pages.xlsx', index=False)
+udf_stage_03.to_csv('../data/PSAL-22/universities_with_home_pages.csv', index=False)
+udf_stage_03.replace({False: 0, True: 1}).to_excel('../data/PSAL-22/universities_with_home_pages.xlsx', index=False)
