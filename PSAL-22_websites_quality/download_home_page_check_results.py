@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 api_key = os.getenv('GOOGLE_API_PAGESPEED')
-data_folder = '../data/PSAL-21_rating_parsing'
+data_folder = '../data/PSAL-22'
 universities = pd.read_excel(f"{data_folder}/universities_with_home_pages_final.xlsx")
 url_tpl = """
 https://www.googleapis.com/pagespeedonline/v5/runPagespeed?key={api_key}
@@ -26,8 +26,9 @@ for i, u in universities.iterrows():
     print(f"{i} / {len(universities) - 1}: {home_page} in progress", end='\r')
 
     for strategy in ['DESKTOP', 'MOBILE']:
-        file_name = f"{'0'*(len(str(len(universities) - 1)) - len(str(i))) + str(i)}_{domain.replace('.', '_')}_{strategy.lower()}.json"
-        result_path = f"{data_folder}/check_results/{file_name}"
+        number = f"{'0'*(len(str(len(universities) - 1)) - len(str(i))) + str(i)}"
+        file_name = f"{number}_{domain.replace('.', '_')}_{strategy.lower()}.json"
+        result_path = f"{data_folder}/home_page_check_results/api/{file_name}"
 
         if not os.path.isfile(result_path):
             resp = requests.get(url_tpl.format(
@@ -42,6 +43,6 @@ for i, u in universities.iterrows():
                 with open(result_path, 'w') as f:
                     json.dump(json_data, f, ensure_ascii=False, indent=4)
             else:
-                print(f"For {home_page} return status code {resp.status_code}")
+                print(f"# {number} - for {home_page} ({strategy.lower()}) return status code {resp.status_code}")
 
 print('All universities id checked!')
