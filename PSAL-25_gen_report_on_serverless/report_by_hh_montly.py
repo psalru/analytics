@@ -1,11 +1,14 @@
 import json
 import pandas as pd
 import matplotlib.pyplot as plt
+from datetime import datetime
 
 data_folder, fig_width = '../data/PSAL-25', 13
 texts = json.load(open('texts.json', 'r'))
 data = pd.DataFrame(columns=['value'])
 university = 'ИТМО'
+data.loc['university', 'value'] = university
+data.loc['datetime', 'value'] = datetime.now().strftime('%d.%m.%Y')
 df = pd.read_csv('https://storage.yandexcloud.net/psal.public/hosts/psal/dumps/hh_university_vacancies_by_month.csv', sep='|', index_col=0)
 df['salary'] = df.apply(lambda x: x['salary_to'] if not pd.isnull(x['salary_to']) else x['salary_from'], axis=1)
 region = df[df['university_abbreviation'] == university][['region', 'id']].groupby(by='region', as_index=False).count().sort_values(by='id', ascending=False).iloc[0]['region']
@@ -114,7 +117,7 @@ ax.set_ylim(0, stat_by_professional_roles['value'].max() * 1.15)
 
 for i, r in stat_by_professional_roles.iterrows():
     ax.annotate(
-        '{0:.0f} ({1:.2%})'.format(r['value'], r['percent']),
+        '{0:.0f} ({1:.2%}*)'.format(r['value'], r['percent']),
         (r['title'], r['value']),
         va='bottom', ha='center', xytext=(0, 10),
         textcoords='offset points', fontweight='bold',
