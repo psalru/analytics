@@ -5,11 +5,12 @@ from datetime import datetime
 
 data_folder, fig_width = '../data/PSAL-25', 13
 texts = json.load(open('texts.json', 'r'))
-data = pd.DataFrame(columns=['value'])
-university = 'ИТМО'
-data.loc['university', 'value'] = university
-data.loc['datetime', 'value'] = datetime.now().strftime('%d.%m.%Y')
+university_id = 50
 df = pd.read_csv('https://storage.yandexcloud.net/psal.public/hosts/psal/dumps/hh_university_vacancies_by_month.csv', sep='|', index_col=0)
+university = df[df['university_id'] == university_id][['university_abbreviation', 'id']].groupby(by='university_abbreviation', as_index=False).count().sort_values(by='id', ascending=False)['university_abbreviation'].unique()[0]
+data = pd.DataFrame(columns=['value'])
+data.loc['datetime', 'value'] = datetime.now().strftime('%d.%m.%Y')
+data.loc['university', 'value'] = university
 df['salary'] = df.apply(lambda x: x['salary_to'] if not pd.isnull(x['salary_to']) else x['salary_from'], axis=1)
 region = df[df['university_abbreviation'] == university][['region', 'id']].groupby(by='region', as_index=False).count().sort_values(by='id', ascending=False).iloc[0]['region']
 
@@ -18,8 +19,8 @@ region = df[df['university_abbreviation'] == university][['region', 'id']].group
 df_teachers = df[df['professional_roles'] == 'Учитель, преподаватель, педагог'].copy()
 teachers_mean_by_rf = df_teachers['salary'].mean() / 1000
 teachers_mean_by_region = df_teachers[df_teachers['region'] == region]['salary'].mean() / 1000
-teachers_mean_by_university = df_teachers[df_teachers['university_abbreviation'] == university]['salary'].mean() / 1000
-teachers_top_by_university = df_teachers[df_teachers['university_abbreviation'] == university].sort_values(by='salary', ascending=False).iloc[0]
+teachers_mean_by_university = df_teachers[df_teachers['university_id'] == university_id]['salary'].mean() / 1000
+teachers_top_by_university = df_teachers[df_teachers['university_id'] == university_id].sort_values(by='salary', ascending=False).iloc[0]
 stat_by_teachers = pd.DataFrame([
     {'title': 'РФ', 'value': teachers_mean_by_rf},
     {'title': region, 'value': teachers_mean_by_region},
@@ -57,12 +58,12 @@ df_researcher = df[df['professional_roles'] == 'Научный специали�
 stat_by_researcher = pd.DataFrame([
     {'title': 'РФ', 'value': df_researcher['salary'].mean() / 1000},
     {'title': region, 'value': df_researcher[df_researcher['region'] == region]['salary'].mean() / 1000},
-    {'title': university, 'value': df_researcher[df_researcher['university_abbreviation'] == university]['salary'].mean() / 1000},
+    {'title': university, 'value': df_researcher[df_researcher['university_id'] == university_id]['salary'].mean() / 1000},
 ]).dropna()
 researchers_mean_by_rf = df_researcher['salary'].mean() / 1000
 researchers_mean_by_region = df_researcher[df_researcher['region'] == region]['salary'].mean() / 1000
-researchers_mean_by_university = df_researcher[df_researcher['university_abbreviation'] == university]['salary'].mean() / 1000
-researchers_top_by_university = df_researcher[df_researcher['university_abbreviation'] == university].sort_values(by='salary', ascending=False).iloc[0]
+researchers_mean_by_university = df_researcher[df_researcher['university_id'] == university_id]['salary'].mean() / 1000
+researchers_top_by_university = df_researcher[df_researcher['university_id'] == university_id].sort_values(by='salary', ascending=False).iloc[0]
 data.loc['description_researcher', 'value'] = texts['empty'].format(
     prof_role='Учитель, преподаватель, педагог'
 ) if university not in list(stat_by_researcher['title'].unique()) else texts['not_empty'].format(
@@ -91,8 +92,8 @@ plt.close(fig)
 
 #%% Распределение вакансий по проф. ролям
 
-teachers_count = len(df_teachers[df_teachers['university_abbreviation'] == university])
-researchers_count = len(df_researcher[df_researcher['university_abbreviation'] == university])
+teachers_count = len(df_teachers[df_teachers['university_id'] == university_id])
+researchers_count = len(df_researcher[df_researcher['university_id'] == university_id])
 stat_by_professional_roles = pd.DataFrame([
     {
         'title': 'ППС',
@@ -106,8 +107,8 @@ stat_by_professional_roles = pd.DataFrame([
     },
     {
         'title': 'Остальное',
-        'value': len(df[df['university_abbreviation'] == university]) - teachers_count - researchers_count,
-        'percent': (len(df[df['university_abbreviation'] == university]) - teachers_count - researchers_count) / len(df)
+        'value': len(df[df['university_id'] == university_id]) - teachers_count - researchers_count,
+        'percent': (len(df[df['university_id'] == university_id]) - teachers_count - researchers_count) / len(df)
     },
 ])
 
