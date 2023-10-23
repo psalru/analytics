@@ -2,4 +2,5 @@
 .ipynb_checkpoints
 .env
 data/*
+PSAL-X*
 !**/.gitkeep
