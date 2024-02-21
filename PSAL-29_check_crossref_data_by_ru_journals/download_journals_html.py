@@ -6,12 +6,11 @@ import pandas as pd
 data_folder = '../data/PSAL-29'
 url_tmp = 'https://journalrank.rcsi.science/ru/record-sources/details/{0}/'
 # Скачать исходный CSV-файл можно на странице https://journalrank.rcsi.science/ru/record-sources/
-df = pd.read_csv(f"{data_folder}/journalrank.csv", sep='\t', low_memory=False)
-df_filtered = df[df['cref'] == 'Yes'][['title', 'level', 'oax_id', 'cref']].dropna(subset=['oax_id']).copy().reset_index(drop=True)
+log = pd.DataFrame(columns=['journal_id', 'path'])
+count_of_journals = 30040
 session = requests.Session()
 
-for i, r in df_filtered.iterrows():
-    journal_id, journal_title = i+1, r['title']
+for journal_id in range(1, count_of_journals + 1):
     html_path = f"{data_folder}/html/{journal_id}.html"
 
     if not os.path.isfile(html_path):
@@ -22,14 +21,20 @@ for i, r in df_filtered.iterrows():
             with open(html_path, 'w') as f:
                 f.write(resp.text)
 
-            df_filtered.loc[i, 'downloaded'] = html_path
+            log.loc[len(log)] = {
+                'journal_id': journal_id,
+                'path': html_path
+            }
         else:
             print(f"{url} return status code {resp.status_code}")
 
         time.sleep(0.1)
     else:
-        df_filtered.loc[i, 'downloaded'] = html_path
+        log.loc[len(log)] = {
+            'journal_id': journal_id,
+            'path': html_path
+        }
 
-    print(f"{journal_id} / {len(df_filtered)} - {journal_title} downloaded!", end='\r')
+    print(f"{journal_id} / {count_of_journals} downloaded!", end='\r')
 
-df_filtered.to_csv(f"{data_folder}/download_log.csv", index=False)
+log.to_csv(f"{data_folder}/download_log.csv", index=False)
