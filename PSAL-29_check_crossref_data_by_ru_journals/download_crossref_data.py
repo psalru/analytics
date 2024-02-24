@@ -1,8 +1,10 @@
 import os
+import time
 import json
 import warnings
 import pandas as pd
 from habanero import Crossref
+from requests.exceptions import HTTPError
 
 # Игнорим: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
 warnings.filterwarnings("ignore", category=FutureWarning)
@@ -40,10 +42,18 @@ for i, r in doi_df.iterrows():
         os.makedirs(doi_folder)
 
     if not os.path.isfile(doi_path):
-        crossref_resp = crossref.works(ids=r['doi'])
+        try:
+            crossref_resp = crossref.works(ids=doi)
 
-        with open(doi_path, 'w') as f:
-            json.dump(crossref_resp, f, indent=4, ensure_ascii=False)
+            with open(doi_path, 'w') as f:
+                json.dump(crossref_resp, f, indent=4, ensure_ascii=False)
+        except HTTPError as e:
+            if e.response.status_code == 404:
+                print(f"{doi} id skipped...")
+            else:
+                raise Exception(e)
+
+        time.sleep(0.5)
 
     doi_df.loc[i, 'status'] = 'Done'
 
