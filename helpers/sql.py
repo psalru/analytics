@@ -1,4 +1,6 @@
 import os
+import numpy as np
+import pandas as pd
 from dotenv import load_dotenv
 from sqlalchemy import create_engine
 
@@ -19,3 +21,11 @@ def get_engine(host: str = db_host, db: str = db_default, echo_flag: bool = Fals
     )
 
     return engine
+
+
+def read_sql(sql_query: str, host: str = db_host, db: str = db_default, echo_flag: bool = False) -> pd.DataFrame:
+    engine = get_engine(host, db, echo_flag)
+    df = pd.read_sql(sql_query, engine).replace([None], np.NaN)
+    engine.dispose()
+
+    return df
