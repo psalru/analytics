@@ -5,7 +5,7 @@ import pandas as pd
 from habanero import Crossref
 from requests.exceptions import HTTPError
 
-data_folder = os.path.join(os.path.dirname(__file__), '../../data/ANALYTICS-115')
+data_folder = os.path.join(os.path.dirname(__file__), '../data/PSAL-29')
 crossref = Crossref()
 df = pd.read_csv(f"{data_folder}/log_openalex_download.csv").query('works_count > 0')
 doi_df = pd.DataFrame(columns=['openalex_id', 'doi'])

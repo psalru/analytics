@@ -2,9 +2,8 @@ import os
 import pandas as pd
 from bs4 import BeautifulSoup
 
-data_folder = '../../data/ANALYTICS-115'
-data_folder_ni = '../../data/ANALYTICS-58'
-ni = pd.read_excel(f"{data_folder_ni}/ni_2023_with_issn_from_oa_hm.xlsx")
+data_folder = '../data/PSAL-29'
+ni = pd.read_excel(f"{data_folder}/ni_2023_with_issn_from_oa_hm.xlsx")
 df = pd.DataFrame(columns=['id', 'level', 'title', 'issn', 'doi_registrator', 'openalex', 'country', 'is_ru', 'is_ni', 'path'])
 files = os.listdir(f"{data_folder}/html")
 ni_issns = set()
