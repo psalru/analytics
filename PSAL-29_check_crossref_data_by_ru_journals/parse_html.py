@@ -2,9 +2,19 @@ import os
 import pandas as pd
 from bs4 import BeautifulSoup
 
-data_folder = '../data/PSAL-29'
-df = pd.DataFrame(columns=['id', 'level', 'title', 'issn', 'doi_registrator', 'openalex', 'country', 'is_ru', 'path'])
+data_folder = '../../data/ANALYTICS-115'
+data_folder_ni = '../../data/ANALYTICS-58'
+ni = pd.read_excel(f"{data_folder_ni}/ni_2023_with_issn_from_oa_hm.xlsx")
+df = pd.DataFrame(columns=['id', 'level', 'title', 'issn', 'doi_registrator', 'openalex', 'country', 'is_ru', 'is_ni', 'path'])
 files = os.listdir(f"{data_folder}/html")
+ni_issns = set()
+
+# Добавляем ISSN-ы из Nature Index
+for i, r in ni.iterrows():
+    col_with_issn = 'oa_issn' if not pd.isnull(r['oa_issn']) else 'issn'
+
+    for issn in r[col_with_issn].split(', '):
+        ni_issns.add(issn)
 
 for i, f in enumerate(files):
     if i % 500 == 0:
@@ -52,8 +62,9 @@ for i, f in enumerate(files):
             'openalex': ', '.join(openalex),
             'country': ', '.join(countries),
             'is_ru': 'Россия' in countries,
+            'is_ni': len(list(filter(lambda x: x in ni_issns, issn))) > 0,
             'path': path
         }
 
-russian_journals = df[(df['is_ru']) & (df['doi_registrator'] == 'Crossref')].copy()
-russian_journals.to_csv(f'{data_folder}/russian_journals.csv', index=False)
+filtered_journals = df[((df['is_ru']) | (df['is_ni'])) & (df['doi_registrator'] == 'Crossref')].copy()
+filtered_journals.to_csv(f'{data_folder}/filtered_journals.csv', index=False)

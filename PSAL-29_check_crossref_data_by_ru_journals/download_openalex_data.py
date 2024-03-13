@@ -26,8 +26,8 @@ def get_data_by_url(url: str, page=1, per_page=200, is_recursive=True) -> []:
     return data
 
 
-data_folder = '../data/PSAL-29'
-df = pd.read_csv(f"{data_folder}/russian_journals.csv").dropna(subset=['openalex'])
+data_folder = '../../data/ANALYTICS-115'
+df = pd.read_csv(f"{data_folder}/filtered_journals.csv").dropna(subset=['openalex'])
 df['openalex'] = df['openalex'].apply(lambda x: x.split(', '))
 df = df.explode('openalex').reset_index(drop=True)
 

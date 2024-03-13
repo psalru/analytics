@@ -1,15 +1,11 @@
 import os
 import time
 import json
-import warnings
 import pandas as pd
 from habanero import Crossref
 from requests.exceptions import HTTPError
 
-# Игнорим: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
-warnings.filterwarnings("ignore", category=FutureWarning)
-
-data_folder = os.path.join(os.path.dirname(__file__), '../data/PSAL-29')
+data_folder = os.path.join(os.path.dirname(__file__), '../../data/ANALYTICS-115')
 crossref = Crossref()
 df = pd.read_csv(f"{data_folder}/log_openalex_download.csv").query('works_count > 0')
 doi_df = pd.DataFrame(columns=['openalex_id', 'doi'])
@@ -22,10 +18,10 @@ for i, r in df.iterrows():
         with open(works_path, 'r') as f:
             json_data = json.load(f)
 
-        doi_df = doi_df.append(
-            pd.DataFrame({'openalex_id': openalex_id, 'doi': [x['doi'].replace('https://doi.org/', '') for x in json_data]}),
-            ignore_index=True
-        )
+        doi_df = pd.concat([
+            doi_df,
+            pd.DataFrame({'openalex_id': openalex_id, 'doi': [x['doi'].replace('https://doi.org/', '') for x in json_data]})
+        ], ignore_index=True)
 
 doi_df['status'] = 'In progress'
 
@@ -58,4 +54,3 @@ for i, r in doi_df.iterrows():
     doi_df.loc[i, 'status'] = 'Done'
 
 doi_df.to_csv(f"{data_folder}/log_crossref_download.csv", index=False)
-
